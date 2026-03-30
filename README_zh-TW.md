@@ -137,7 +137,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **12079** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年3月30日 星期一 中午12:13:20 [UTC]** |
+| 🔄 最後更新 | **2026年3月30日 星期一 下午4:18:40 [UTC]** |
 
 </div>
 
@@ -646,54 +646,54 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 > 📝 按發布日期排序（最新優先）
 
-### No. 1: 個人檔案 / 頭像 - Ultra-Clean Realistic Human and Stylized 3D Caricature Composition Prompt
+### No. 1: 個人檔案 / 頭像 - 超乾淨寫實人物與 3D 風格化卡通肖像構圖提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A detailed prompt for Gemini Nano Banana 2 to generate an image featuring a real subject and a stylized 3D caricature of the same subject in a single frame, emphasizing strict identity preservation for the real subject and exaggerated Pixar/Disney style for the caricature, with specific composition and lighting requirements.
+一份為 Gemini Nano Banana 2 設計的詳細提示詞，用於在單一畫面中生成真實主體及其 3D 風格化卡通肖像。強調真實主體的嚴格身分保留，以及卡通肖像的 Pixar/Disney 風格誇張處理，並包含特定的構圖與光影要求。
 
 #### 📝 提示詞
 
 ```
-Proportions, skin tone, hairstyle, and all recognizable features. Do not alter or stylize the real face.
-Composition & Framing:
+比例、膚色、髮型以及所有可辨識的特徵。請勿改變或風格化真實臉部。
+構圖與取景：
 
-Full-body vertical shot with a clean, centered layout. The real subject stands on the right, and the caricature stands on the left at approximately 50–60% of the real subject’s height. The real subject casually rests one elbow on the caricature’s oversized head, creating a natural, playful interaction.
-Real Subject (Photographic):
+全身垂直鏡頭，採用乾淨、置中的佈局。真實主體站在右側，卡通肖像站在左側，高度約為真實主體的 50%–60%。真實主體的一隻手肘自然地靠在卡通肖像的大頭上，營造出自然、俏皮的互動感。
+真實主體（攝影級）：
 
-Ultra-realistic rendering with natural skin texture and fine detail. Expression is warm, relaxed, and confident.
-Pose & Style (IMPORTANT):
+超寫實渲染，具備自然的皮膚紋理與細節。表情溫暖、放鬆且自信。
+姿勢與風格（重要）：
 
-The subject stands in a slightly cool, stylish posture — relaxed stance with subtle asymmetry (one leg slightly forward or weight shifted), shoulders loose, not stiff. The hand resting on the caricature should feel effortless and natural.
-Clothing (Match Reference):
+主體呈現略顯酷炫、時尚的姿勢——放鬆的站姿，帶有細微的不對稱感（一隻腳稍微向前或重心偏移），肩膀放鬆，不僵硬。手靠在卡通肖像上的動作應感覺輕鬆自然。
+服裝（參考匹配）：
 
-{argument name="clothing" default="Gray crewneck sweater (fine knit texture, ribbed cuffs/hem), classic blue jeans (straight fit), and clean white sneakers"}. Keep textures realistic and clearly visible.
-3D Caricature (Stylized Version):
+{argument name="clothing" default="灰色圓領毛衣（細針織紋理，羅紋袖口/下擺）、經典藍色牛仔褲（直筒剪裁）以及乾淨的白色運動鞋"}。保持紋理真實且清晰可見。
+3D 卡通肖像（風格化版本）：
 
-Pixar/Disney-inspired 3D style with exaggerated proportions — large expressive head and smaller body. The height should be noticeably shorter, around the real subject's waist level.
-Facial features must remain recognizable but enhanced — larger eyes, softer forms, slightly amplified smile.
-Emotion & Body Movement (IMPORTANT):
+Pixar/Disney 風格的 3D 造型，比例誇張——大而生動的頭部與較小的身體。高度應明顯較矮，大約在真實主體的腰部位置。
+臉部特徵必須保持可辨識但經過強化——更大的眼睛、更柔和的輪廓、稍微放大的笑容。
+情緒與肢體動作（重要）：
 
-Expression is more playful and animated than the real subject
+表情比真實主體更俏皮、更生動
 
-Eyes brighter and more expressive, smile slightly exaggerated
-Body posture must NOT be stiff — use a natural, lively stance
+眼睛更明亮且富有表現力，笑容略顯誇張
+身體姿勢絕對不能僵硬——使用自然、活潑的站姿
 
-Add subtle movement according to the real subject's personality
+根據真實主體的個性加入細微的動作
 
-Pose should feel like a living, animated character, not a rigid figurine
-Clothing:
+姿勢應感覺像是一個活生生的動畫角色，而非僵硬的公仔
+服裝：
 
-Exact 1:1 stylized recreation of the real subject’s outfit with soft 3D textures.
-Lighting & Environment:
+真實主體服裝的 1:1 風格化重現，具備柔軟的 3D 紋理。
+光影與環境：
 
-Soft, diffused studio lighting from the upper-left, creating smooth highlights and gentle shadows. Clean light-gray gradient seamless background(lighter in the inner areas).
-Output Style:
+來自左上方的柔和漫射攝影棚燈光，創造出平滑的高光與柔和的陰影。乾淨的淺灰色漸層無縫背景（內部區域較亮）。
+輸出風格：
 
-Ultra-clean, cinematic, high-detail render with strong contrast between realistic human and stylized 3D character. Both subjects grounded with soft natural shadows.
+超乾淨、電影感、高細節渲染，在真實人類與風格化 3D 角色之間形成強烈對比。兩者皆以柔和的自然陰影穩固於地面。
 ```
 
 #### 🖼️ 生成圖片
@@ -701,13 +701,13 @@ Ultra-clean, cinematic, high-detail render with strong contrast between realisti
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853743905_2bin9v_HElVBfvbQAAz-YW.jpg" width="600" alt="個人檔案 / 頭像 - Ultra-Clean Realistic Human and Stylized 3D Caricature Composition Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853743905_2bin9v_HElVBfvbQAAz-YW.jpg" width="600" alt="個人檔案 / 頭像 - 超乾淨寫實人物與 3D 風格化卡通肖像構圖提示詞 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853744016_4rsnca_HElVBdja4AA9Jh4.jpg" width="600" alt="個人檔案 / 頭像 - Ultra-Clean Realistic Human and Stylized 3D Caricature Composition Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853744016_4rsnca_HElVBdja4AA9Jh4.jpg" width="600" alt="個人檔案 / 頭像 - 超乾淨寫實人物與 3D 風格化卡通肖像構圖提示詞 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -721,21 +721,21 @@ Ultra-clean, cinematic, high-detail render with strong contrast between realisti
 
 ---
 
-### No. 2: 個人檔案 / 頭像 - 3D Cartoon Caricature with Identity Preservation
+### No. 2: 個人檔案 / 頭像 - 具備身份特徵的 3D 卡通漫畫風格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for Google Gemini Nano Banana Pro to transform an uploaded image into a stylized 3D cartoon caricature with an oversized head and smaller body, while strictly preserving the subject's facial identity and expression. The scene places the subject leaning against a vintage dark green classic car on a cobblestone street.
+這是一份適用於 Google Gemini Nano Banana Pro 的提示詞，旨在將上傳的圖片轉換為風格化的 3D 卡通漫畫形象，呈現大頭小身的比例，同時嚴格保留主體的面部特徵與表情。場景設定為主角倚靠在鵝卵石街道上的一輛復古深綠色經典汽車旁。
 
 #### 📝 提示詞
 
 ```
-Use the uploaded image as the primary subject reference. Transform the person into a stylized caricature with a slightly oversized head and a smaller body while preserving facial identity, expression, hairstyle, and key features.
-Place the subject casually leaning against a vintage dark green classic car on a narrow cobblestone street with warm glowing street lamps on both sides. Maintain a relaxed, confident pose.
-Outfit should match or naturally enhance the original clothing from the uploaded image (adapt if needed to fit the scene). Keep textures realistic and well-detailed.
-Style: 3D cartoon realism, cinematic lighting, shallow depth of field, ultra-detailed, soft shadows, warm tones, high resolution, vibrant but natural colors.
+請以上傳的圖片作為主要的人物參考。將人物轉換為風格化的漫畫形象，呈現頭部略大、身體較小的比例，同時必須保留面部的身份特徵、表情、髮型及關鍵細節。
+將主角設定為隨意倚靠在狹窄鵝卵石街道上的一輛復古深綠色經典汽車旁，街道兩側設有散發溫暖光芒的路燈。保持放鬆且自信的姿勢。
+服裝應與上傳圖片中的原始穿著相符，或進行自然優化以適應場景。保持紋理真實且細節豐富。
+風格：3D 卡通寫實、電影級燈光、淺景深、超細節、柔和陰影、暖色調、高解析度、色彩鮮豔且自然。
 ```
 
 #### 🖼️ 生成圖片
@@ -743,13 +743,13 @@ Style: 3D cartoon realism, cinematic lighting, shallow depth of field, ultra-det
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853736664_vhtoo6_HEkK2GhaEAAfmeK.jpg" width="600" alt="個人檔案 / 頭像 - 3D Cartoon Caricature with Identity Preservation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853736664_vhtoo6_HEkK2GhaEAAfmeK.jpg" width="600" alt="個人檔案 / 頭像 - 具備身份特徵的 3D 卡通漫畫風格 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853736655_n5mxd6_HEkK2SeaYAAKWYl.jpg" width="600" alt="個人檔案 / 頭像 - 3D Cartoon Caricature with Identity Preservation - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853736655_n5mxd6_HEkK2SeaYAAKWYl.jpg" width="600" alt="個人檔案 / 頭像 - 具備身份特徵的 3D 卡通漫畫風格 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -763,45 +763,45 @@ Style: 3D cartoon realism, cinematic lighting, shallow depth of field, ultra-det
 
 ---
 
-### No. 3: 個人檔案 / 頭像 - 3D Render of Childlike Character in Puzzle Sweater
+### No. 3: 個人檔案 / 頭像 - 穿著拼圖毛衣的童趣角色 3D 渲染圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed prompt for Google Nano Banana Pro to generate a high-detail, clean 3D render of a character with soft, childlike features (no adult features, no beard, fuller cheeks), wearing a puzzle-patterned sweater, emphasizing soft cinematic lighting and a rich blue gradient background.
+這是一份為 Google Nano Banana Pro 設計的詳細提示詞，用於生成高細節、乾淨的 3D 渲染圖。角色需具備柔和的童趣特徵（無成人特徵、無鬍鬚、臉頰較飽滿），身穿拼圖圖案毛衣，並強調柔和的電影級光影與豐富的藍色漸層背景。
 
 #### 📝 提示詞
 
 ```
-soft, round face
-fuller cheeks
-small chin
-slightly larger, expressive eyes (but still identity-consistent)
-no beard, no sharp jawline, no adult features
-Expression should be innocent, warm, and slightly playful, with a gentle smile and direct eye contact.
-Body proportions should be cute and childlike (small, slightly chubby body, slightly larger head).
+柔軟、圓潤的臉龐
+較飽滿的臉頰
+小巧的下巴
+稍微大一點、富有表情的眼睛（但仍需保持角色辨識度）
+無鬍鬚、無銳利的下顎線、無成人特徵
+表情應顯得天真、溫暖且帶點俏皮，搭配溫柔的微笑與直接的眼神接觸。
+身體比例應顯得可愛且具童趣（小巧、微胖的身體，頭部比例稍大）。
 
-Pose: relaxed standing with hands behind the back, with a subtle natural tilt in head and shoulders to avoid stiffness.
-Hair should match the reference but appear soft, slightly voluminous, and naturally styled, not overly sharp or artificial.
-Skin should be soft and stylized, with subtle subsurface scattering (SSS) for a warm glow, matte finish (no plastic shine), and gentle natural blush on cheeks.
-The character wears a half sleeves cotton sweater with a puzzle pattern, where:
+姿勢：放鬆站立，雙手背在身後，頭部與肩膀帶有自然的微傾，避免僵硬感。
+髮型應與參考圖一致，但呈現柔軟、略顯蓬鬆且自然的質感，不應過於銳利或人工化。
+皮膚應呈現柔軟的風格化質感，帶有細膩的次表面散射（SSS）以營造溫暖光澤，霧面質感（無塑膠感），臉頰帶有自然的紅暈。
+角色穿著一件拼圖圖案的短袖棉質毛衣，要求如下：
 
-colors are soft but lively and slightly vibrant
-not oversaturated and not washed out
-The fabric shows a realistic knit texture and soft folds
-Lighting should be soft and cinematic:
+色彩柔和但生動，略帶活力
+不過度飽和，也不會顯得蒼白
+布料呈現真實的針織紋理與柔軟的皺褶
+光影應呈現柔和的電影感：
 
-key light from upper-left
-gentle fill light
-subtle rim light on hair
-Background should be a rich blue gradient, brighter behind the subject and darker toward the edges, with smooth depth (not flat).
-Output should be:
+左上方的主光
+柔和的補光
+髮絲上的細膩邊緣光
+背景應為豐富的藍色漸層，主體後方較亮，向邊緣逐漸變暗，具有平滑的景深感（非平面）。
+輸出要求：
 
-1:1 aspect ratio
-mid-length framing (head to waist)
-high-detail, clean 3D render
-film-quality finish (not toy-like, not overly realistic)
+1:1 長寬比
+半身構圖（頭部至腰部）
+高細節、乾淨的 3D 渲染
+電影級質感（非玩具感，亦非過度寫實）
 ```
 
 #### 🖼️ 生成圖片
@@ -809,7 +809,7 @@ film-quality finish (not toy-like, not overly realistic)
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853742219_k8jl77_HEjWkEDbkAAZOXA.jpg" width="600" alt="個人檔案 / 頭像 - 3D Render of Childlike Character in Puzzle Sweater - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853742219_k8jl77_HEjWkEDbkAAZOXA.jpg" width="600" alt="個人檔案 / 頭像 - 穿著拼圖毛衣的童趣角色 3D 渲染圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -823,18 +823,18 @@ film-quality finish (not toy-like, not overly realistic)
 
 ---
 
-### No. 4: 個人檔案 / 頭像 - Close-up of a Young Japanese Woman
+### No. 4: 個人檔案 / 頭像 - 年輕日本女性特寫
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-A prompt for Nano Banana Pro describing a close-up portrait of a cute 20-year-old Japanese woman with black to dark brown straight long hair and bangs, set against a white background.
+這是 Nano Banana Pro 的提示詞，描述了一位 20 歲可愛日本女性的臉部特寫肖像，擁有黑色至深棕色的直長髮與瀏海，背景為白色。
 
 #### 📝 提示詞
 
 ```
-A 20-year-old young Japanese woman, cute, close-up of the face, white background, black to dark brown straight long hair, with bangs.
+一位 20 歲的年輕日本女性，可愛，臉部特寫，白色背景，黑色至深棕色直長髮，帶有瀏海。
 ```
 
 #### 🖼️ 生成圖片
@@ -842,7 +842,7 @@ A 20-year-old young Japanese woman, cute, close-up of the face, white background
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853750607_pazszx_HEih37BaMAEetrF.jpg" width="600" alt="個人檔案 / 頭像 - Close-up of a Young Japanese Woman - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853750607_pazszx_HEih37BaMAEetrF.jpg" width="600" alt="個人檔案 / 頭像 - 年輕日本女性特寫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -856,18 +856,18 @@ A 20-year-old young Japanese woman, cute, close-up of the face, white background
 
 ---
 
-### No. 5: 個人檔案 / 頭像 - Japanese Woman Portrait Prompt for Nano Banana Pro
+### No. 5: 個人檔案 / 頭像 - Nano Banana Pro 專用日本女性肖像提示詞
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-A prompt designed to generate a close-up portrait of a clean-cut, young Japanese woman in her 20s, featuring straight long black to dark brown hair with bangs, against a white background, specifically for the Nano Banana Pro model.
+這是一組專為 Nano Banana Pro 模型設計的提示詞，用於生成一位 20 多歲、形象清新的日本女性特寫肖像，特徵包括帶有瀏海的直長黑髮至深棕色髮色，背景為白色。
 
 #### 📝 提示詞
 
 ```
-A young, clean-cut Japanese woman in her 20s, close-up of the face, white background, straight long black to dark brown hair, with bangs.
+一位 20 多歲、形象清新的日本女性，面部特寫，白色背景，帶有瀏海的直長黑髮至深棕色髮色。
 ```
 
 #### 🖼️ 生成圖片
@@ -875,7 +875,7 @@ A young, clean-cut Japanese woman in her 20s, close-up of the face, white backgr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766204741_tvxna1_HEiUSVnaUAAcy4z.jpg" width="600" alt="個人檔案 / 頭像 - Japanese Woman Portrait Prompt for Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774766204741_tvxna1_HEiUSVnaUAAcy4z.jpg" width="600" alt="個人檔案 / 頭像 - Nano Banana Pro 專用日本女性肖像提示詞 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -889,73 +889,75 @@ A young, clean-cut Japanese woman in her 20s, close-up of the face, white backgr
 
 ---
 
-### No. 6: 個人檔案 / 頭像 - Amateur Smartphone Snapshot Prompt for Nano Banana 2
+### No. 6: 個人檔案 / 頭像 - Nano Banana 2 業餘智慧型手機快照提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed image generation prompt for Nano Banana 2, focusing on creating a casual, amateur-style smartphone photo of a young woman resembling Sadie Sink, wearing a Spider-Man themed bodysuit, with specific details on lighting, texture, and pose.
+這是一份針對 Nano Banana 2 的詳細圖像生成提示詞，旨在創作一張類似 Sadie Sink 的年輕女性的休閒業餘風格智慧型手機照片，她身穿蜘蛛人主題緊身衣，並包含光影、紋理與姿勢的具體細節。
 
 #### 📝 提示詞
 
 ```
 {
-  "photo_type": "Amateur smartphone snapshot, casual indoor photo captured on an iPhone 16 Pro front camera with typical lens curvature.",
+  "photo_type": "業餘智慧型手機快照，使用 iPhone 16 Pro 前置鏡頭拍攝的休閒室內照片，帶有典型的鏡頭曲率。",
   "subject": {
-    "age": "Young adult",
-    "body_type": "Curvy hourglass figure with soft athletic muscle tone",
-    "description": "A young adult female with a heart-shaped facial structure, fair and lightly freckled complexion, and long, wavy copper-red hair parted in the center.",
-    "ethnicity": "Caucasian",
-    "expression": "Playful winking expression with a slight, subtle smile",
-    "gender": "Female",
-    "mirror_rules": "Not a mirror selfie, direct amateur capture",
-    "pose_description": "Sitting comfortably on a white sectional sofa, leaning back slightly, one arm raised with fingers grazing her hair while the other hand rests casually on the cushion.",
-    "tattoos": "None"
+    "age": "年輕成人",
+    "body_type": "曲線玲瓏的沙漏型身材，帶有柔和的運動肌肉線條",
+    "description": "一位年輕女性，擁有心形臉型，膚色白皙且帶有淡淡雀斑，留著中分長波浪銅紅色頭髮。",
+    "ethnicity": "高加索人",
+    "expression": "俏皮的眨眼表情，嘴角帶著一抹細微的微笑",
+    "gender": "女性",
+    "mirror_rules": "非鏡像自拍，直接的業餘拍攝視角",
+    "pose_description": "舒適地坐在白色轉角沙發上，身體微微後傾，一隻手抬起，手指輕撫頭髮，另一隻手隨意地放在坐墊上。",
+    "tattoos": "無"
   },
   "clothing": {
     "bottom": {
-      "color": "Black and white",
-      "details": "High-cut leotard style revealing the hips, featuring a white webbing pattern over a matte black base.",
-      "fabric": "Spandex-polyester blend",
-      "type": "Integrated bodysuit bottom"
+      "color": "黑白色",
+      "details": "高衩連體衣風格，露出臀部，啞光黑色底色上印有白色網狀圖案。",
+      "fabric": "彈性纖維與聚酯纖維混紡",
+      "type": "連體衣下半部"
     },
-    "fit_and_physics": "Compression creases visible at the waist and armpits; fabric stretching tightly over the chest and hips with visible seam tension.",
+    "fit_and_physics": "腰部和腋下可見壓縮褶皺；布料緊貼胸部與臀部，接縫處有明顯的張力。",
     "outerwear": {
-      "color": "None",
-      "details": "None",
-      "fabric": "None",
-      "type": "None"
+      "color": "無",
+      "details": "無",
+      "fabric": "無",
+      "type": "無"
     },
     "shoes": {
-      "color": "None",
-      "details": "None",
-      "fabric": "None",
-      "type": "None"
+      "color": "無",
+      "details": "無",
+      "fabric": "無",
+      "type": "無"
     },
     "top": {
-      "color": "Black and white",
-      "details": "Long-sleeved bodysuit with a high neckline, featuring a large white stylized spider emblem on the chest and white web patterns on the sleeves.",
-      "fabric": "Matte performance fabric",
-      "type": "Spider-Man themed bodysuit"
+      "color": "黑白色",
+      "details": "長袖連體衣，高領設計，胸前有大型白色風格化蜘蛛標誌，袖子上印有白色網狀圖案。",
+      "fabric": "啞光機能布料",
+      "type": "蜘蛛人主題緊身衣"
     }
   },
   "hair": {
-    "color": "Copper-red",
-    "interaction": "One hand is gently lifting a section of a pigtail, creating natural movement and flyaway strands.",
-    "style": "Long, wavy copper-red hair, parted in the center, styled into two high, voluminous loose pigtails."
+    "color": "銅紅色",
+    "interaction": "一隻手輕輕提起一束雙馬尾，營造出自然的動態感與飛散的髮絲。",
+    "style": "長波浪銅紅色頭髮，中分，梳成兩個高聳、蓬鬆且隨性的雙馬尾。"
   },
   "face": {
-    "description": "Use the uploaded character reference image, keep all facial details 100% unchanged",
-    "eyebrows": "Thick, naturally feathered eyebrows",
-    "eyes": "Light blue almond-shaped eyes, one winking",
-    "lips": "Full, well-defined lips with a natural satin finish",
-    "makeup": "Minimal, natural-looking makeup enhancing the freckles"
+    "description": "使用上傳的角色參考圖，保持所有面部細節 100% 不變",
+    "eyebrows": "濃密且自然的羽毛狀眉毛",
+    "eyes": "淺藍色杏仁眼，其中一隻眼睛眨著",
+    "lips": "飽滿且輪廓分明的嘴唇，帶有自然的緞面光澤",
+    "makeup": "極簡、自然的妝容，突顯臉上的雀斑"
   },
-  "skin_texture": "Fair, lightly freckled complexion with visible natural pores and subtle skin variations.",
+  "skin_texture": "白皙且帶有淡淡雀斑的膚色，可見自然的毛孔與細微的皮膚紋理變化。",
   "biological_features": {
-    "eye_complexity": "Wetness on the tear duct and sharp corneal reflections from room lighting.",
-    "hair_strand_physics": "Fin
+    "eye_complexity": "淚腺處有濕潤感，且室內燈光在角膜上形成銳利的反光。",
+    "hair_strand_physics": "細緻髮絲物理效果"
+  }
+}
 ```
 
 #### 🖼️ 生成圖片
@@ -963,7 +965,7 @@ A detailed image generation prompt for Nano Banana 2, focusing on creating a cas
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766204179_in7jva_HEfdpKkbIAA6eAS.jpg" width="600" alt="個人檔案 / 頭像 - Amateur Smartphone Snapshot Prompt for Nano Banana 2 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774766204179_in7jva_HEfdpKkbIAA6eAS.jpg" width="600" alt="個人檔案 / 頭像 - Nano Banana 2 業餘智慧型手機快照提示詞 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -977,30 +979,30 @@ A detailed image generation prompt for Nano Banana 2, focusing on creating a cas
 
 ---
 
-### No. 7: 個人檔案 / 頭像 - Emma Watson Casual Lifestyle Photo
+### No. 7: 個人檔案 / 頭像 - Emma Watson 休閒生活照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed JSON-formatted prompt for Nano Banana 2 to generate a photorealistic image of Emma Watson taking a selfie in a cozy bedroom setting, focusing on lighting, composition, and specific details like freckles and accessories.
+一份詳細的 JSON 格式提示詞，供 Nano Banana 2 生成一張 Emma Watson 在舒適臥室中自拍的逼真照片，重點在於光影、構圖以及雀斑和配飾等細節。
 
 #### 📝 提示詞
 
 ```
 {
-  "style": "casual lifestyle photography, intimate candid, soft modern realism",
-  "subject": "young woman with long wavy blonde hair and glasses taking a selfie while lying in bed, wearing a yellow fitted bodysuit",
-  "pose": "reclined on pillows with one arm extended holding the camera, finger gently touching lips in a playful, relaxed gesture",
-  "environment": "cozy bedroom setting with patterned butterflies pillowcases, textured bedding, bedside table with lamp, one piece miniature, and small personal items",
-  "mood": "warm, relaxed, personal, slightly playful",
-  "lighting": "soft warm indoor lighting from bedside lamp combined with direct flash effect, creating gentle shadows and natural skin highlights",
-  "details": "freckled skin, subtle natural makeup, delicate necklace worh key, casual bedroom textures, soft fabric folds",
-  "camera": "close-up selfie perspective, slightly high angle, shallow depth of field",
-  "color_palette": "warm yellows, soft creams, natural skin tones, warm amber light",
-  "composition": "subject centered with diagonal arm line leading to face, intimate framing emphasizing facial expression and upper body",
-  "influences": "contemporary social media photography, natural lifestyle portraiture",
-  "quality": "high resolution, photorealistic, clean detail, subtle grain"
+  "style": "休閒生活攝影，親密隨拍，柔和現代寫實風格",
+  "subject": "留著長波浪金髮、戴著眼鏡的年輕女性，躺在床上自拍，身穿黃色合身連體衣",
+  "pose": "斜靠在枕頭上，一隻手臂伸出拿著相機，手指輕觸嘴唇，動作俏皮放鬆",
+  "environment": "舒適的臥室環境，配有蝴蝶圖案枕套、有質感的寢具、帶檯燈的床頭櫃、單品模型以及小型個人物品",
+  "mood": "溫暖、放鬆、私密、略帶俏皮",
+  "lighting": "床頭燈發出的柔和溫暖室內光，結合直接閃光燈效果，營造出柔和的陰影與自然的肌膚高光",
+  "details": "雀斑肌膚、精緻的自然妝容、佩戴鑰匙造型的精緻項鍊、休閒臥室質感、柔軟的布料褶皺",
+  "camera": "特寫自拍視角，略微高角度，淺景深",
+  "color_palette": "溫暖的黃色、柔和的奶油色、自然膚色、溫暖的琥珀色光線",
+  "composition": "主體居中，手臂對角線引導至臉部，親密的取景強調面部表情與上半身",
+  "influences": "當代社群媒體攝影，自然生活肖像",
+  "quality": "高解析度、照片級真實感、清晰細節、細微顆粒感"
 }
 ```
 
@@ -1009,13 +1011,13 @@ A detailed JSON-formatted prompt for Nano Banana 2 to generate a photorealistic 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766195333_rnziaz_HEfOtg5bAAAQytQ.jpg" width="600" alt="個人檔案 / 頭像 - Emma Watson Casual Lifestyle Photo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774766195333_rnziaz_HEfOtg5bAAAQytQ.jpg" width="600" alt="個人檔案 / 頭像 - Emma Watson 休閒生活照 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766195379_6vdynj_HEfOuOHakAA-JIm.jpg" width="600" alt="個人檔案 / 頭像 - Emma Watson Casual Lifestyle Photo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774766195379_6vdynj_HEfOuOHakAA-JIm.jpg" width="600" alt="個人檔案 / 頭像 - Emma Watson 休閒生活照 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1029,18 +1031,18 @@ A detailed JSON-formatted prompt for Nano Banana 2 to generate a photorealistic 
 
 ---
 
-### No. 8: 個人檔案 / 頭像 - Korean Model Style Portrait Prompt for Nano Banana Pro
+### No. 8: 個人檔案 / 頭像 - 適用於 Nano Banana Pro 的韓系模特風格人像提示詞
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-A prompt for Nano Banana Pro to generate a close-up portrait of a young woman styled like a Korean model, featuring straight long black to dark brown hair with bangs, against a white background.
+這是一組適用於 Nano Banana Pro 的提示詞，用於生成韓系模特風格的年輕女性特寫人像，特色為留著瀏海的直長黑至深棕色頭髮，背景為白色。
 
 #### 📝 提示詞
 
 ```
-A young woman styled like a Korean model, close-up of the face, white background, straight long black to dark brown hair, with bangs.
+韓系模特風格的年輕女性，臉部特寫，白色背景，留有瀏海的直長黑至深棕色頭髮。
 ```
 
 #### 🖼️ 生成圖片
@@ -1048,7 +1050,7 @@ A young woman styled like a Korean model, close-up of the face, white background
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766206340_ffqmqo_HEfFt6mboAAetWA.jpg" width="600" alt="個人檔案 / 頭像 - Korean Model Style Portrait Prompt for Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774766206340_ffqmqo_HEfFt6mboAAetWA.jpg" width="600" alt="個人檔案 / 頭像 - 適用於 Nano Banana Pro 的韓系模特風格人像提示詞 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1062,65 +1064,65 @@ A young woman styled like a Korean model, close-up of the face, white background
 
 ---
 
-### No. 9: 個人檔案 / 頭像 - Golden Hour Mirror Selfie Realism
+### No. 9: 個人檔案 / 頭像 - 黃金時刻鏡面自拍寫實感
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A structured prompt for Nano Banana Pro to generate a raw, intimate mirror selfie taken during the golden hour, focusing on natural lighting, soft grain, and the candid moment of a person unbuttoning a shirt.
+這是一個為 Nano Banana Pro 設計的結構化提示詞，旨在生成一張在黃金時刻拍攝的原始、親密的鏡面自拍，重點在於自然光線、柔和顆粒感以及人物解開襯衫扣子時的真實瞬間。
 
 #### 📝 提示詞
 
 ```
 {
-  "meta": {
-    "camera": "iPhone 17 Pro",
-    "lens": "35mm",
-    "aspect_ratio": "4:5",
-    "style": "raw iphone indoor realism, natural HDR, soft grain"
-  },
-  "scene": {
-    "location": "bedroom mirror",
-    "time": "golden hour sunset leaking through window",
-    "atmosphere": "warm quiet room, soft shadows, intimate silence"
-  },
-  "lighting": {
-    "primary": "golden sunlight hitting from side",
-    "effect": "fabric slightly translucent, warm glow on skin, natural highlights"
-  },
-  "subject": {
-    "pose": {
-      "position": "standing in front of mirror",
-      "action": "mid-unbutton shirt moment",
-      "body": "one hand holding shirt open slightly, other holding phone",
-      "torso": "subtle forward lean"
-    },
-    "expression": {
-      "eyes": "locked into mirror",
-      "mouth": "barely parted",
-      "energy": "caught in a private moment"
-    },
-    "hair": {
-      "style": "soft messy natural fall"
-    },
-    "outfit": {
-      "top": {
-        "type": "oversized white button-up",
-        "state": "half unbuttoned",
-        "effect": "light passing through fabric, shape hinted not shown"
-      },
-      "bottom": {
-        "type": "minimal lounge shorts",
-        "color": "neutral"
-      }
-    }
-  },
-  "camera": {
-    "angle": "mirror selfie slight tilt",
-    "distance": "medium",
-    "imperfection": "tiny blur + fingerprint smudge on mirror"
-  }
+  "meta": {
+    "camera": "iPhone 17 Pro",
+    "lens": "35mm",
+    "aspect_ratio": "4:5",
+    "style": "原始 iPhone 室內寫實風格，自然 HDR，柔和顆粒感"
+  },
+  "scene": {
+    "location": "臥室鏡子前",
+    "time": "黃金時刻夕陽從窗戶透入",
+    "atmosphere": "溫暖安靜的房間，柔和陰影，親密的寧靜感"
+  },
+  "lighting": {
+    "primary": "金色陽光從側面照射",
+    "effect": "布料呈現微透光感，肌膚上有溫暖光澤，自然的亮部細節"
+  },
+  "subject": {
+    "pose": {
+      "position": "站在鏡子前",
+      "action": "解開襯衫扣子的瞬間",
+      "body": "一隻手輕輕拉開襯衫，另一隻手拿著手機",
+      "torso": "身體微微前傾"
+    },
+    "expression": {
+      "eyes": "注視著鏡中的自己",
+      "mouth": "雙唇微張",
+      "energy": "捕捉私人時刻的氛圍"
+    },
+    "hair": {
+      "style": "柔軟凌亂的自然垂墜感"
+    },
+    "outfit": {
+      "top": {
+        "type": "寬鬆白色襯衫",
+        "state": "解開了一半扣子",
+        "effect": "光線穿透布料，隱約透出輪廓而非直接展現"
+      },
+      "bottom": {
+        "type": "極簡休閒短褲",
+        "color": "中性色"
+      }
+    }
+  },
+  "camera": {
+    "angle": "鏡面自拍，略微傾斜",
+    "distance": "中景",
+    "imperfection": "細微的模糊感 + 鏡面上的指紋污漬"
+  }
 }
 ```
 
@@ -1129,7 +1131,7 @@ A structured prompt for Nano Banana Pro to generate a raw, intimate mirror selfi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766200526_msjsq1_HDnT4uXXcAEPOIQ.jpg" width="600" alt="個人檔案 / 頭像 - Golden Hour Mirror Selfie Realism - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774766200526_msjsq1_HDnT4uXXcAEPOIQ.jpg" width="600" alt="個人檔案 / 頭像 - 黃金時刻鏡面自拍寫實感 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1143,18 +1145,18 @@ A structured prompt for Nano Banana Pro to generate a raw, intimate mirror selfi
 
 ---
 
-### No. 10: 個人檔案 / 頭像 - Black-and-White Fashion Collage with Face Preservation
+### No. 10: 個人檔案 / 頭像 - 保留臉部特徵的黑白時尚拼貼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed prompt for Google Gemini Nano Banana Pro to create a photorealistic black-and-white 2x2 collage of a male model, requiring the preservation of the face and outfits from attached reference images, focusing on high-contrast fashion photography style.
+這是一份為 Google Gemini Nano Banana Pro 設計的詳細提示詞，旨在創作一張 2x2 的黑白寫實男模拼貼照。要求保留參考圖片中的臉部與服裝細節，並聚焦於高對比度的時尚攝影風格。
 
 #### 📝 提示詞
 
 ```
-using the attached reference photos as sources, preserve the same male face and hairstyles from the face reference and the same outfits from the clothing references. create a photorealistic black-and-white studio photoshoot collage arranged in a clean 2x2 grid with thin white spacing between frames. neutral gray seamless studio background, soft diffused fashion lighting with gentle shadows. frame 1: waist-up portrait, man in a plain rolled-sleeve t-shirt, one hand lightly touching the chin, direct intense gaze to camera, relaxed shoulders. frame 2: three-quarter standing pose in the same t-shirt, body angled slightly sideways, one hand near the mouth in a thoughtful gesture, casual stance. frame 3: mid-shot in a denim jacket, body turned partly away, one hand holding the jacket collar or shoulder, confident look toward camera. frame 4: tight portrait in the denim jacket, fingers resting near the lips and nose bridge, fashion editorial expression. natural skin texture, realistic fabric folds and denim texture, sharp hair detail. high-contrast monochrome conversion, cinematic fashion photography, 85mm lens look, f/2.8. no text, no watermark
+請使用隨附的參考照片作為素材，保留臉部參考圖中的同一位男性臉孔與髮型，以及服裝參考圖中的相同穿搭。創作一張寫實的黑白攝影棚拼貼照，以整潔的 2x2 網格排列，各格之間保留細長的白色間距。背景為中性灰色無縫攝影棚背景，採用柔和的擴散式時尚燈光，並帶有細膩的陰影。第 1 格：腰部以上肖像，男模穿著素色捲袖 T 恤，一隻手輕觸下巴，直視鏡頭，眼神銳利，肩膀放鬆。第 2 格：穿著同一件 T 恤的三分之二全身站姿，身體略微側向，一隻手靠近嘴部呈現思考姿勢，姿態休閒。第 3 格：穿著牛仔外套的中景鏡頭，身體部分轉向一側，一隻手抓著外套領口或肩膀，自信地看向鏡頭。第 4 格：穿著牛仔外套的特寫肖像，手指輕觸嘴唇與鼻樑，展現時尚雜誌風格的表情。呈現自然的皮膚紋理、寫實的布料皺褶與牛仔質感，髮絲細節清晰。高對比度單色轉換，電影級時尚攝影風格，85mm 鏡頭視覺，光圈 f/2.8。無文字，無浮水印。
 ```
 
 #### 🖼️ 生成圖片
@@ -1162,7 +1164,7 @@ using the attached reference photos as sources, preserve the same male face and 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766199980_q1ulmj_HEeIvrzbAAIdt34.jpg" width="600" alt="個人檔案 / 頭像 - Black-and-White Fashion Collage with Face Preservation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774766199980_q1ulmj_HEeIvrzbAAIdt34.jpg" width="600" alt="個人檔案 / 頭像 - 保留臉部特徵的黑白時尚拼貼 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1789,36 +1791,36 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 社群媒體貼文 - Black and White High Fashion Portrait
+### No. 21: 社群媒體貼文 - 黑白高級時裝人像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-A detailed prompt for Nano-banana PRO to generate a high-contrast, black and white fashion portrait. The prompt specifies using a reference photo for facial and body features, details the model's attire (loose white shirt), pose (arm raised, partially covering the face, touching hair), lighting (strong natural light, high contrast), camera gear (Canon EOS R5, 85mm f/1.8 lens), and style (minimalist, dramatic, close-up).
+一份為 Nano-banana PRO 準備的詳細提示詞，用於生成高對比度的黑白時裝人像。該提示詞指定使用參考照片來呈現臉部與身體特徵，並詳細說明了模特兒的服裝（寬鬆白襯衫）、姿勢（手臂抬起，部分遮擋臉部，觸摸頭髮）、光線（強烈自然光，高對比度）、攝影器材（Canon EOS R5，85mm f/1.8 鏡頭）以及風格（極簡、戲劇性、特寫）。
 
 #### 📝 提示詞
 
 ```
-Use the person in the attached mobile phone photo as a reference for facial and body features.
+請使用附件手機照片中的人物作為臉部與身體特徵的參考。
 
-This is a black and white high-fashion portrait, with the model wearing a loose white shirt. She raises one arm, partially covering her face, while using her hand to brush her hair, creating a dramatic and artistic composition.
+這是一張黑白高級時裝人像，模特兒穿著一件寬鬆的白襯衫。她抬起一隻手臂，部分遮擋住臉部，同時用手撥弄頭髮，營造出戲劇性且具藝術感的構圖。
 
-Her gaze is deep and captivating, looking directly into the lens, exuding a strong and mysterious aura.
+她的眼神深邃迷人，直視鏡頭，散發出一種強烈而神秘的氣息。
 
-Background: Minimalist plain wall, bright natural light casting sharp shadows, adding depth and contrast to the image.
+背景：極簡素色牆面，明亮的自然光投射出銳利的陰影，為影像增添深度與對比度。
 
-Lighting: Strong natural light, high-contrast lighting setup.
+光線：強烈自然光，高對比度光影設置。
 
-Highlights the facial contours, prominent cheekbones, and the texture of the hair and clothing.
+突顯臉部輪廓、立體的顴骨，以及頭髮與衣物的質感。
 
-Pose: Bold and expressive, the raised arm outlines the face, emphasizing genuine emotion and the high-fashion style.
+姿勢：大膽且富有表現力，抬起的手臂勾勒出臉部線條，強調真實的情感與高級時裝風格。
 
-Shooting angle: Eye-level angle, close-up shot, focusing on facial expression, texture, and light and shadow effects.
+拍攝角度：平視角度，特寫鏡頭，聚焦於臉部表情、質感以及光影效果。
 
-Shot with a Canon EOS R5 full-frame digital SLR camera and an 85mm f/1.8 lens, presenting clear details, rich tonal layers, and delicate grain.
+使用 Canon EOS R5 全片幅數位單眼相機搭配 85mm f/1.8 鏡頭拍攝，呈現清晰的細節、豐富的色調層次與細膩的顆粒感。
 
-Style: Black and white high-end fashion editorial.
+風格：黑白高級時裝雜誌風格。
 ```
 
 #### 🖼️ 生成圖片
@@ -1826,7 +1828,7 @@ Style: Black and white high-end fashion editorial.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853747230_ql165r_HEolif7aIAAQfaa.jpg" width="600" alt="社群媒體貼文 - Black and White High Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853747230_ql165r_HEolif7aIAAQfaa.jpg" width="600" alt="社群媒體貼文 - 黑白高級時裝人像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1840,30 +1842,30 @@ Style: Black and white high-end fashion editorial.
 
 ---
 
-### No. 22: 社群媒體貼文 - Vintage High-Contrast Editorial Portrait
+### No. 22: 社群媒體貼文 - 復古高對比度編輯風格肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-An ultra-realistic prompt for Nano Banana Pro to generate a 4:5 portrait in a vintage, high-contrast editorial style, featuring a subject (Sabrina Carpenter or Sydney Sweeney) leaning against an ornate grand piano, captured with direct front flash lighting.
+這是一個為 Nano Banana Pro 設計的超寫實提示詞，用於生成 4:5 比例的復古高對比度編輯風格肖像。主角（Sabrina Carpenter 或 Sydney Sweeney）倚靠在華麗的三角鋼琴旁，採用正面閃光燈拍攝。
 
 #### 📝 提示詞
 
 ```
-Ultra-realistic 4:5 portrait in a vintage, high-contrast editorial style. Use the reference image for the subject’s identity, face, and hair — preserve exact facial features, proportions, and likeness.
+超寫實 4:5 比例肖像，採用復古高對比度編輯風格。請使用參考圖像作為主角的身份、臉部及髮型依據——務必保留精確的五官特徵、比例與神韻。
 
-The subject is standing and leaning back against an ornate grand piano, with both arms spread and resting along the piano edge. Her head is slightly tilted back, with a relaxed, sultry pose and parted lips.
+主角站立並向後倚靠在華麗的三角鋼琴上，雙臂展開並放置在鋼琴邊緣。頭部微微後仰，呈現放鬆且性感的姿勢，雙唇微張。
 
-She is wearing a black satin corset top with a low sweetheart neckline and front hook-and-eye closures, paired with black leather pants.
+她身穿黑色緞面馬甲上衣，配有低胸心形領口與前襟鉤扣，下身搭配黑色皮褲。
 
-Accessories include gold hoop earrings, layered thin gold necklaces with a dark cross pendant, and a thin gold bracelet.
+配飾包括金色圓圈耳環、多層細金項鍊（帶有深色十字架墜飾）以及細金手鍊。
 
-The setting is an ornate vintage-style room with a warm, dim ambiance. The piano is black with twisted gold-leaf legs and gold panel detailing. The background features a textured terracotta wall, a framed landscape painting in a heavy gold frame, and faint microphone stands visible on the right.
+場景設置於一間華麗的復古風格房間，氛圍溫暖而昏暗。鋼琴為黑色，配有扭曲的鍍金琴腿與金色鑲板細節。背景為帶有紋理的赤陶色牆面、一幅裝在厚重金框中的風景畫，右側隱約可見麥克風架。
 
-Lighting is direct front flash, creating high contrast with strong shadows cast onto the back wall.
+燈光採用正面直射閃光，營造出高對比度，並在後牆投下強烈的陰影。
 
-High detail, sharp textures, cinematic editorial photography style, shallow depth of field, crisp focus on the subject.
+高細節、銳利質感、電影級編輯攝影風格、淺景深，主體對焦清晰。
 ```
 
 #### 🖼️ 生成圖片
@@ -1871,13 +1873,13 @@ High detail, sharp textures, cinematic editorial photography style, shallow dept
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853734598_cowtda_HEmjXV9XcAAVdBM.jpg" width="600" alt="社群媒體貼文 - Vintage High-Contrast Editorial Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853734598_cowtda_HEmjXV9XcAAVdBM.jpg" width="600" alt="社群媒體貼文 - 復古高對比度編輯風格肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853734943_krva1i_HEmjaL6WEAAQBpi.jpg" width="600" alt="社群媒體貼文 - Vintage High-Contrast Editorial Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853734943_krva1i_HEmjaL6WEAAQBpi.jpg" width="600" alt="社群媒體貼文 - 復古高對比度編輯風格肖像 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1891,24 +1893,24 @@ High detail, sharp textures, cinematic editorial photography style, shallow dept
 
 ---
 
-### No. 23: 社群媒體貼文 - Glamorous Vertical Portrait with Salvador Dali Art and Neon
+### No. 23: 社群媒體貼文 - 融合 Salvador Dali 藝術與霓虹燈的迷人直式肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A prompt for Nano Banana Pro to create a vertical, photorealistic shot of a confident young woman in a snakeskin bodysuit and red tights, sitting on a couch against a backdrop of a large Salvador Dali abstract painting and a glowing neon sign.
+這是一個適用於 Nano Banana Pro 的提示詞，旨在創作一張直式、照片級逼真的影像：一位自信的年輕女性身穿蛇紋連體衣與紅色連褲襪，坐在沙發上，背景為大型 Salvador Dali 抽象畫與發光的霓虹燈招牌。
 
 #### 📝 提示詞
 
 ```
 {
-  "prompt": "Vertical shot of a confident young woman with long brown hair and red lips sitting on a dark couch, wearing a yellow snakeskin-patterned bodysuit and red lace-patterned tights, looking over her shoulder at the camera. Large vibrant Salvador Dali abstract painting covering the whole wall behind her, glowing neon sign '{argument name="neon sign text" default="KeorUnreal"}' in pink-cyan cursive prominently displayed on the wall. Soft indoor lighting with neon glow, photorealistic, detailed textures on clothing and skin, glamorous pose, 8k resolution.",
-  "negative_prompt": "cropped, bad hands, blurry background, low quality, different pose, small painting, missing neon",
+  "prompt": "直式拍攝，一位留著棕色長髮、塗著紅唇的自信年輕女性坐在深色沙發上，身穿黃色蛇紋連體衣與紅色蕾絲花紋連褲襪，轉頭看向鏡頭。身後牆面掛著一幅覆蓋整面牆的大型鮮豔 Salvador Dali 抽象畫，牆上顯眼處掛著粉青色草寫字體的發光霓虹燈招牌 '{argument name="neon sign text" default="KeorUnreal"}'。柔和室內光搭配霓虹燈光，照片級逼真，衣服與皮膚細節紋理清晰，迷人姿勢，8k 解析度。",
+  "negative_prompt": "裁切，手部畸形，背景模糊，低畫質，姿勢不同，畫作過小，缺少霓虹燈",
   "parameters": {
     "aspect_ratio": "9:16",
-    "lighting": "soft room light + neon"
+    "lighting": "柔和室內光 + 霓虹燈"
   }
 }
 ```
@@ -1918,13 +1920,13 @@ A prompt for Nano Banana Pro to create a vertical, photorealistic shot of a conf
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853731074_5ijuxi_HEmtmWeWAAAvDcA.jpg" width="600" alt="社群媒體貼文 - Glamorous Vertical Portrait with Salvador Dali Art and Neon - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853731074_5ijuxi_HEmtmWeWAAAvDcA.jpg" width="600" alt="社群媒體貼文 - 融合 Salvador Dali 藝術與霓虹燈的迷人直式肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853731094_cesvuj_HEmtmZ5acAAWaRn.jpg" width="600" alt="社群媒體貼文 - Glamorous Vertical Portrait with Salvador Dali Art and Neon - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853731094_cesvuj_HEmtmZ5acAAWaRn.jpg" width="600" alt="社群媒體貼文 - 融合 Salvador Dali 藝術與霓虹燈的迷人直式肖像 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1938,13 +1940,13 @@ A prompt for Nano Banana Pro to create a vertical, photorealistic shot of a conf
 
 ---
 
-### No. 24: 社群媒體貼文 - Green Disco Feminine Editorial 9-Panel Grid
+### No. 24: 社群媒體貼文 - 綠色迪斯可女性時尚雜誌風格 9 宮格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A highly structured prompt for Nano Banana Pro to generate a 3x3 grid collage (9 panels) of a woman in a green disco-inspired editorial style. It emphasizes strict identity lock, face priority, and specific pose variations (kiss, wink, sensual expressions) within a dark studio environment with green-gold reflections.
+這是一個為 Nano Banana Pro 設計的高度結構化提示詞，用於生成 3x3 網格拼貼（9 宮格），呈現綠色迪斯可風格的女性時尚雜誌大片。強調嚴格的身分鎖定、臉部優先以及特定的姿勢變化（如飛吻、眨眼、感性表情），場景設定在帶有綠金色反射的暗色攝影棚中。
 
 #### 📝 提示詞
 
@@ -1962,7 +1964,7 @@ A highly structured prompt for Nano Banana Pro to generate a 3x3 grid collage (9
       "reference_image_usage": "high",
       "preserve_identity": true,
       "face_similarity_priority": "max",
-      "notes": "Woman must be the main subject. Background inspired by green disco references but must not overpower the woman."
+      "notes": "女性必須是主體。背景靈感來自綠色迪斯可元素，但不能搶過人物風采。"
     },
 
     "output_settings": {
@@ -1979,50 +1981,50 @@ A highly structured prompt for Nano Banana Pro to generate a 3x3 grid collage (9
     },
 
     "scene": {
-      "environment": "dark green disco-inspired studio with soft glowing reflections, subtle mirrorball light patterns, cinematic blur",
-      "lighting": "soft dreamy glow, green-gold reflections, gentle diffusion, no harsh highlights",
-      "mood": "playful, sensual, feminine, retro-glam"
+      "environment": "暗綠色迪斯可風格攝影棚，帶有柔和的發光反射、細膩的鏡球光影圖案、電影級模糊效果",
+      "lighting": "柔和夢幻光暈、綠金色反射、輕柔擴散，無強烈高光",
+      "mood": "俏皮、感性、女性化、復古魅力"
     },
 
     "character": {
       "count": 1,
       "priority": "face and expression",
       "styling": {
-        "hair": "soft styled, slightly voluminous",
-        "makeup": "glossy lips, luminous skin, subtle shimmer eyes",
-        "outfit": "green or shimmering reflective fabric inspired by disco aesthetic",
-        "accessories": "minimal, focus on face"
+        "hair": "柔和造型，略帶蓬鬆感",
+        "makeup": "水潤唇妝、透亮肌膚、細緻閃耀眼妝",
+        "outfit": "綠色或閃爍反光材質，靈感源自迪斯可美學",
+        "accessories": "極簡風格，聚焦於臉部"
       }
     },
 
     "pose_variation": {
       "focus": "face expressions + upper body",
       "poses": [
-        "direct eye contact, soft confident look",
-        "blowing a kiss toward camera",
-        "playful wink with slight smile",
-        "hand near lips, sensual expression",
-        "head tilted back slightly, soft glow on face",
-        "side profile with glossy lips highlighted",
-        "eyes half closed, dreamy expression",
-        "gentle smile with relaxed shoulders",
-        "hero shot, strong gaze into camera"
+        "直視鏡頭，柔和自信的神情",
+        "對著鏡頭送飛吻",
+        "俏皮眨眼並帶著淺淺微笑",
+        "手靠近嘴唇，感性表情",
+        "頭部微微後仰，臉部呈現柔光",
+        "側面輪廓，強調水潤雙唇",
+        "雙眼微閉，夢幻表情",
+        "溫柔微笑，肩膀放鬆",
+        "主打鏡頭，強烈凝視鏡頭"
       ]
     },
 
     "camera": {
-      "lens": "85mm portrait lens",
-      "framing": "close-up to mid shot",
-      "focus": "sharp on face, soft background",
-      "depth_of_field": "shallow",
-      "motion_effect": "very subtle blur glow, no distortion"
+      "lens": "85mm 人像鏡頭",
+      "framing": "特寫至半身鏡頭",
+      "focus": "臉部清晰，背景柔焦",
+      "depth_of_field": "淺景深",
+      "motion_effect": "極細微的模糊光暈，無變形"
     },
 
     "effects": {
-      "grain": "soft film grain",
-      "glow": "cinematic bloom",
-      "reflections": "controlled green disco reflections",
-      "sparkle": "minimal, not overpowering face"
+      "grain": "柔和底片顆粒",
+      "glow": "電影級光暈",
+      "reflections": "受控的綠色迪斯可反射",
+      "sparkle": "極簡，不搶臉部風采"
     },
 
     "quality_controls": {
@@ -2043,7 +2045,7 @@ A highly structured prompt for Nano Banana Pro to generate a 3x3 grid collage (9
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853739303_hgnugf_HEmmdfAW0AA95yH.jpg" width="600" alt="社群媒體貼文 - Green Disco Feminine Editorial 9-Panel Grid - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853739303_hgnugf_HEmmdfAW0AA95yH.jpg" width="600" alt="社群媒體貼文 - 綠色迪斯可女性時尚雜誌風格 9 宮格 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2057,14 +2059,14 @@ A highly structured prompt for Nano Banana Pro to generate a 3x3 grid collage (9
 
 ---
 
-### No. 25: 社群媒體貼文 - Sydney Sweeney Cottagecore Portrait
+### No. 25: 社群媒體貼文 - Sydney Sweeney 田園風肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A detailed JSON-formatted prompt for the Nano Banana Pro image model, designed to generate an ultra-photorealistic, romantic Cottagecore portrait of a young woman resembling Sydney Sweeney, set during an outdoor picnic with soft, diffused lighting.
+這是一份為 Nano Banana Pro 圖像模型設計的詳細 JSON 格式提示詞，旨在生成一張極致逼真、浪漫的田園風（Cottagecore）肖像，主角為神似 Sydney Sweeney 的年輕女性，場景設定在戶外野餐，並運用柔和的漫射光。
 
 #### 📝 提示詞
 
@@ -2072,48 +2074,48 @@ A detailed JSON-formatted prompt for the Nano Banana Pro image model, designed t
 {
   "image_generation_prompt": {
     "subject": {
-      "description": "Young woman with a strong resemblance to {argument name="subject name" default="Sydney Sweeney"}.",
-      "hair": "Long, wavy texture, styled in a loose side braid interwoven with a patterned ribbon.",
-      "face": "Soft, neutral gaze, smooth matte skin, subtle blush.",
-      "body": "Slender build, smooth skin."
+      "description": "年輕女性，外貌神似 {argument name="subject name" default="Sydney Sweeney"}。",
+      "hair": "長髮，波浪紋理，編織成鬆散的側邊辮子，並穿插有圖案的絲帶。",
+      "face": "柔和、中性的目光，平滑的霧面肌膚，淡淡的腮紅。",
+      "body": "纖細的身材，平滑的肌膚。"
     },
     "attire": {
-      "clothing": "{argument name="clothing description" default="Pastel purple corset with floral embroidery and sheer puffed sleeves, paired with a gathered light green skirt and sheer floral tights"}.",
-      "style": "Romantic Cottagecore"
+      "clothing": "{argument name="clothing description" default="淡紫色馬甲，飾有花卉刺繡和透明泡泡袖，搭配褶皺淺綠色裙子及透明花卉連褲襪"}。",
+      "style": "浪漫田園風 (Cottagecore)"
     },
     "styling_and_accessories": {
       "jewelry": [
-        "Gold wrist watch",
-        "Purple floral hair ribbon",
-        "Bunch of fresh purple grapes"
+        "金色腕錶",
+        "紫色花卉髮帶",
+        "一串新鮮的紫葡萄"
       ]
     },
     "environment": {
-      "setting": "Outdoor picnic on a purple gingham blanket, featuring a grape-patterned tea set.",
-      "background": "Lush green meadow with wildflowers, soft bokeh.",
-      "water": "None"
+      "setting": "戶外野餐，鋪著紫色格紋野餐墊，配有葡萄圖案的茶具組。",
+      "background": "鬱鬱蔥蔥的綠色草地，點綴著野花，帶有柔和的散景效果。",
+      "water": "無"
     },
     "pose": {
-      "posture": "Sitting casually on the ground, leaning slightly back.",
-      "arms": "One hand holding a cluster of grapes near the lips.",
-      "angle": "Eye-level medium portrait shot."
+      "posture": "隨意地坐在地上，身體微微向後傾斜。",
+      "arms": "一隻手拿著一串葡萄靠近嘴邊。",
+      "angle": "平視中景肖像照。"
     },
     "lighting_and_mood": {
-      "lighting": "Soft natural daylight, diffused sunlight.",
-      "mood": "Serene, romantic, pastoral.",
-      "colors": "Pastel purples, sage greens, bright natural greens."
+      "lighting": "柔和的自然日光，漫射陽光。",
+      "mood": "寧靜、浪漫、田園氣息。",
+      "colors": "淡紫色、鼠尾草綠、明亮的自然綠色。"
     },
     "camera_and_technical": {
-      "style": "Ultra Photorealistic, RAW photo.",
+      "style": "極致逼真，RAW 原始照片。",
       "lens": "50mm",
       "aperture": "f/2.8",
       "quality_tags": [
-        "8k resolution",
-        "highly detailed",
-        "volumetric lighting",
-        "ray tracing reflections",
-        "hyper-realistic texture",
-        "Hasselblad photography"
+        "8k 解析度",
+        "高度細節",
+        "體積光",
+        "光線追蹤反射",
+        "超寫實紋理",
+        "Hasselblad 攝影"
       ]
     }
   }
@@ -2125,7 +2127,7 @@ A detailed JSON-formatted prompt for the Nano Banana Pro image model, designed t
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853754800_nwbe1f_HEmfH_mbUAAXdk2.jpg" width="600" alt="社群媒體貼文 - Sydney Sweeney Cottagecore Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853754800_nwbe1f_HEmfH_mbUAAXdk2.jpg" width="600" alt="社群媒體貼文 - Sydney Sweeney 田園風肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2139,30 +2141,30 @@ A detailed JSON-formatted prompt for the Nano Banana Pro image model, designed t
 
 ---
 
-### No. 26: 社群媒體貼文 - Upscale Mirror Selfie Portrait
+### No. 26: 社群媒體貼文 - 高檔鏡面自拍肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-An ultra-realistic prompt for Nano Banana Pro to generate a 4:5 mirror selfie portrait of a subject (Sadie Sink, Scarlett Johansson, or Sabrina Carpenter) in an upscale indoor setting, wearing a pale mauve silk dress, focusing on preserving exact facial likeness.
+一個為 Nano Banana Pro 設計的超逼真提示詞，用於生成 4:5 的鏡面自拍肖像。主體為特定人物（Sadie Sink、Scarlett Johansson 或 Sabrina Carpenter），場景設定於高檔室內，身穿淡紫色絲綢連衣裙，重點在於精確保留面部特徵。
 
 #### 📝 提示詞
 
 ```
-Ultra-realistic 4:5 mirror selfie portrait in an upscale indoor setting. Use the reference image for the subject’s identity, face, and hair — preserve exact facial features, proportions, and likeness.
+超逼真的 4:5 鏡面自拍肖像，背景為高檔室內環境。請使用參考圖像來確定主體的身份、臉部和髮型——務必精確保留面部特徵、比例和相似度。
 
-The subject is standing at an angle, taking a mirror selfie with her right arm raised holding a smartphone.
+主體呈側身站立，右手舉起手機進行鏡面自拍。
 
-She is wearing a pale mauve silk dress with a deep plunging draped cowl neckline and delicate silver floral embroidery.
+她身穿一件淡紫色絲綢連衣裙，領口為深 V 垂墜式設計，並飾有精緻的銀色花卉刺繡。
 
-Accessories include a dark smartphone with a multi-lens camera, long square-shaped nails with neutral polish, silver rings, layered silver bracelets or a watch, a thin pendant necklace, and dangling earrings.
+配件包括一支帶有多鏡頭相機的深色智慧型手機、塗有中性色指甲油的長方形指甲、銀色戒指、疊戴的銀色手鍊或手錶、細鏈吊墜項鍊以及垂墜式耳環。
 
-The setting is an upscale bedroom or hotel room seen through a mirror reflection. Visible elements include a textured wall on the left and a bright circular lamp in the foreground. In the reflection, a lit bathroom with vertical slats and a patterned floor is visible, along with the edge of a bed with white sheets on the right.
+場景為透過鏡面反射看到的高檔臥室或飯店房間。可見元素包括左側帶有紋理的牆壁和前景中明亮的圓形檯燈。在鏡像中，可以看到帶有垂直板條的明亮浴室和花紋地板，右側則是鋪著白色床單的床緣。
 
-Lighting is warm indoor lighting with strong uplighting from the foreground lamp, creating highlights and soft shadows across the subject.
+燈光為溫暖的室內光，前景檯燈提供強烈的向上照明，在主體身上形成高光和柔和的陰影。
 
-High detail, realistic textures, luxury editorial lifestyle photography style, sharp focus on the subject, shallow depth of field.
+高細節、逼真的質感、奢華的編輯生活風格攝影，主體對焦清晰，具有淺景深效果。
 ```
 
 #### 🖼️ 生成圖片
@@ -2170,19 +2172,19 @@ High detail, realistic textures, luxury editorial lifestyle photography style, s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853734219_nrv4du_HEmEXuJaAAA-Twp.jpg" width="600" alt="社群媒體貼文 - Upscale Mirror Selfie Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853734219_nrv4du_HEmEXuJaAAA-Twp.jpg" width="600" alt="社群媒體貼文 - 高檔鏡面自拍肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853734227_wg6420_HEmEXuEawAAWL7n.jpg" width="600" alt="社群媒體貼文 - Upscale Mirror Selfie Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853734227_wg6420_HEmEXuEawAAWL7n.jpg" width="600" alt="社群媒體貼文 - 高檔鏡面自拍肖像 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853734371_zxgv7j_HEmEXtfasAAxtre.jpg" width="600" alt="社群媒體貼文 - Upscale Mirror Selfie Portrait - Image 3">
+<img src="https://cms-assets.youmind.com/media/1774853734371_zxgv7j_HEmEXtfasAAxtre.jpg" width="600" alt="社群媒體貼文 - 高檔鏡面自拍肖像 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -2196,19 +2198,19 @@ High detail, realistic textures, luxury editorial lifestyle photography style, s
 
 ---
 
-### No. 27: 社群媒體貼文 - Macro Photography of Chibi Anime Figurine Prompt
+### No. 27: 社群媒體貼文 - Q 版動漫公仔微距攝影提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A prompt for Gemini Nano Banana to generate a macro photography image of a tiny, grumpy chibi anime figurine sitting in a person's open hand, emphasizing high detail on skin texture and the matte finish of the figurine, with soft natural lighting and bokeh background.
+這是一組提供給 Gemini Nano Banana 的提示詞，用於生成一張微距攝影照片，畫面中是一個坐在人手掌上的小型、脾氣暴躁的 Q 版動漫公仔。強調皮膚紋理與公仔霧面質感的高細節表現，並搭配柔和的自然光與散景背景。
 
 #### 📝 提示詞
 
 ```
-A macro photography shot of a tiny, palm-sized chibi anime figurine sitting in a person's open hand. The figure has messy deep {argument name="hair color" default="purple"} hair, purple eyes with an annoyed "grumpy" expression, and a small pouty mouth. A finger is gently pressing into the figure's soft, squishy cheek, causing a realistic indentation. The figure wears a small black collar with a golden bell. Soft natural lighting, bokeh background, high detail on the skin texture of the hand and the matte finish of the figurine.
+一張微距攝影照片，畫面中是一個手掌大小的 Q 版動漫公仔，正坐在人張開的手掌上。公仔有著凌亂的 {argument name="hair color" default="紫色"} 頭髮、紫色眼睛，表情顯得有些「暴躁」，還有一張嘟起的小嘴。一根手指正輕輕按壓公仔柔軟、有彈性的臉頰，呈現出逼真的凹陷感。公仔戴著一個繫有金色小鈴鐺的黑色項圈。柔和的自然光，散景背景，手部皮膚紋理與公仔霧面質感的高細節表現。
 ```
 
 #### 🖼️ 生成圖片
@@ -2216,13 +2218,13 @@ A macro photography shot of a tiny, palm-sized chibi anime figurine sitting in a
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853745368_osixp5_HEl5_K8awAA7s-I.jpg" width="600" alt="社群媒體貼文 - Macro Photography of Chibi Anime Figurine Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853745368_osixp5_HEl5_K8awAA7s-I.jpg" width="600" alt="社群媒體貼文 - Q 版動漫公仔微距攝影提示詞 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853745462_uy5mrc_HEl5-tha4AAsZb4.jpg" width="600" alt="社群媒體貼文 - Macro Photography of Chibi Anime Figurine Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853745462_uy5mrc_HEl5-tha4AAsZb4.jpg" width="600" alt="社群媒體貼文 - Q 版動漫公仔微距攝影提示詞 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -2236,53 +2238,53 @@ A macro photography shot of a tiny, palm-sized chibi anime figurine sitting in a
 
 ---
 
-### No. 28: 社群媒體貼文 - Cinematic Low-Angle Otaku Bedroom Portrait Prompt
+### No. 28: 社群媒體貼文 - 電影感低角度御宅族臥室人像提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A highly detailed, structured JSON prompt for Nano Banana 2 to generate an ultra-photorealistic, low-angle cinematic portrait of Sabrina Carpenter seated cross-legged in a densely decorated otaku fan's bedroom, emphasizing specific neon lighting, detailed background elements (anime posters, plushies), and precise physical features.
+這是一個為 Nano Banana 2 設計的高度結構化 JSON 提示詞，用於生成 Sabrina Carpenter 盤腿坐在裝飾密集的御宅族臥室中的超寫實低角度電影感人像，強調特定的霓虹燈光、細緻的背景元素（動漫海報、毛絨玩偶）以及精確的身體特徵。
 
 #### 📝 提示詞
 
 ```
 {
   "meta": {
-    "quality": "ultra_photorealistic, raw style, 8k",
+    "quality": "超寫實，原始風格，8k",
     "camera": "iPhone 15 Pro Max",
-    "lighting": "intimate indoor setting, dominated by striking pink neon LED lights on the ceiling, with soft ambient fill",
-    "style": "cinematic low-angle portrait, detailed character study",
+    "lighting": "親密的室內環境，以天花板上醒目的粉色霓虹 LED 燈為主，輔以柔和的環境補光",
+    "style": "電影感低角度人像，細緻的人物研究",
     "aspect_ratio": "9:16"
   },
   "scene": {
-    "location": "An authentic anime fan’s bedroom with lavender walls, filled with a dense, curated collection of otaku culture items. The ceiling features striking linear pink neon LED lights. A neon written 'Love' on wall in backdrop. The background includes all the specific posters from the room setup, notably a large, detailed Dragon Ball poster on the left wall, a ‘Sakamoto Days’ poster, a ‘Naruto’ poster, a ‘The Apothecary Diaries’ poster and multiple other framed and unframed anime character illustrations and wall art pieces covering both visible walls. White floating shelves are filled with diverse manga volumes and various collectible figurines. A string hangs from the ceiling fan with a small charm and plush. On the bed, there is a large, detailed snake body pillow, a yellow Labubu plush, and a Judy Hopps plush. The bed is covered in a black sheet and a lavender blanket.",
-    "atmosphere": "Cozy, vibrant, immersed in otaku culture."
+    "location": "一間充滿御宅族文化的正宗動漫迷臥室，牆壁為淡紫色，佈滿了密集且精心挑選的收藏品。天花板上有醒目的線性粉色霓虹 LED 燈。背景牆上掛著霓虹燈寫著「Love」。背景包含房間設置中的所有特定海報，特別是左牆上的一張大型細緻的《七龍珠》海報、《坂本日常》海報、《火影忍者》海報、《藥師少女的獨語》海報，以及覆蓋兩面可見牆壁的多張有框和無框動漫角色插畫與牆面藝術品。白色懸浮層架上擺滿了各式漫畫書和各種收藏公仔。天花板風扇上掛著一條帶有小飾品和毛絨玩偶的繩子。床上放著一個大型細緻的蛇形抱枕、一個黃色 Labubu 毛絨玩偶和一個 Judy Hopps 毛絨玩偶。床上鋪著黑色床單和淡紫色毯子。",
+    "atmosphere": "舒適、充滿活力，沉浸在御宅族文化中。"
   },
   "subject": {
-    "gender": "female",
+    "gender": "女性",
     "name": "{argument name="subject name" default="Sabrina Carpenter"}",
     "body": {
-      "type": "Realistic, naturally proportioned figure with clean skin, no tattoos on either arm.",
+      "type": "寫實、比例自然的身材，皮膚乾淨，雙臂無紋身。",
       "nails": {
-        "description": "All fingernails and toenails are meticulously painted with glossy electric yellow nail polish."
+        "description": "所有手指甲和腳趾甲都精細地塗上了亮面電光黃色指甲油。"
       }
     },
     "face": {
-      "features": "Distinctive features, high-fashion makeup, blonde hair styled with soft waves, smiling warmly and directly at the camera.",
-      "expression": "Warm, poised, and confident."
+      "features": "輪廓鮮明，高階時尚妝容，金色波浪捲髮，溫暖地微笑並直視鏡頭。",
+      "expression": "溫暖、從容且自信。"
     },
     "outfit": {
-      "description": "Matching soft blue ribbed cotton athletic set (blue sports bra and blue high-waisted leggings).",
-      "fit": "Casually fitted, sporty modern."
+      "description": "配套的淺藍色羅紋棉質運動套裝（藍色運動內衣和藍色高腰緊身褲）。",
+      "fit": "休閒合身，現代運動風。"
     },
     "accessories": {
-      "details": "A single diamond bracelet on her left wrist, a silver ring on her left index finger, and a delicate gold chain with star pendant necklace are present."
+      "details": "左手腕戴著一條鑽石手鍊，左手食指戴著一枚銀戒指，脖子上戴著一條精緻的星星吊墜金項鍊。"
     },
-    "pose": "Seated cross-legged in the middle of the bed, viewed from a very low perspective. Her right foot is very large and dominates the immediate foreground, followed by the left foot positioned slightly behind. Her left hand, with glossy pink fingernails, is casually running through her hair. Her right hand rests near her right knee. The anime plushies and body pillow are in place behind her."
+    "pose": "盤腿坐在床中央，以極低的角度拍攝。右腳在極近的前景中顯得非常大，左腳稍微靠後。左手塗著亮面粉色指甲油，正隨意地撥弄頭髮。右手放在右膝附近。動漫毛絨玩偶和抱枕放置在她身後。"
   },
-  "composition": "Close-up, extreme low-angle shot. The frame is dominated by the large, detailed foreground and Sabrina Carpenter’s face. Focus is sharp on both. The background (anime bedroom) is[TRUNCATED]"
+  "composition": "特寫，極低角度拍攝。畫面由巨大的前景細節和 Sabrina Carpenter 的臉部主導。焦點同時對準兩者。背景（動漫臥室）是[已截斷]"
 ```
 
 #### 🖼️ 生成圖片
@@ -2290,19 +2292,19 @@ A highly detailed, structured JSON prompt for Nano Banana 2 to generate an ultra
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853745488_yshhma_HElm5akbMAAIJm6.jpg" width="600" alt="社群媒體貼文 - Cinematic Low-Angle Otaku Bedroom Portrait Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853745488_yshhma_HElm5akbMAAIJm6.jpg" width="600" alt="社群媒體貼文 - 電影感低角度御宅族臥室人像提示詞 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853745779_iqdz4g_HElm3B4bgAAJccm.jpg" width="600" alt="社群媒體貼文 - Cinematic Low-Angle Otaku Bedroom Portrait Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853745779_iqdz4g_HElm3B4bgAAJccm.jpg" width="600" alt="社群媒體貼文 - 電影感低角度御宅族臥室人像提示詞 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853745489_ghsrgm_HElm0_WbAAEtEFm.jpg" width="600" alt="社群媒體貼文 - Cinematic Low-Angle Otaku Bedroom Portrait Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1774853745489_ghsrgm_HElm0_WbAAEtEFm.jpg" width="600" alt="社群媒體貼文 - 電影感低角度御宅族臥室人像提示詞 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -2316,20 +2318,20 @@ A highly detailed, structured JSON prompt for Nano Banana 2 to generate an ultra
 
 ---
 
-### No. 29: 社群媒體貼文 - Four-Panel Manga: The Magic of Numbers
+### No. 29: 社群媒體貼文 - 四格漫畫：數字的魔法
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-A prompt used with Nano Banana Pro (Gemini 3 Pro Image) to generate a four-panel manga titled 'The Magic of Numbers,' illustrating how financial figures like deficits and budgets can be politically manipulated or reframed as investments.
+這是一個與 Nano Banana Pro (Gemini 3 Pro Image) 搭配使用的提示詞，用於生成名為「數字的魔法」的四格漫畫，旨在說明赤字和預算等財務數據如何透過政治手段進行操弄或重新包裝為投資。
 
 #### 📝 提示詞
 
 ```
-How settlement and budget figures change their appearance through political magic.
+結算與預算數字如何透過政治魔法改變其樣貌。
 
-Just by rephrasing a deficit as an investment, behold the wonder.
+只要將赤字重新定義為投資，見證奇蹟的時刻就到了。
 ```
 
 #### 🖼️ 生成圖片
@@ -2337,7 +2339,7 @@ Just by rephrasing a deficit as an investment, behold the wonder.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853752508_6gtj87_HElV3IRaAAAWdPa.jpg" width="600" alt="社群媒體貼文 - Four-Panel Manga: The Magic of Numbers - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853752508_6gtj87_HElV3IRaAAAWdPa.jpg" width="600" alt="社群媒體貼文 - 四格漫畫：數字的魔法 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2351,14 +2353,14 @@ Just by rephrasing a deficit as an investment, behold the wonder.
 
 ---
 
-### No. 30: 社群媒體貼文 - Sunlit Countryside Milk Drinking Portrait
+### No. 30: 社群媒體貼文 - 陽光鄉村飲奶肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A detailed prompt for Nano Banana Pro to generate an image of a young woman (Kylie Jenner, Kendall Jenner, Sydney Sweeney, or Sadie Sink) sitting in a sunlit countryside field, drinking milk from a glass bottle, with a cow in the background, emphasizing strict identity lock and natural lighting.
+這是一個為 Nano Banana Pro 設計的詳細提示詞，用於生成一位年輕女性（Kylie Jenner、Kendall Jenner、Sydney Sweeney 或 Sadie Sink）坐在陽光普照的鄉村田野中，從玻璃瓶中飲用牛奶的圖像，背景中有一頭牛，強調嚴格的身分鎖定與自然光影。
 
 #### 📝 提示詞
 
@@ -2366,61 +2368,61 @@ A detailed prompt for Nano Banana Pro to generate an image of a young woman (Kyl
 {
   "image_generation_prompt": {
     "subject": {
-      "description": "Young woman sitting in a sunlit countryside field drinking milk from a glass bottle, Use uploaded reference image, keep identity exact",
-      "identity_lock": "STRICT — Use uploaded reference image, keep identity exact. Preserve facial structure, skin tone, eyes, proportions. Do not alter identity.",
+      "description": "年輕女性坐在陽光普照的鄉村田野中，從玻璃瓶中飲用牛奶，使用上傳的參考圖像，保持身分完全一致",
+      "identity_lock": "嚴格 — 使用上傳的參考圖像，保持身分完全一致。保留臉部結構、膚色、眼睛與比例。請勿更改身分。",
       "pose": {
-        "body_position": "sitting on the ground in a relaxed leaning pose",
-        "torso": "slightly reclined backward supported by one arm",
-        "head_position": "tilted slightly back and to the side while drinking",
-        "arms": "one hand holding a glass milk bottle near lips, other arm extended behind for support",
-        "legs": "one leg bent casually, the other extended out of frame",
-        "posture": "natural relaxed countryside pose",
-        "expression": "eyes gently closed or relaxed while drinking"
+        "body_position": "以放鬆的姿勢坐在地上",
+        "torso": "身體微微後仰，由一隻手臂支撐",
+        "head_position": "飲用時頭部微微向後並向一側傾斜",
+        "arms": "一隻手拿著玻璃牛奶瓶靠近嘴唇，另一隻手臂向後伸展以支撐身體",
+        "legs": "一條腿隨意彎曲，另一條腿延伸至畫面外",
+        "posture": "自然的鄉村放鬆姿勢",
+        "expression": "飲用時雙眼輕閉或呈現放鬆狀態"
       }
     },
     "face_details": {
-      "instruction": "Use uploaded reference image, keep identity exact",
-      "expression": "calm, natural, soft enjoyment expression",
-      "skin": "realistic skin texture with visible pores and slight sun glow",
-      "eyes": "natural relaxed eyelids, soft shadows",
-      "imperfections": "subtle asymmetry, natural skin variation"
+      "instruction": "使用上傳的參考圖像，保持身分完全一致",
+      "expression": "平靜、自然、柔和的享受表情",
+      "skin": "逼真的皮膚紋理，可見毛孔與些許陽光光澤",
+      "eyes": "自然的放鬆眼瞼，柔和的陰影",
+      "imperfections": "細微的不對稱感，自然的皮膚變化"
     },
     "hair": {
-      "instruction": "Preserve hairstyle exactly",
-      "style": "long brunette hair tied into a low side ponytail with a white ribbon",
-      "details": "soft natural strands, slight movement from breeze"
+      "instruction": "完全保留髮型",
+      "style": "深褐色長髮，綁成低側馬尾並繫上白色緞帶",
+      "details": "柔和的自然髮絲，隨微風輕微擺動"
     },
     "makeup": {
-      "style": "natural soft glam",
-      "skin_finish": "light sun-kissed glow",
-      "eyes": "neutral tones with soft eyeliner and mascara",
-      "lips": "natural pink tone with slight gloss",
-      "imperfection": "slightly uneven blending for realism"
+      "style": "自然柔和的精緻妝容",
+      "skin_finish": "輕微的陽光親吻光澤",
+      "eyes": "中性色調，搭配柔和的眼線與睫毛膏",
+      "lips": "自然的粉色調，帶有輕微光澤",
+      "imperfection": "為了真實感，暈染稍微不均勻"
     },
     "clothing": {
-      "outfit": "{argument name="dress color and pattern" default="light beige dress with black polka dots"}",
-      "fit": "flowy feminine fit with soft fabric folds",
-      "details": "short sleeves, lightweight fabric reacting to sunlight"
+      "outfit": "{argument name="dress color and pattern" default="帶有黑色圓點的淺米色連身裙"}",
+      "fit": "飄逸的女性化剪裁，布料褶皺柔軟",
+      "details": "短袖，輕盈的布料在陽光下呈現自然質感"
     },
     "environment": {
-      "setting": "open countryside field",
-      "background": "large black and white cow standing behind subject, grassy field with wildflowers, blue sky with soft clouds",
-      "ground": "dry grass mixed with small flowers and natural texture",
-      "props": "glass milk bottle with slight milk spill detail"
+      "setting": "開闊的鄉村田野",
+      "background": "主體後方站著一頭黑白相間的牛，草地上開滿野花，藍天伴隨柔和雲朵",
+      "ground": "乾草混合小花與自然紋理",
+      "props": "玻璃牛奶瓶，帶有輕微的牛奶溢出細節"
     },
     "lighting": {
-      "type": "natural sunlight",
-      "style": "bright midday rural sunlight",
-      "effect": "warm highlights and soft natural shadows",
-      "shadows": "directional shadows on grass and body",
-      "imperfections": "slight highlight clipping and natural exposure variation"
+      "type": "自然陽光",
+      "style": "明亮的中午鄉村陽光",
+      "effect": "溫暖的高光與柔和的自然陰影",
+      "shadows": "草地與身體上的方向性陰影",
+      "imperfections": "輕微的高光溢出與自然的曝光變化"
     },
     "camera": {
       "type": "DSLR",
       "lens": "50mm",
-      "angle": "slightly low angle, close to ground perspective",
-      "distance": "medium shot",
-      "focus": "sharp focus on subject, sligh"
+      "angle": "略低的仰角，接近地面的視角",
+      "distance": "中景",
+      "focus": "主體清晰對焦"
     }
   }
 }
@@ -2431,25 +2433,25 @@ A detailed prompt for Nano Banana Pro to generate an image of a young woman (Kyl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853736247_5g7fnn_HElLp_pbIAALuuo.jpg" width="600" alt="社群媒體貼文 - Sunlit Countryside Milk Drinking Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853736247_5g7fnn_HElLp_pbIAALuuo.jpg" width="600" alt="社群媒體貼文 - 陽光鄉村飲奶肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853736150_p3ht5r_HElLqdFbYAAmbn3.jpg" width="600" alt="社群媒體貼文 - Sunlit Countryside Milk Drinking Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853736150_p3ht5r_HElLqdFbYAAmbn3.jpg" width="600" alt="社群媒體貼文 - 陽光鄉村飲奶肖像 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853736411_m9hy4f_HElLphxa8AA6hSc.jpg" width="600" alt="社群媒體貼文 - Sunlit Countryside Milk Drinking Portrait - Image 3">
+<img src="https://cms-assets.youmind.com/media/1774853736411_m9hy4f_HElLphxa8AA6hSc.jpg" width="600" alt="社群媒體貼文 - 陽光鄉村飲奶肖像 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853737190_9khkp6_HElLq6_aUAEaXC1.jpg" width="600" alt="社群媒體貼文 - Sunlit Countryside Milk Drinking Portrait - Image 4">
+<img src="https://cms-assets.youmind.com/media/1774853737190_9khkp6_HElLq6_aUAEaXC1.jpg" width="600" alt="社群媒體貼文 - 陽光鄉村飲奶肖像 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -2463,54 +2465,55 @@ A detailed prompt for Nano Banana Pro to generate an image of a young woman (Kyl
 
 ---
 
-### No. 31: 社群媒體貼文 - Cinematic Low-Angle Otaku Bedroom Portrait
+### No. 31: 社群媒體貼文 - 電影感低角度御宅族臥室人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A highly detailed, ultra-photorealistic prompt for Nano Banana Pro, focusing on a cinematic low-angle portrait of Jennifer Lawrence in an authentic otaku-themed bedroom, emphasizing the foreground detail of her feet and the vibrant pink neon lighting.
+這是一個為 Nano Banana Pro 設計的高細節、超寫實提示詞，聚焦於 Jennifer Lawrence 在真實御宅族主題臥室中的電影感低角度人像，強調前景腳部的細節與鮮豔的粉色霓虹燈光。
 
 #### 📝 提示詞
 
 ```
 {
-  “meta”: {
-    “quality”: “ultra_photorealistic, raw style, 8k”,
-    “camera”: “iPhone 15 Pro Max”,
-    “lighting”: “intimate indoor setting, dominated by striking pink neon LED lights on the ceiling, with soft ambient fill”,
-    “style”: “cinematic low-angle portrait, detailed character study”,
-    “aspect_ratio”: “9:16”
+  "meta": {
+    "quality": "超寫實，原始風格，8k",
+    "camera": "iPhone 15 Pro Max",
+    "lighting": "親密的室內環境，以天花板上醒目的粉色霓虹 LED 燈為主，輔以柔和的環境補光",
+    "style": "電影感低角度人像，細膩的角色刻畫",
+    "aspect_ratio": "9:16"
   },
-  “scene”: {
-    “location”: “An authentic anime fan’s bedroom with lavender walls, filled with a dense, curated collection of otaku culture items. The ceiling features striking linear pink neon LED lights.A lights. A neon written 'KeorUnreal' on wall in backdrop. The background includes all the specific posters from the room setup, notably a large, detailed dragon spheres Dragonball poster on the left wall, a ‘Sakamoto days’ poster, a ‘Naruto' poster, a 'The apothecary diaries' poster and multiple other framed and unframed anime character illustrations and wall art pieces covering both visible walls.
-White floating shelves are filled with diverse manga volumes and various collectible figurines. A string hangs from the ceiling fan with a small charm and plush. On the bed, there is a large, detailed snake body pillow, a yellow Labubu plush, and a Judy hoops plush. The bed is covered in a black sheet and a lavender blanket.”,
-    “atmosphere”: “Cozy, vibrant, immersed in otaku culture.”
+  "scene": {
+    "location": "一間真實的動漫迷臥室，牆壁為薰衣草色，擺滿了密集且精心挑選的御宅文化收藏品。天花板上有醒目的線性粉色霓虹 LED 燈。背景牆上寫有『KeorUnreal』的霓虹燈字樣。背景包括房間佈置中的所有特定海報，特別是左側牆上有一張大型且細節豐富的《七龍珠》海報、《坂本日常》海報、《火影忍者》海報、《藥師少女的獨語》海報，以及多張覆蓋兩面可見牆壁的裱框與未裱框動漫角色插畫和牆面藝術品。
+白色懸浮層架上擺滿了各種漫畫單行本和各式收藏公仔。天花板吊扇上懸掛著一條帶有小吊飾和絨毛玩偶的繩子。床上放著一個大型且細節豐富的蛇形抱枕、一個黃色 Labubu 絨毛玩偶和一個 Judy Hopps 絨毛玩偶。床鋪覆蓋著黑色床單和薰衣草色毯子。",
+    "atmosphere": "舒適、充滿活力，沉浸在御宅文化中。"
   },
-  “subject”: {
-    “gender”: “female”,
-    “name”: “{argument name="subject name" default="Jennifer Lawrence"} ”,
-    “body”: {
-      “type”: “Realistic, naturally proportioned figure with clean skin, no tattoos on either arm.”,
-      “nails”: {
-        “description”: “All fingernails and toenails are meticulously painted with a glossy electric yellow with draws nail polish.”
+  "subject": {
+    "gender": "女性",
+    "name": "{argument name=\"subject name\" default=\"Jennifer Lawrence\"} ",
+    "body": {
+      "type": "寫實、比例自然的體態，皮膚乾淨，雙臂均無刺青。",
+      "nails": {
+        "description": "所有手指甲和腳趾甲都精心塗上了亮眼的電光黃色指甲油。"
       }
     },
-    “face”: {
-      “features”: “Distinctive features, high-fashion makeup, wavy blonde hair, smiling warmly and directly at the camera.”,
-      “expression”: “Warm, poised, and confident.”
+    "face": {
+      "features": "輪廓鮮明，精緻的高級時尚妝容，波浪狀金髮，溫暖地直視鏡頭微笑。",
+      "expression": "溫暖、從容且自信。"
     },
-“outfit”: {
-      “description”: “Matching pink ribbed cotton athletic set (pink sports bra and pink high-waisted leggings).”,
-      “fit”: “Casually fitted, sporty modern.”
+    "outfit": {
+      "description": "成套的粉色羅紋棉質運動套裝（粉色運動內衣和粉色高腰緊身褲）。",
+      "fit": "休閒合身，現代運動風。"
     },
-    “accessories”: {
-      “details”: “A single diamond bracelet on her left wrist, a silver ring on her left index finger, and a delicate gold chain with star pendant necklace are present.”
+    "accessories": {
+      "details": "左手腕戴著一條鑽石手鍊，左手食指戴著一枚銀戒指，脖子上戴著一條精緻的金色星形墜飾項鍊。"
     },
-    “pose”: “Seated cross-legged in the middle of the bed, viewed from a very low perspective. Her bare right foot is very large and dominates the immediate foreground, followed by the left foot positioned slightly behind. Her left hand, with glossy pink fingernails, is casually running through her hair. Her right hand rests near her right knee. The anime plushies and body pillow are in place behind her.”
+    "pose": "盤腿坐在床中央，從極低的角度拍攝。她赤裸的右腳非常大，佔據了近處的前景，左腳則稍微靠後。她的左手塗著亮粉色指甲油，正隨意地撥弄頭髮。右手放在右膝附近。動漫絨毛玩偶和抱枕放置在她身後。"
   },
-“composition”: “Close-up, extreme low-angle shot. The frame is dominated by the large, detailed foreground feet (with pink toenails) and {argument name="subject name" default="Jennifer Lawrence"}
+  "composition": "特寫，極低角度拍攝。畫面由前景中巨大且細節豐富的腳部（塗有粉色腳趾甲油）以及 {argument name=\"subject name\" default=\"Jennifer Lawrence\"} 主導。"
+}
 ```
 
 #### 🖼️ 生成圖片
@@ -2518,19 +2521,19 @@ White floating shelves are filled with diverse manga volumes and various collect
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853730124_szm0ja_HElLf_cWwAAkUDQ.jpg" width="600" alt="社群媒體貼文 - Cinematic Low-Angle Otaku Bedroom Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853730124_szm0ja_HElLf_cWwAAkUDQ.jpg" width="600" alt="社群媒體貼文 - 電影感低角度御宅族臥室人像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853730142_uceo4n_HElLgHTWMAA7rJG.jpg" width="600" alt="社群媒體貼文 - Cinematic Low-Angle Otaku Bedroom Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853730142_uceo4n_HElLgHTWMAA7rJG.jpg" width="600" alt="社群媒體貼文 - 電影感低角度御宅族臥室人像 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853730205_j3xs9j_HElLgCwbAAAq0-L.jpg" width="600" alt="社群媒體貼文 - Cinematic Low-Angle Otaku Bedroom Portrait - Image 3">
+<img src="https://cms-assets.youmind.com/media/1774853730205_j3xs9j_HElLgCwbAAAq0-L.jpg" width="600" alt="社群媒體貼文 - 電影感低角度御宅族臥室人像 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -2544,13 +2547,13 @@ White floating shelves are filled with diverse manga volumes and various collect
 
 ---
 
-### No. 32: 社群媒體貼文 - Soft Girl Sporty Basketball Court Editorial
+### No. 32: 社群媒體貼文 - Soft Girl 運動風籃球場時尚大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed prompt for Nano Banana Pro to generate a lifestyle editorial image of Anya Taylor-Joy in a 'soft girl meets sporty' aesthetic, squatting on an outdoor basketball court during golden hour, emphasizing strict identity lock and photorealistic details.
+一份為 Nano Banana Pro 準備的詳細提示詞，用於生成 Anya Taylor-Joy 的「Soft Girl 遇上運動風」美學生活時尚大片。場景設定於黃金時刻的戶外籃球場，強調嚴格的身份鎖定與照片級真實細節。
 
 #### 📝 提示詞
 
@@ -2558,67 +2561,67 @@ A detailed prompt for Nano Banana Pro to generate a lifestyle editorial image of
 {
   "image_generation_prompt": {
     "subject": {
-      "description": "Young woman squatting on an outdoor basketball court holding a basketball close to her face, Use uploaded reference image, keep identity exact",
-      "identity_lock": "STRICT — Use uploaded reference image, keep identity exact. Preserve facial features, skin tone, eyes, and proportions. Do not alter identity.",
+      "description": "年輕女性蹲在戶外籃球場，雙手將籃球靠近臉部。請使用上傳的參考圖，並確保身份完全一致。",
+      "identity_lock": "嚴格要求 — 使用上傳的參考圖，確保身份完全一致。保留面部特徵、膚色、眼睛與比例。請勿更改身份。",
       "pose": {
-        "body_position": "deep squat position with heels raised slightly",
-        "legs": "knees bent fully, feet close together",
-        "torso": "upright with slight forward lean",
-        "arms": "one hand holding basketball near cheek, other arm relaxed near knee",
-        "head_position": "tilted slightly toward ball",
-        "expression": "soft confident gaze toward camera with slightly parted lips"
+        "body_position": "深蹲姿勢，腳跟微微抬起",
+        "legs": "膝蓋完全彎曲，雙腳併攏",
+        "torso": "上半身挺直並微微前傾",
+        "arms": "一隻手將籃球拿在臉頰旁，另一隻手放鬆地靠近膝蓋",
+        "head_position": "頭部微微向球的方向傾斜",
+        "expression": "眼神柔和自信地看向鏡頭，嘴唇微張"
       }
     },
     "face_details": {
-      "instruction": "Use uploaded reference image, keep identity exact",
-      "expression": "confident, relaxed, slightly playful",
-      "skin": "realistic texture with visible pores and natural glow from sunlight",
-      "eyes": "sharp with warm sunlight reflections",
-      "imperfections": "natural asymmetry and skin variation"
+      "instruction": "使用上傳的參考圖，確保身份完全一致",
+      "expression": "自信、放鬆、帶點俏皮",
+      "skin": "真實的皮膚紋理，可見毛孔與陽光下的自然光澤",
+      "eyes": "眼神銳利，帶有溫暖的陽光反射",
+      "imperfections": "自然的臉部不對稱與皮膚細節變化"
     },
     "hair": {
-      "instruction": "Preserve hairstyle exactly",
-      "style": "long straight hair falling over shoulders",
-      "details": "natural movement, slight wind or softness"
+      "instruction": "完整保留髮型",
+      "style": "長直髮垂落在肩膀上",
+      "details": "自然的髮絲動態，帶有微風吹拂的柔軟感"
     },
     "makeup": {
-      "style": "natural glam",
-      "skin_finish": "warm sunlit glow",
-      "eyes": "light eyeliner and mascara",
-      "lips": "natural glossy tone",
-      "imperfection": "slightly imperfect blending for realism"
+      "style": "自然精緻妝容",
+      "skin_finish": "溫暖的陽光光澤",
+      "eyes": "淡眼線與睫毛膏",
+      "lips": "自然的唇蜜色調",
+      "imperfection": "略顯不完美的暈染以增加真實感"
     },
     "clothing": {
-      "outfit": "white fitted crop top and orange athletic shorts",
-      "footwear": "clear high-heeled shoes with socks",
-      "accessories": "bracelets and glasses",
-      "details": "natural fabric folds, slight stretch"
+      "outfit": "白色合身短版上衣與橘色運動短褲",
+      "footwear": "透明高跟鞋搭配襪子",
+      "accessories": "手環與眼鏡",
+      "details": "自然的布料皺褶，輕微的彈性拉伸感"
     },
     "environment": {
-      "setting": "outdoor basketball court",
-      "surface": "reddish court with white curved line markings",
-      "props": "basketball with visible branding",
-      "background": "trees, fence posts, and soft blurred park environment"
+      "setting": "戶外籃球場",
+      "surface": "紅色的球場地面，帶有白色弧線標記",
+      "props": "帶有明顯品牌標誌的籃球",
+      "background": "樹木、圍欄柱與柔和模糊的公園環境"
     },
     "lighting": {
-      "type": "golden hour sunlight",
-      "style": "warm directional light from side",
-      "effect": "strong warm highlights and soft long shadows",
-      "shadows": "soft elongated shadows on ground",
-      "imperfections": "slight overexposure on highlights"
+      "type": "黃金時刻陽光",
+      "style": "來自側面的溫暖定向光",
+      "effect": "強烈的暖色高光與柔和的長陰影",
+      "shadows": "地面上柔和且拉長的陰影",
+      "imperfections": "高光處略微過曝"
     },
     "camera": {
-      "type": "digital camera",
+      "type": "數位相機",
       "lens": "50mm",
-      "angle": "slightly low angle at subject level",
-      "distance": "medium full-body framing",
-      "focus": "sharp on subject with soft background blur",
-      "imperfections": "slight lens softness, natural grain"
+      "angle": "略低的拍攝角度，與主體視線齊平",
+      "distance": "中景全身構圖",
+      "focus": "主體清晰，背景呈現柔和虛化",
+      "imperfections": "輕微的鏡頭柔焦感，帶有自然顆粒感"
     },
     "composition": {
-      "style": "lifestyle editorial",
-      "framing": "full body centered composition",
-      "balance": "subject centered with leading court l"
+      "style": "生活時尚大片",
+      "framing": "全身居中構圖",
+      "balance": "主體居中，並利用球場線條引導視覺"
     }
   }
 }
@@ -2629,7 +2632,7 @@ A detailed prompt for Nano Banana Pro to generate a lifestyle editorial image of
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853734577_3o3kn6_HElHJlJagAAayTY.jpg" width="600" alt="社群媒體貼文 - Soft Girl Sporty Basketball Court Editorial - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853734577_3o3kn6_HElHJlJagAAayTY.jpg" width="600" alt="社群媒體貼文 - Soft Girl 運動風籃球場時尚大片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2643,18 +2646,18 @@ A detailed prompt for Nano Banana Pro to generate a lifestyle editorial image of
 
 ---
 
-### No. 33: 社群媒體貼文 - Japanese Suburb in 2000s Old Footage Style
+### No. 33: 社群媒體貼文 - 2000 年代日本郊區復古錄影帶風格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt used with Nano Banana Pro via Google Gemini 3.1 to generate images depicting a Japanese suburb with the atmosphere of the 2000s, styled like old video footage.
+這是一個搭配 Google Gemini 3.1 使用 Nano Banana Pro 的提示詞，用於生成具有 2000 年代氛圍、呈現舊式錄影帶質感的日本郊區影像。
 
 #### 📝 提示詞
 
 ```
-a Japanese suburb in the the 2000s atmosphere that like an old footage
+2000 年代日本郊區，具有舊式錄影帶的氛圍
 ```
 
 #### 🖼️ 生成圖片
@@ -2662,25 +2665,25 @@ a Japanese suburb in the the 2000s atmosphere that like an old footage
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853748669_xm0v8z_HEUi1nHbYAE3pWj.jpg" width="600" alt="社群媒體貼文 - Japanese Suburb in 2000s Old Footage Style - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853748669_xm0v8z_HEUi1nHbYAE3pWj.jpg" width="600" alt="社群媒體貼文 - 2000 年代日本郊區復古錄影帶風格 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853748597_4u70ry_HEUi1mPboAAPZ92.jpg" width="600" alt="社群媒體貼文 - Japanese Suburb in 2000s Old Footage Style - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853748597_4u70ry_HEUi1mPboAAPZ92.jpg" width="600" alt="社群媒體貼文 - 2000 年代日本郊區復古錄影帶風格 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853748691_1odmjt_HEUi1nGbYAE3w1V.jpg" width="600" alt="社群媒體貼文 - Japanese Suburb in 2000s Old Footage Style - Image 3">
+<img src="https://cms-assets.youmind.com/media/1774853748691_1odmjt_HEUi1nGbYAE3w1V.jpg" width="600" alt="社群媒體貼文 - 2000 年代日本郊區復古錄影帶風格 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853749938_sovzib_HEUi1nPbYAQQD3j.jpg" width="600" alt="社群媒體貼文 - Japanese Suburb in 2000s Old Footage Style - Image 4">
+<img src="https://cms-assets.youmind.com/media/1774853749938_sovzib_HEUi1nPbYAQQD3j.jpg" width="600" alt="社群媒體貼文 - 2000 年代日本郊區復古錄影帶風格 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -2694,13 +2697,13 @@ a Japanese suburb in the the 2000s atmosphere that like an old footage
 
 ---
 
-### No. 34: 社群媒體貼文 - Generate a 2000s Japanese Suburb Atmosphere
+### No. 34: 社群媒體貼文 - 生成 2000 年代日本郊區氛圍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for the Nano Banana Pro (Gemini 3.1 image generator) to create an image depicting a Japanese suburb in the 2000s, styled like old footage, evoking a sense of nostalgia.
+這是一個給 Nano Banana Pro (Gemini 3.1 圖像生成器) 的提示詞，用於創作一張描繪 2000 年代日本郊區的圖像，採用舊錄影帶風格，營造出懷舊感。
 
 #### 📝 提示詞
 
@@ -2713,25 +2716,25 @@ A prompt for the Nano Banana Pro (Gemini 3.1 image generator) to create an image
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853751962_zktk9p_HEUiiFUbUAEK1qq.jpg" width="600" alt="社群媒體貼文 - Generate a 2000s Japanese Suburb Atmosphere - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853751962_zktk9p_HEUiiFUbUAEK1qq.jpg" width="600" alt="社群媒體貼文 - 生成 2000 年代日本郊區氛圍 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853752351_8xpzre_HEUiiF7akAAfWAM.jpg" width="600" alt="社群媒體貼文 - Generate a 2000s Japanese Suburb Atmosphere - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853752351_8xpzre_HEUiiF7akAAfWAM.jpg" width="600" alt="社群媒體貼文 - 生成 2000 年代日本郊區氛圍 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853752367_u6gore_HEUiiEkbYAIKIft.jpg" width="600" alt="社群媒體貼文 - Generate a 2000s Japanese Suburb Atmosphere - Image 3">
+<img src="https://cms-assets.youmind.com/media/1774853752367_u6gore_HEUiiEkbYAIKIft.jpg" width="600" alt="社群媒體貼文 - 生成 2000 年代日本郊區氛圍 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853753382_vsn2zf_HEUiiGFbYAEvcHF.jpg" width="600" alt="社群媒體貼文 - Generate a 2000s Japanese Suburb Atmosphere - Image 4">
+<img src="https://cms-assets.youmind.com/media/1774853753382_vsn2zf_HEUiiGFbYAEvcHF.jpg" width="600" alt="社群媒體貼文 - 生成 2000 年代日本郊區氛圍 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -2745,14 +2748,14 @@ A prompt for the Nano Banana Pro (Gemini 3.1 image generator) to create an image
 
 ---
 
-### No. 35: 社群媒體貼文 - Editorial Nightlife Candid on a Billiards Table
+### No. 35: 社群媒體貼文 - 編輯風格夜生活隨拍：撞球檯上的身影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A highly structured JSON prompt for Nano Banana Pro to generate an image of a young woman (Sydney Sweeney) lying sideways on a green felt billiards table in a dimly lit bar. The prompt mandates strict identity lock, specifies flash photography lighting for harsh shadows and highlights, and details the pose, clothing, and environment for an editorial nightlife candid aesthetic.
+這是一個為 Nano Banana Pro 設計的高度結構化 JSON 提示詞，旨在生成一張年輕女性（Sydney Sweeney）側臥在昏暗酒吧綠色絨布撞球檯上的影像。該提示詞要求嚴格鎖定人物特徵，指定使用閃光燈攝影以營造強烈的陰影與高光對比，並詳細描述了姿勢、服裝與環境，以呈現編輯風格的夜生活隨拍美學。
 
 #### 📝 提示詞
 
@@ -2760,65 +2763,65 @@ A highly structured JSON prompt for Nano Banana Pro to generate an image of a yo
 {
   "image_generation_prompt": {
     "subject": {
-      "description": "Young woman lying sideways across a green billiards table in a dim bar setting, surrounded by scattered pool balls, Use uploaded reference image, keep identity exact",
-      "identity_lock": "STRICT — Use uploaded reference image, keep identity exact. Preserve face, hair, eyes, proportions. Do not alter identity.",
+      "description": "年輕女性側臥在昏暗酒吧的綠色撞球檯上，周圍散落著撞球。請使用上傳的參考圖，並確保人物特徵完全一致。",
+      "identity_lock": "嚴格要求 — 使用上傳的參考圖，保持人物特徵完全一致。保留臉部、頭髮、眼睛及比例。不得更改人物特徵。",
       "pose": {
-        "body_position": "lying sideways across the edge of the pool table, torso partially on table and partially hanging off",
-        "head_position": "head resting on table surface, slightly tilted toward camera",
-        "arms": "one arm bent with fingers lightly touching hair near forehead, other hand resting on torso",
-        "legs": "lower body angled off table, mostly out of frame",
-        "expression": "relaxed, soft gaze toward camera with slightly parted lips"
+        "body_position": "側臥在撞球檯邊緣，軀幹部分在檯面上，部分懸空",
+        "head_position": "頭部靠在檯面上，稍微向鏡頭傾斜",
+        "arms": "一隻手臂彎曲，手指輕觸額頭附近的頭髮，另一隻手放在軀幹上",
+        "legs": "下半身向檯外延伸，大部分在畫面之外",
+        "expression": "放鬆，眼神柔和地看向鏡頭，雙唇微張"
       }
     },
     "face_details": {
-      "instruction": "Use uploaded reference image, keep identity exact",
-      "expression": "calm, slightly dreamy expression",
-      "skin": "realistic texture with visible pores and natural shine from flash",
-      "eyes": "sharp with subtle reflections",
-      "imperfections": "natural asymmetry, no smoothing"
+      "instruction": "使用上傳的參考圖，確保人物特徵完全一致",
+      "expression": "冷靜且帶有夢幻感的表情",
+      "skin": "真實的皮膚紋理，可見毛孔，並帶有閃光燈產生的自然光澤",
+      "eyes": "眼神銳利，帶有細微的反光",
+      "imperfections": "自然的臉部不對稱，不進行磨皮處理"
     },
     "hair": {
-      "instruction": "Preserve hairstyle exactly",
-      "style": "spread loosely across table surface",
-      "details": "natural flow with slight messiness and individual strands visible"
+      "instruction": "精確保留髮型",
+      "style": "鬆散地散落在檯面上",
+      "details": "自然的流動感，帶有輕微的凌亂感，可見單根髮絲"
     },
     "makeup": {
-      "style": "soft glam evening look",
-      "skin_finish": "slightly dewy with flash highlights",
-      "eyes": "subtle eyeliner and mascara",
-      "lips": "natural pink tone with slight gloss",
-      "imperfection": "slightly imperfect blending for realism"
+      "style": "柔和的晚宴妝容",
+      "skin_finish": "微光澤感，帶有閃光燈高光",
+      "eyes": "細緻的眼線與睫毛膏",
+      "lips": "自然的粉色調，帶有輕微光澤",
+      "imperfection": "為了真實感，妝容暈染略帶不完美"
     },
     "clothing": {
-      "outfit": "{argument name="outfit color" default="black"} long-sleeve fitted top with dark bottoms",
-      "fit": "body-hugging, minimal",
-      "details": "natural fabric tension and folds"
+      "outfit": "{argument name="outfit color" default="black"} 長袖合身上衣搭配深色下裝",
+      "fit": "貼身、極簡",
+      "details": "自然的布料張力與褶皺"
     },
     "environment": {
-      "setting": "dimly lit bar or pool hall",
-      "table": "green felt billiards table",
-      "props": "scattered colorful pool balls around subject",
-      "background": "dark wooden furniture, chairs, low ambient light"
+      "setting": "昏暗的酒吧或撞球廳",
+      "table": "綠色絨布撞球檯",
+      "props": "主體周圍散落著色彩鮮豔的撞球",
+      "background": "深色木質家具、椅子，低環境光"
     },
     "lighting": {
-      "type": "direct flash photography",
-      "style": "strong frontal flash",
-      "effect": "bright highlights on face and table, slightly overexposed skin areas",
-      "shadows": "hard shadows and deep dark background",
-      "imperfections": "flash hotspots, slight uneven exposure"
+      "type": "直射閃光燈攝影",
+      "style": "強烈的正面閃光",
+      "effect": "臉部與檯面上有明亮的高光，皮膚區域略微過曝",
+      "shadows": "強烈的陰影與深邃的背景暗部",
+      "imperfections": "閃光燈熱點，輕微的不均勻曝光"
     },
     "camera": {
-      "type": "digital camera",
+      "type": "數位相機",
       "lens": "35mm",
-      "angle": "top-down diagonal angle",
-      "distance": "close-medium framing",
-      "focus": "sharp on face and upper body",
-      "imperfections": "slight noise, realistic grain, flash harshness"
+      "angle": "由上而下的對角線視角",
+      "distance": "中近景構圖",
+      "focus": "焦點清晰對準臉部與上半身",
+      "imperfections": "輕微的噪點、真實的顆粒感，閃光燈帶來的強烈質感"
     },
     "composition": {
-      "style": "editorial nightlife candid",
-      "framing": "diagonal composition across frame",
-      "balance": "subject of
+      "style": "編輯風格夜生活隨拍",
+      "framing": "橫跨畫面的對角線構圖",
+      "balance": "主體位於"
 ```
 
 #### 🖼️ 生成圖片
@@ -2826,19 +2829,19 @@ A highly structured JSON prompt for Nano Banana Pro to generate an image of a yo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853729305_o0lv8r_HElCgRebkAAEzKD.jpg" width="600" alt="社群媒體貼文 - Editorial Nightlife Candid on a Billiards Table - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853729305_o0lv8r_HElCgRebkAAEzKD.jpg" width="600" alt="社群媒體貼文 - 編輯風格夜生活隨拍：撞球檯上的身影 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853729360_s5pl4m_HElCfgzbwAAw8Hw.jpg" width="600" alt="社群媒體貼文 - Editorial Nightlife Candid on a Billiards Table - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853729360_s5pl4m_HElCfgzbwAAw8Hw.jpg" width="600" alt="社群媒體貼文 - 編輯風格夜生活隨拍：撞球檯上的身影 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853729472_4sbj08_HElCezObYAA3YWd.jpg" width="600" alt="社群媒體貼文 - Editorial Nightlife Candid on a Billiards Table - Image 3">
+<img src="https://cms-assets.youmind.com/media/1774853729472_4sbj08_HElCezObYAA3YWd.jpg" width="600" alt="社群媒體貼文 - 編輯風格夜生活隨拍：撞球檯上的身影 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -2852,19 +2855,19 @@ A highly structured JSON prompt for Nano Banana Pro to generate an image of a yo
 
 ---
 
-### No. 36: 資訊圖表 / 教育視覺化內容 - Technical Architectural Blueprint of a Smash Burger
+### No. 36: 資訊圖表 / 教育視覺化內容 - Smash Burger 技術架構藍圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A highly specific prompt for Nano Banana Pro to generate a technical architectural blueprint of a classic smash burger on deep navy drafting paper. The prompt demands hyperrealistic food rendering with precise measurement lines, stack height callouts, and detailed labels connected by glowing CAD lines, showcasing the model's ability to handle complex text and technical fidelity.
+這是一個針對 Nano Banana Pro 的高度特定提示詞，旨在生成一張深藍色繪圖紙上的經典 Smash Burger 技術架構藍圖。該提示詞要求具備超寫實的食物渲染效果，包含精確的測量線、堆疊高度標註，以及由發光 CAD 線條連接的詳細標籤，藉此展現模型處理複雜文字與技術精確度的能力。
 
 #### 📝 提示詞
 
 ```
-Technical architectural blueprint of a Classic Smash Burger on deep navy drafting paper. Hyperrealistic food hero centered-left, dramatically lit from upper left, warm studio spotlight, cross-section view revealing every layer in precise stack order, lacy-edged patties visible in full photorealistic color, cheese mid-cascade, bun toasted golden, sauce pooling at base catching warm light. Blueprint linework in electric blue, precise measurement lines, stack height callouts, patty thickness cross-section, bun diameter diagram, sauce trajectory arc, grid overlay. Labels connected by thin glowing CAD elbow-joint lines, no crossovers: "{argument name="label 1" default="BRIOCHE BUN sesame-crowned, butter-toasted, 11cm diameter"}" "{argument name="label 2" default="SMASH PATTY ×2  80/20 chuck, 85g each, crust-temp 220°C"}"  "{argument name="label 3" default="AMERICAN CHEESE  single-fold melt, 2 slices, full cascade}"  "CARAMELIZED ONION  45min low-heat, moisture-reduced, dark"  "BREAD & BUTTER PICKLE  4mm slice, brine-bright, translucent"  "HOUSE SAUCE  thousand island base, 18g applied, amber". Labels clustered right and top, white Helvetica Neue Light uppercase, thin italic descriptors below. Compass rose bottom-left, scale bar bottom-center, revision block top-right. Title block double-border bottom-right: "DISH: THE SMASH // CLASSIFICATION: AMERICAN CLASSIC // BUILD SPEC: Engineered to be the last burger you ever need." 4K, tack sharp, electric blue linework glowing softly, warm golden burger tones popping against cool navy. Craveable.
+深藍色繪圖紙上的經典 Smash Burger 技術架構藍圖。超寫實食物主體位於中左側，從左上方進行戲劇性打光，溫暖的攝影棚聚光燈，剖面視圖揭示了每一層的精確堆疊順序，蕾絲邊肉餅呈現完整的照片級真實色彩，起司呈現半融化狀態，麵包烤至金黃，醬汁在底部匯聚並捕捉溫暖光線。藍圖線條為電光藍色，包含精確的測量線、堆疊高度標註、肉餅厚度剖面、麵包直徑圖、醬汁軌跡弧線、網格疊加。標籤由細長的發光 CAD 肘形線連接，無交叉：「{argument name="label 1" default="布里歐麵包 (BRIOCHE BUN) 芝麻頂部，奶油烘烤，直徑 11 公分"}」「{argument name="label 2" default="SMASH 肉餅 ×2 80/20 牛絞肉，每份 85 克，外殼溫度 220°C"}」「{argument name="label 3" default="美式起司 單折融化，2 片，完全覆蓋"}」「焦糖洋蔥 低溫烹調 45 分鐘，水分減少，色澤深邃」「酸黃瓜 4mm 切片，鹽漬鮮亮，半透明」「特製醬汁 千島醬基底，塗抹 18 克，琥珀色」。標籤集中在右側與頂部，使用白色 Helvetica Neue Light 大寫字體，下方附有細體斜體描述。左下角為羅盤玫瑰，底部中央為比例尺，右上角為修訂區。右下角為雙邊框標題區：「菜色：THE SMASH // 分類：美式經典 // 結構規格：精心設計，滿足你對漢堡的所有渴望。」4K 解析度，極致清晰，電光藍線條柔和發光，溫暖的金黃色漢堡色調與冷色調的深藍背景形成鮮明對比。令人垂涎欲滴。
 ```
 
 #### 🖼️ 生成圖片
@@ -2872,13 +2875,13 @@ Technical architectural blueprint of a Classic Smash Burger on deep navy draftin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853727476_vzwqfl_HEl-TT4XYAAoOW2.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - Technical Architectural Blueprint of a Smash Burger - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853727476_vzwqfl_HEl-TT4XYAAoOW2.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - Smash Burger 技術架構藍圖 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853727475_u638wj_HEl-Po3XAAAHgZr.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - Technical Architectural Blueprint of a Smash Burger - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853727475_u638wj_HEl-Po3XAAAHgZr.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - Smash Burger 技術架構藍圖 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -2892,18 +2895,18 @@ Technical architectural blueprint of a Classic Smash Burger on deep navy draftin
 
 ---
 
-### No. 37: 資訊圖表 / 教育視覺化內容 - Monochrome Engraving Portrait Style
+### No. 37: 資訊圖表 / 教育視覺化內容 - 單色雕版肖像風格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed prompt for Gemini Nano Banana Pro 2.0 to generate a portrait in the style of a vintage engraving illustration, emphasizing black ink linework, cross-hatching, and classical printmaking aesthetics, based on an uploaded reference photo.
+這是一份專為 Gemini Nano Banana Pro 2.0 設計的詳細提示詞，旨在根據上傳的參考照片，生成具有復古雕版插畫風格的肖像，強調黑色墨水線條、交叉排線以及古典版畫美學。
 
 #### 📝 提示詞
 
 ```
-Use the Uploaded photo as reference, Vintage engraving illustration style, highly detailed black ink linework, dense parallel hatching and cross-hatching, precise contour engraving lines, woodcut and etching influence, classical printmaking aesthetic, monochrome black and white palette, intricate line density variation to create depth and volume, curved line flow following form anatomy, stippling accents for soft shading, old master engraving technique, baroque illustration feel, antique scientific illustration style, ultra fine (line precision), high contrast with clean negative space, ornamental yet anatomical rendering, hand-engraved texture simulation, timeless classical art style, meticulous craftsmanship, no color, no gradients, purely line-based shading.
+使用上傳的照片作為參考，復古雕版插畫風格，高度細緻的黑色墨水線條，密集的平行排線與交叉排線，精確的輪廓雕刻線條，受木刻與蝕刻版畫影響，古典版畫美學，單色黑白調色盤，透過複雜的線條密度變化創造深度與體積感，線條流向順應解剖結構，以點描法點綴出柔和陰影，大師級雕版技術，巴洛克插畫質感，古董科學插畫風格，超細緻（線條精準度），高對比度且具備乾淨的留白，兼具裝飾性與解剖學準確性的渲染，模擬手工雕刻質感，永恆的古典藝術風格，細膩的工藝，無色彩，無漸層，純粹基於線條的陰影表現。
 ```
 
 #### 🖼️ 生成圖片
@@ -2911,13 +2914,13 @@ Use the Uploaded photo as reference, Vintage engraving illustration style, highl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766201498_o4hur3_HEh58mObYAA2GPX.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - Monochrome Engraving Portrait Style - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774766201498_o4hur3_HEh58mObYAA2GPX.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 單色雕版肖像風格 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766201530_feqb35_HEh58mRaAAArGfU.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - Monochrome Engraving Portrait Style - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774766201530_feqb35_HEh58mRaAAArGfU.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 單色雕版肖像風格 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -2931,14 +2934,14 @@ Use the Uploaded photo as reference, Vintage engraving illustration style, highl
 
 ---
 
-### No. 38: 資訊圖表 / 教育視覺化內容 - Deconstructed Ingredients Visualization
+### No. 38: 資訊圖表 / 教育視覺化內容 - 解構食材視覺化
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A mathematical-style prompt for Nano Banana to visualize the deconstructed ingredients of a famous international dish, combining elements like miniature toy chefs, floating AR UI panels, and radar charts on a slate serving board.
+這是一個為 Nano Banana 設計的數學風格提示詞，旨在將知名國際料理的食材進行解構視覺化，結合微型玩具廚師、懸浮 AR UI 面板以及呈現於石板「專案」上的雷達圖等元素。
 
 #### 📝 提示詞
 
@@ -2959,13 +2962,13 @@ A mathematical-style prompt for Nano Banana to visualize the deconstructed ingre
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766197462_4smifr_HEYWiLEbYAA3lky.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - Deconstructed Ingredients Visualization - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774766197462_4smifr_HEYWiLEbYAA3lky.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 解構食材視覺化 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766197515_q4iibh_HEYWiKjXgAA90yj.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - Deconstructed Ingredients Visualization - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774766197515_q4iibh_HEYWiKjXgAA90yj.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 解構食材視覺化 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -4220,18 +4223,18 @@ DETAILS:
 
 ---
 
-### No. 65: 漫畫 / 分鏡腳本 - Villain Fairy Quote Generation
+### No. 65: 漫畫 / 分鏡腳本 - 反派仙子語錄生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt used with Google Gemini3 image generator (Nano Banana Pro) to create an image of a villain fairy performing the quote, 'you think because you say nothing You’re strong?'
+這是一個搭配 Google Gemini3 圖像生成器（Nano Banana Pro）使用的提示詞，用於創作一張反派仙子說出「你以為保持沈默就是強大嗎？」這句台詞的圖像。
 
 #### 📝 提示詞
 
 ```
-the Villain fairy performs the “you think because you say nothing You’re strong?”
+反派仙子說出「你以為保持沈默就是強大嗎？」
 ```
 
 #### 🖼️ 生成圖片
@@ -4239,7 +4242,7 @@ the Villain fairy performs the “you think because you say nothing You’re str
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853754239_1d50hf_HEUcw0IbMAAUM6S.jpg" width="600" alt="漫畫 / 分鏡腳本 - Villain Fairy Quote Generation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853754239_1d50hf_HEUcw0IbMAAUM6S.jpg" width="600" alt="漫畫 / 分鏡腳本 - 反派仙子語錄生成 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4253,18 +4256,18 @@ the Villain fairy performs the “you think because you say nothing You’re str
 
 ---
 
-### No. 66: 漫畫 / 分鏡腳本 - Sloth, Tuna, and F-15E in Eastman Color Style
+### No. 66: 漫畫 / 分鏡腳本 - 以 Eastman Color 風格呈現的樹懶、鮪魚與 F-15E 戰機
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-An image generation prompt for Nano Banana Pro (using Google Gemini 3.1) to create an image featuring a sloth, a tuna, and an F-15E fighter jet, all rendered in the style of an Eastman Color filmed movie.
+這是一個用於 Nano Banana Pro（使用 Google Gemini 3.1）的圖像生成提示詞，旨在創作一張包含樹懶、鮪魚與 F-15E 戰鬥機的圖像，並以 Eastman Color 電影膠卷風格呈現。
 
 #### 📝 提示詞
 
 ```
-a sloth, a tuna, an F-15E in the style of an Eastman Color filmed movie
+一隻樹懶、一條鮪魚與一架 F-15E 戰機，採用 Eastman Color 電影膠卷風格
 ```
 
 #### 🖼️ 生成圖片
@@ -4272,19 +4275,19 @@ a sloth, a tuna, an F-15E in the style of an Eastman Color filmed movie
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766209389_hualnq_HEUHx9YbYAQ6vBG.jpg" width="600" alt="漫畫 / 分鏡腳本 - Sloth, Tuna, and F-15E in Eastman Color Style - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774766209389_hualnq_HEUHx9YbYAQ6vBG.jpg" width="600" alt="漫畫 / 分鏡腳本 - 以 Eastman Color 風格呈現的樹懶、鮪魚與 F-15E 戰機 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766209359_ea2alw_HEUHx8iaYAAnVwT.jpg" width="600" alt="漫畫 / 分鏡腳本 - Sloth, Tuna, and F-15E in Eastman Color Style - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774766209359_ea2alw_HEUHx8iaYAAnVwT.jpg" width="600" alt="漫畫 / 分鏡腳本 - 以 Eastman Color 風格呈現的樹懶、鮪魚與 F-15E 戰機 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766209399_iyaezz_HEUHx9zbYAAHb8K.jpg" width="600" alt="漫畫 / 分鏡腳本 - Sloth, Tuna, and F-15E in Eastman Color Style - Image 3">
+<img src="https://cms-assets.youmind.com/media/1774766209399_iyaezz_HEUHx9zbYAAHb8K.jpg" width="600" alt="漫畫 / 分鏡腳本 - 以 Eastman Color 風格呈現的樹懶、鮪魚與 F-15E 戰機 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -4298,55 +4301,55 @@ a sloth, a tuna, an F-15E in the style of an Eastman Color filmed movie
 
 ---
 
-### No. 67: 漫畫 / 分鏡腳本 - Four-Panel Manga Prompt for Nano Banana Pro: Time Stop Comedy
+### No. 67: 漫畫 / 分鏡腳本 - Nano Banana Pro 四格漫畫提示詞：時間暫停喜劇
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-A detailed, multi-panel prompt for Nano Banana Pro to generate a grayscale, vertical four-panel romantic comedy manga about a man with time-stopping ability, focusing on specific scenes, character expressions, and dialogue in Japanese.
+為 Nano Banana Pro 設計的詳細多格提示詞，用於生成關於一名擁有時間暫停能力的男子之灰階垂直四格浪漫喜劇漫畫，重點在於特定場景、角色表情以及日文對話。
 
 #### 📝 提示詞
 
 ```
-Format: Vertical 4-panel grayscale manga
-Genre: Modern romantic comedy
-Art style: Seinen manga, expressive faces
-Dialogue: Speech bubbles in Japanese
+格式：垂直 4 格灰階漫畫
+類型：現代浪漫喜劇
+藝術風格：青年漫畫，表情生動
+對話：日文對話框
 
-Panel 1
-Scene:
-A boy in a school uniform clenches his fist, making a smug face with a sparkling aura.
-Sparkles and effect lines in the background
-Speech bubble (Japanese):
-“I’ve gained the power to stop time! Now I can be with the girl I love...!”
+第 1 格
+場景：
+一名身穿校服的男孩握緊拳頭，露出得意洋洋的表情，周圍散發著閃亮的光芒。
+背景有閃光和效果線
+對話框（日文）：
+「我獲得了時間暫停的能力！現在我終於能和我心愛的女孩在一起了……！」
 
-Panel 2
-Scene: Flashback scene, no dialogue, sparkling effects
+第 2 格
+場景：回憶場景，無對話，閃亮效果
 
-The panel contains about three small flashback cuts.
-・Scene of confessing to a female classmate in a sailor uniform (blushing cheeks)
-・Scene of dating in college (casual clothes, holding hands, smiling)
-・Wedding scene (wedding dress and tuxedo, pet dog beside them, confetti)
+此格包含約三個小型的回憶分鏡。
+・向穿著水手服的女同學告白的場景（臉頰泛紅）
+・大學約會的場景（休閒服裝，牽手，微笑）
+・婚禮場景（婚紗與燕尾服，身旁有寵物狗，灑落的紙花）
 
-Overall soft light, heart and flower tones, sparkles.
-No dialogue.
+整體光線柔和，帶有愛心與花朵色調，閃閃發光。
+無對話。
 
-Panel 3
-Scene: Living room of the new house, night, calm atmosphere
-The grown man sits leaning forward on the sofa with a serious face, tense posture. Hands clasped in front of his face.
-Lived-in living room (table, curtains, houseplants, etc.).
-Speech bubble (Japanese):
-“Actually, I have the power to stop time, and I want to play time-stop games with you.”
-The man is extremely serious.
+第 3 格
+場景：新家的客廳，夜晚，平靜的氛圍
+長大後的男子坐在沙發上身體前傾，表情嚴肅，姿勢緊繃。雙手交疊在臉前。
+充滿生活氣息的客廳（桌子、窗簾、室內植物等）。
+對話框（日文）：
+「其實，我有時間暫停的能力，我想和妳玩時間暫停的遊戲。」
+男子表情極其嚴肅。
 
-Panel 4
-Scene: Wife stands up with a sharp retort expression
-The wife has a surprised face and makes a sharp retort, with shock lightning in the background.
-The dog behind her is innocently smiling with its mouth open, tilting its head with a “?” mark floating above it.
-Speech bubble (Japanese):
-“If you’ve made it this far, don’t you not need it anymore!?”
-Small “?” next to the dog.
+第 4 格
+場景：妻子站起來，露出犀利的吐槽表情
+妻子一臉驚訝並進行犀利吐槽，背景有震驚的閃電效果。
+身後的狗天真地張嘴微笑，歪著頭，頭頂漂浮著一個「？」符號。
+對話框（日文）：
+「都走到這一步了，根本就不需要那種能力了吧！？」
+狗的旁邊有一個小小的「？」符號。
 ```
 
 #### 🖼️ 生成圖片
@@ -4354,7 +4357,7 @@ Small “?” next to the dog.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766206477_6q2b49_HEfaEDSbEAA21Md.jpg" width="600" alt="漫畫 / 分鏡腳本 - Four-Panel Manga Prompt for Nano Banana Pro: Time Stop Comedy - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774766206477_6q2b49_HEfaEDSbEAA21Md.jpg" width="600" alt="漫畫 / 分鏡腳本 - Nano Banana Pro 四格漫畫提示詞：時間暫停喜劇 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5192,27 +5195,18 @@ Biking（搞笑藝人組合）的 Mimura 是誰？
 
 ---
 
-### No. 85: 產品行銷 - Hyper-Realistic Streetwear Campaign in Red
+### No. 85: 產品行銷 - 紅色系超寫實街頭服飾廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed prompt for Nano Banana Pro to generate a hyper-realistic, ultra wide-angle shot of a man in a glossy, oversized red puffer jacket and matching pants, crouching in a monochromatic red environment with white Nike swoosh logos, focusing on sharp details and dramatic studio lighting.
+這是一份為 Nano Banana Pro 設計的詳細提示詞，用於生成一張超寫實、超廣角照片。畫面中一名男子身穿亮面寬鬆紅色羽絨外套與同款長褲，蹲在單色調的紅色環境中，背景帶有白色 Nike Swoosh 標誌，強調銳利的細節與戲劇性的攝影棚燈光。
 
 #### 📝 提示詞
 
 ```
-A MAN from the reference image, WITH A FADE HAIRCUT,BROWN EYES,
-AND A WELL-GROOMED SHORT BEARD, WEARING A GLOSSY OVERSIZED RED PUFFER JACKET AND
-LOOSE RED PANTS WITH WHITE AND RED NIKE SNEAKERS, CROUCHING LOW WITH ONE KNEE UP AND ONE LEG FORWARD, LEFT ARM RESTING CASUALLY OVER THE RAISED KNEE AND RIGHT HAND
-RELAXED NEAR THE OTHER LEG, BODY ANGLED SLIGHTLY TO THE SIDE WHILE HEAD TILTS
-FORWARD LOOKING DIRECTLY AT THE CAMERA WITH A CONFIDENT EXPRESSION, ULTRA WIDE-ANGLE
-LOW PERSPECTIVE SHOT EMPHASIZING THE FRONT SNEAKER APPEARING LARGE AND DOMINANT IN
-THE FOREGROUND, SET IN A FULLY RED ENVIRONMENT WITH SMOOTH FLOOR AND BACKDROP FEATURING LARGE WHITE NIKE SWOOSH LOGOS BEHIND AND FLOWING RIBBON-LIKE RED SHAPES AROUND, HYPER-REALISTIC PHOTOGRAPHY, EXTREMELY SHARP DETAILS ON FABRIC SHINE AND
-SNEAKER TEXTURE, DRAMATIC STUDIO LIGHTING WITH STRONG HIGHLIGHTS AND SOFT SHADOWS
-SATURATED MONOCHROMATIC RED COLOR PALETTE WITH WHITE ACCENTS, MODERN STREETWEAR
-CAMPAIGN STYLE, NO BLUR, NO DISTORTION, NO EXTRA LIMBS, NO ARTIFACTS
+參考影像中的男子，留著漸層短髮（fade haircut），棕色眼睛，修剪整齊的短鬍鬚，身穿亮面寬鬆紅色羽絨外套與寬鬆紅色長褲，腳穿紅白色 Nike 球鞋。他採取低蹲姿勢，一膝向上，另一條腿向前伸展，左手臂隨意地擱在抬起的膝蓋上，右手放鬆地靠近另一條腿。身體微微側向，頭部前傾，自信地直視鏡頭。採用超廣角低角度拍攝，強調前景中巨大的球鞋，使其顯得突出。場景設定在全紅的環境中，地面平滑，背景有巨大的白色 Nike Swoosh 標誌，周圍環繞著流動的絲帶狀紅色造型。超寫實攝影，布料光澤與球鞋紋理細節極其銳利。戲劇性的攝影棚燈光，具備強烈的高光與柔和的陰影。飽和的單色調紅色調色盤搭配白色點綴，現代街頭服飾廣告風格，無模糊、無變形、無多餘肢體、無偽影。
 ```
 
 #### 🖼️ 生成圖片
@@ -5220,19 +5214,19 @@ CAMPAIGN STYLE, NO BLUR, NO DISTORTION, NO EXTRA LIMBS, NO ARTIFACTS
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853742204_mh6sq7_HEnLB7dWMAAedNw.jpg" width="600" alt="產品行銷 - Hyper-Realistic Streetwear Campaign in Red - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853742204_mh6sq7_HEnLB7dWMAAedNw.jpg" width="600" alt="產品行銷 - 紅色系超寫實街頭服飾廣告 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853742294_xxj8sr_HEnLB8CbUAA63as.jpg" width="600" alt="產品行銷 - Hyper-Realistic Streetwear Campaign in Red - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853742294_xxj8sr_HEnLB8CbUAA63as.jpg" width="600" alt="產品行銷 - 紅色系超寫實街頭服飾廣告 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853742239_i0wex6_HEnLFEtXMAAXw7k.jpg" width="600" alt="產品行銷 - Hyper-Realistic Streetwear Campaign in Red - Image 3">
+<img src="https://cms-assets.youmind.com/media/1774853742239_i0wex6_HEnLFEtXMAAXw7k.jpg" width="600" alt="產品行銷 - 紅色系超寫實街頭服飾廣告 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -5246,31 +5240,31 @@ CAMPAIGN STYLE, NO BLUR, NO DISTORTION, NO EXTRA LIMBS, NO ARTIFACTS
 
 ---
 
-### No. 86: 產品行銷 - Group Portrait with Strict Identity Lock
+### No. 86: 產品行銷 - 具備嚴格身份鎖定的團體肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A prompt for Nano Banana Pro to generate an ultra-realistic fashion editorial group portrait of five specific celebrities (Sabrina Carpenter, Sydney Sweeney, Sadie Sink, Anya Taylor-Joy, and the user). It requires five reference images for strict facial identity preservation and specifies a layered composition, modern streetwear outfits, and soft studio lighting.
+這是一個提供給 Nano Banana Pro 的提示詞，用於生成一張包含五位特定名人（Sabrina Carpenter、Sydney Sweeney、Sadie Sink、Anya Taylor-Joy 以及使用者本人）的超寫實時尚雜誌風格團體肖像。此提示詞要求使用五張參考圖以嚴格保留臉部特徵，並指定了層次感構圖、現代街頭服飾以及柔和的攝影棚燈光。
 
 #### 📝 提示詞
 
 ```
-A group portrait of five young women posing together in a clean white studio, use 5 reference images for faces, assign one reference image per person, preserve each identity strictly, do not change facial features, hair color, or eye color for any individual.
-Subjects: five women arranged in a layered composition, one in front, others positioned behind in a balanced formation.
-Outfit: {argument name="outfit style" default="modern streetwear outfits, including oversized shirts, cropped tops, joggers, hoodies, sneakers"}, coordinated neutral and soft tones, realistic fabric texture.
-Pose:
-front subject lying forward with arm extended toward camera
-others sitting or crouching behind, relaxed but confident poses
-natural group balance, slightly dynamic arrangement
-Expression: confident, calm, slightly serious, editorial look.
-Hair: each subject keeps exact hair color and style from their respective reference image.
-Accessories: minimal jewelry, optional glasses, clips, or headwear.
-Environment: plain white studio background, clean and minimal.
-Lighting: soft studio lighting, even exposure, minimal shadows, sharp details.
-Style: ultra realistic, high detail, fashion editorial, Gen-Z aesthetic, clean composition.
+一張五位年輕女性在乾淨的白色攝影棚中合影的團體肖像，請使用 5 張臉部參考圖，為每個人分配一張參考圖，嚴格保留每位人物的身份，不得更改任何人的臉部特徵、髮色或瞳孔顏色。
+人物：五位女性以層次感構圖排列，一人在前，其他人以平衡的隊形排列在後。
+服裝：{argument name="outfit style" default="現代街頭服飾，包含寬鬆襯衫、短版上衣、慢跑褲、連帽衫、球鞋"}，採用協調的中性柔和色調，呈現真實的布料質感。
+姿勢：
+前方人物向前趴臥，手臂向鏡頭延伸
+其他人坐在或蹲在後方，姿勢放鬆但充滿自信
+自然的團體平衡感，略帶動態的排列
+表情：自信、冷靜、略顯嚴肅，具備時尚雜誌風格。
+髮型：每位人物保留其對應參考圖中的原始髮色與髮型。
+配件：極簡風格珠寶，可選配眼鏡、髮夾或頭飾。
+環境：純白色攝影棚背景，乾淨簡約。
+燈光：柔和的攝影棚燈光，均勻曝光，極少的陰影，細節清晰。
+風格：超寫實、高細節、時尚雜誌風格、Gen-Z 美學、簡潔構圖。
 ```
 
 #### 🖼️ 生成圖片
@@ -5278,7 +5272,7 @@ Style: ultra realistic, high detail, fashion editorial, Gen-Z aesthetic, clean c
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853728733_didfr5_HEm9vFSakAAtLhS.jpg" width="600" alt="產品行銷 - Group Portrait with Strict Identity Lock - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853728733_didfr5_HEm9vFSakAAtLhS.jpg" width="600" alt="產品行銷 - 具備嚴格身份鎖定的團體肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5292,36 +5286,37 @@ Style: ultra realistic, high detail, fashion editorial, Gen-Z aesthetic, clean c
 
 ---
 
-### No. 87: 產品行銷 - High-Fashion Ball-Jointed Doll in Synthetic Despair
+### No. 87: 產品行銷 - 合成絕望中的高級時裝球體關節人偶
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-An extremely detailed, structured prompt for Nano Banana Pro to generate a high-fashion Ball-Jointed Doll (BJD) portrait. The prompt focuses on a 'cold-beauty' archetype, synthetic resin anatomy, a 'malicious longing' gaze, and specific material physics involving water-saturated hair and hydrophobic skin effects. The composition uses a steep Nadir view and harsh blue-white lighting to create a sense of 'Synthetic Despair.'
+這是一個為 Nano Banana Pro 設計的極致細節結構化提示詞，用於生成高級時裝球體關節人偶（BJD）肖像。該提示詞聚焦於「冷美人」原型、合成樹脂解剖結構、「惡意渴望」的眼神，以及涉及濕透頭髮與疏水性皮膚效果的特定材料物理特性。構圖採用陡峭的仰視視角（Nadir view）與強烈的藍白光影，以營造出「合成絕望」的氛圍。
 
 #### 📝 提示詞
 
 ```
 {
   "generative_foundation": {
-    "subject": "A standalone, original creation of a high-fashion Ball-Jointed Doll (BJD) possessing a haunting, sentient presence. The character is a 'cold-beauty' archetype, designed with the sharp, delicate features of a high-end resin collectible.",
-    "anatomy_sculpt": "The face follows a 'V-line' structure with a refined, sharp chin and high, sculpted cheekbones. The nose is slender and straight. Lips are slightly parted, revealing a dark, shadowed interior. The skin is a uniform, cold-white synthetic resin, polished to a dull semi-matte finish that lacks human pores but shows microscopic casting imperfections.",
-    "the_gaze": "The eyes are the focal point: oversized glass orbs with complex, hand-painted iris patterns in shades of slate and mercury. The look is one of 'malicious longing'—hooded lids, thick synthetic lashes, and a gaze that feels heavy, obsessive, and 'belly-black' (coldly manipulative).",
-    "forbidden": ["warmth", "human skin texture", "natural sunlight", "happy expressions", "clean/dry hair", "soft focus grain", "AI-art hallmarks", "generic 2D anime eyes"]
+    "subject": "一個獨立、原創的高級時裝球體關節人偶（BJD），具有令人難忘的感知存在感。該角色為「冷美人」原型，設計上擁有高端樹脂收藏品般銳利而精緻的特徵。",
+    "anatomy_sculpt": "臉部遵循「V 臉」結構，擁有精緻銳利的下巴與高聳的雕塑感顴骨。鼻樑細長筆直。雙唇微張，露出深邃陰影的內部。皮膚為均勻的冷白色合成樹脂，拋光至缺乏人類毛孔但帶有微小鑄造瑕疵的半啞光質感。",
+    "the_gaze": "眼睛是視覺焦點：超大的玻璃球體，虹膜帶有複雜的手繪圖案，呈現板岩色與水銀色。眼神傳達出一種「惡意渴望」——半垂的眼瞼、濃密的合成睫毛，以及一種沉重、執著且「腹黑」（冷酷操縱）的凝視。",
+    "forbidden": ["溫暖", "人類皮膚紋理", "自然陽光", "快樂表情", "乾淨/乾燥的頭髮", "柔焦顆粒", "AI 藝術特徵", "通用的 2D 動漫眼睛"]
   },
   "material_physics_and_hydration": {
-    "hair_mechanics": "The subject has waist-length, jet-black hair that is completely saturated with water. The strands are clumped into heavy, 'drowned' ribbons. Several wet locks are plastered across the forehead and cheeks, tracing the contours of the eyes and mouth like dark veins.",
-    "surface_tension": "Visible water droplets are suspended on the resin skin. Where the wet hair touches the face, there is a clear 'hydrophobic' beading effect. The contrast between the matte resin and the high-gloss 'wet' hair creates a visceral, tactile tension.",
-    "specular_highlights": "The 'wetness' catches the harsh blue light, creating jagged, brilliant white streaks along the hair's surface and the bridge of the nose."
+    "hair_mechanics": "主體擁有及腰的烏黑長髮，完全被水浸透。髮絲聚集成沉重的「溺水」帶狀。幾縷濕髮貼在額頭與臉頰上，像暗色的血管般勾勒出眼睛與嘴巴的輪廓。",
+    "surface_tension": "樹脂皮膚上懸掛著清晰的水珠。濕髮接觸臉部的地方，呈現出明顯的「疏水性」珠狀效果。啞光樹脂與高光「濕潤」頭髮之間的對比，創造出一種真實且觸感強烈的張力。",
+    "specular_highlights": "「濕潤感」捕捉了強烈的藍光，在頭髮表面與鼻樑上形成了鋸齒狀、明亮的白色條紋。"
   },
   "optical_and_camera_architecture": {
-    "perspective": "A steep, 90-degree 'Nadir' (bird's eye) view looking directly down onto the subject's face. This creates a sense of entrapment and intense psychological pressure.",
-    "lighting_scheme": "A single, aggressive blue-white flash source. This results in 'Chromo-clipping' highlights on the forehead and cheek peaks, where detail is lost to a brilliant, ethereal white glow. The shadows are absolute, absorbing the edges of the hair into a pitch-black void.",
-    "sensor_fidelity": "The image must exhibit 'High-ISO Blue Chroma Noise.' Instead of a clean render, the dark areas should vibrate with gritty, electric-blue digital grain and sensor artifacts, mimicking low-light forensic or high-speed fashion photography.",
-    "color_palette": "Strictly limited to 'Glacial Tones': electric white, indigo shadows, charcoal blacks, and the silver-grey of the glass irises."
+    "perspective": "陡峭的 90 度「仰視」（Nadir）視角，直接俯瞰主體的臉部。這營造出一種被困住的感覺與強烈的心理壓力。",
+    "lighting_scheme": "單一、強烈的藍白色閃光光源。這導致額頭與顴骨頂端出現「色度剪切」（Chromo-clipping）高光，細節在明亮空靈的白光中消失。陰影處則是絕對的，將頭髮邊緣吸收進漆黑的虛空中。",
+    "sensor_fidelity": "圖像必須呈現「高 ISO 藍色色度噪點」。與其追求乾淨的渲染，暗部區域應震動著粗糙、電藍色的數位顆粒與感光元件偽影，模擬低光環境下的法醫攝影或高速時裝攝影。",
+    "color_palette": "嚴格限制於「冰川色調」：電白色、靛藍色陰影、炭黑色，以及玻璃虹膜的銀灰色。"
   },
-  "narrative_addendum": "This image is a study of 'Synthetic Despair.' The BJD is not a toy, but an entity frozen in a moment of dangerous ob
+  "narrative_addendum": "這張圖像是一項關於「合成絕望」的研究。這尊 BJD 並非玩具，而是一個凍結在危險瞬間的實體。"
+}
 ```
 
 #### 🖼️ 生成圖片
@@ -5329,7 +5324,7 @@ An extremely detailed, structured prompt for Nano Banana Pro to generate a high-
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853737932_ulmdby_HEm6KVcXMAAUbSH.jpg" width="600" alt="產品行銷 - High-Fashion Ball-Jointed Doll in Synthetic Despair - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853737932_ulmdby_HEm6KVcXMAAUbSH.jpg" width="600" alt="產品行銷 - 合成絕望中的高級時裝球體關節人偶 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5343,27 +5338,27 @@ An extremely detailed, structured prompt for Nano Banana Pro to generate a high-
 
 ---
 
-### No. 88: 產品行銷 - Ultra-Realistic Portrait with Black Panther Prompt
+### No. 88: 產品行銷 - 黑豹主題超寫實人像提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A detailed prompt for Nano Banana 2 to generate an ultra-realistic, luxury editorial portrait of a young woman (using reference identity) sitting in a clean white studio with a black panther behind her, wearing a soft pink satin corset dress, emphasizing strict identity preservation and high contrast lighting.
+這是一份專為 Nano Banana 2 設計的詳細提示詞，旨在生成一張超寫實的奢華雜誌風格人像。畫面中一位年輕女性（使用參考身份）坐在乾淨的白色攝影棚內，身後有一隻黑豹，身穿柔粉色緞面馬甲裙，強調嚴格的身份保留與高對比度光影效果。
 
 #### 📝 提示詞
 
 ```
-A portrait of a young woman sitting in a clean white studio with a black panther behind her, use reference image face, preserve identity strictly, do not change facial features, hair color, or eye color.
-Outfit: {argument name="outfit" default="soft pink satin corset dress with feather details, fitted structure, smooth glossy texture"}.
-Pose: sitting on the floor with legs folded to the side, hands resting naturally, upright posture.
-Expression: calm, confident, serious.
-Hair: long black hair, soft waves, sleek finish.
-Accessories: minimal, clean look.
-Environment: plain white studio background, minimal setup, strong contrast with black panther.
-Lighting: soft studio lighting, even exposure, subtle shadows, high contrast between subject and background, sharp details.
-Style: ultra realistic, high detail, luxury editorial, clean aesthetic.
+一位年輕女性坐在乾淨的白色攝影棚內，身後有一隻黑豹的肖像，請使用參考影像中的臉部，嚴格保留身份特徵，請勿更改面部特徵、髮色或瞳孔顏色。
+服裝：{argument name="outfit" default="帶有羽毛細節的柔粉色緞面馬甲裙，修身剪裁，光滑亮面質感"}。
+姿勢：坐在地板上，雙腿向側邊彎曲，雙手自然擺放，坐姿端正。
+表情：冷靜、自信、嚴肅。
+髮型：黑色長髮，柔和波浪捲，質感柔順。
+飾品：極簡風格，乾淨俐落。
+環境：純白攝影棚背景，極簡佈景，與黑豹形成強烈對比。
+光影：柔和的攝影棚燈光，曝光均勻，細膩陰影，主體與背景之間的高對比度，細節銳利。
+風格：超寫實，高細節，奢華雜誌風格，乾淨美學。
 ```
 
 #### 🖼️ 生成圖片
@@ -5371,19 +5366,19 @@ Style: ultra realistic, high detail, luxury editorial, clean aesthetic.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853744037_qw09bh_HEmRxmkasAAu3Vo.jpg" width="600" alt="產品行銷 - Ultra-Realistic Portrait with Black Panther Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853744037_qw09bh_HEmRxmkasAAu3Vo.jpg" width="600" alt="產品行銷 - 黑豹主題超寫實人像提示詞 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853744159_chwe0v_HEmRwrEboAAsiTm.jpg" width="600" alt="產品行銷 - Ultra-Realistic Portrait with Black Panther Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853744159_chwe0v_HEmRwrEboAAsiTm.jpg" width="600" alt="產品行銷 - 黑豹主題超寫實人像提示詞 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853744317_ugh6fc_HEmRyk-a4AACn2j.jpg" width="600" alt="產品行銷 - Ultra-Realistic Portrait with Black Panther Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1774853744317_ugh6fc_HEmRyk-a4AACn2j.jpg" width="600" alt="產品行銷 - 黑豹主題超寫實人像提示詞 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -5397,19 +5392,19 @@ Style: ultra realistic, high detail, luxury editorial, clean aesthetic.
 
 ---
 
-### No. 89: 產品行銷 - Neon Explosion Smash Burger
+### No. 89: 產品行銷 - 霓虹爆裂 Smash Burger
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A highly detailed prompt for Nano Banana Pro to generate a hyperreal image of a smash burger with ingredients suspended mid-air in a neon-lit, cinematic style, reminiscent of Blade Runner 2049 food campaigns. The prompt emphasizes floating ingredients, electric label tags, and chromatic glow.
+這是一個為 Nano Banana Pro 設計的高細節提示詞，旨在生成一張超寫實的 Smash Burger 圖像。畫面呈現食材在霓虹燈光下懸浮的電影感風格，令人聯想到《銀翼殺手 2049》的食品廣告。提示詞強調了懸浮食材、電子標籤以及色彩斑斕的發光效果。
 
 #### 📝 提示詞
 
 ```
-Hyperreal smash burger floating against pitch black background, dramatically lit by neon electric yellow and deep red underlighting and rim lighting. Ingredients separated and suspended mid-air in a loose diagonal cascade, not stacked, dynamically scattered as if caught mid-build. Brioche bun crown tumbling with sesame seeds scattering like sparks, two smashed patties spinning with lacy crispy edges glowing in neon heat, american cheese sheet suspended mid-melt catching light like molten gold, pickles orbiting like satellites, caramelized onions drifting dark and glistening, house sauce ribbons floating in slow-motion amber arcs. Every texture hyperreal and craveable. Each floating ingredient has a glowing neon label tag on a wire, uppercase bold condensed font, backlit: "{argument name="ingredient 1" default="80/20 CHUCK"}", "{argument name="ingredient 2" default="DOUBLE SMASH"}", "{argument name="ingredient 3" default="AMERICAN MELT"}", "BRIOCHE CROWN", "BRINE PICKLE", "HOUSE SAUCE". Dish name in large neon sign typography at top: "THE SMASH". Subtitle: "engineered at 3am". Mood: street food energy at full volume, cinematic, electric. Style ref: Blade Runner 2049 meets hyperreal CGI food campaign. 4K, ultra sharp, chromatic aberration on edges, craveable.
+超寫實 Smash Burger 懸浮於漆黑背景中，由霓虹電光黃與深紅色的底光及輪廓光戲劇性地照亮。食材分離並懸浮於半空中，呈現鬆散的對角線瀑布狀，而非堆疊在一起，動態散落如同捕捉到製作過程的瞬間。布里歐麵包頂部翻滾，芝麻如火花般四散；兩片 Smash 肉排旋轉著，邊緣呈現蕾絲般的酥脆感，在霓虹熱光中閃爍；美式起司片懸浮在融化過程中，捕捉光線如同熔化的黃金；酸黃瓜像衛星般繞行；焦糖洋蔥深邃且閃爍著光澤；特製醬料絲帶在慢動作的琥珀色弧線中漂浮。每一種紋理都極致寫實且令人垂涎。每個懸浮的食材都配有一個帶電線的發光霓虹標籤，使用大寫粗體壓縮字體，背光顯示：「{argument name="ingredient 1" default="80/20 CHUCK"}」、「{argument name="ingredient 2" default="DOUBLE SMASH"}」、「{argument name="ingredient 3" default="AMERICAN MELT"}」、「BRIOCHE CROWN」、「BRINE PICKLE」、「HOUSE SAUCE」。頂部為大型霓虹燈字體的菜名：「THE SMASH」。副標題：「engineered at 3am」。氛圍：充滿街頭美食能量、電影感、電子感。風格參考：《銀翼殺手 2049》結合超寫實 CGI 食品廣告。4K 解析度，超清晰，邊緣帶有色差效果，令人垂涎。
 ```
 
 #### 🖼️ 生成圖片
@@ -5417,13 +5412,13 @@ Hyperreal smash burger floating against pitch black background, dramatically lit
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853725439_hwvuhy_HEl9vg4bYAAbLMq.jpg" width="600" alt="產品行銷 - Neon Explosion Smash Burger - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853725439_hwvuhy_HEl9vg4bYAAbLMq.jpg" width="600" alt="產品行銷 - 霓虹爆裂 Smash Burger - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853725484_ad90ro_HEl9t-Da0AA2qqn.jpg" width="600" alt="產品行銷 - Neon Explosion Smash Burger - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853725484_ad90ro_HEl9t-Da0AA2qqn.jpg" width="600" alt="產品行銷 - 霓虹爆裂 Smash Burger - Image 2">
 </div>
 
 #### 📌 詳情
@@ -5437,18 +5432,18 @@ Hyperreal smash burger floating against pitch black background, dramatically lit
 
 ---
 
-### No. 90: 產品行銷 - Hyper-Realistic Bugs Bunny Barber Scene
+### No. 90: 產品行銷 - 超寫實兔寶寶理髮場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for Nano Banana 2.0 to generate a cinematic, hyper-realistic close-up shot of a 3D realistic Bugs Bunny, dressed as a barber, pouring 'HARE TONIC' onto a worried man's head in a vintage barbershop setting.
+這是一個提供給 Nano Banana 2.0 的提示詞，用於生成一張電影級、超寫實的特寫鏡頭。畫面中，一隻 3D 寫實風格的兔寶寶身穿理髮師制服，在復古理髮店中將「HARE TONIC」倒在一名神情焦慮的男子頭上。
 
 #### 📝 提示詞
 
 ```
-Cinematic 8k hyper-realistic close-up shot. A 3D realistic Bugs Bunny, faithful to his classic design but with detailed fur texture, wearing a white barber uniform. He is holding a bottle labeled "HARE TONIC" and pouring liquid onto the head of a sitting man. Man [photos reference with hair] has a worried and nervous expression, water dripping down his face. Vintage barbershop background with a mirror. Dynamic lighting, high detail, photorealistic rendering style
+電影級 8k 超寫實特寫鏡頭。一隻 3D 寫實風格的兔寶寶，忠於其經典設計但擁有細膩的毛髮質感，身穿白色理髮師制服。牠手持標有「HARE TONIC」的瓶子，將液體倒在一名坐著的男子頭上。男子 [參考照片中的髮型] 表情焦慮且緊張，水珠正沿著他的臉龐滴落。背景為設有鏡子的復古理髮店。動態光影，高細節，照片級渲染風格
 ```
 
 #### 🖼️ 生成圖片
@@ -5456,7 +5451,7 @@ Cinematic 8k hyper-realistic close-up shot. A 3D realistic Bugs Bunny, faithful 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853732751_yx5cgd_HEldkigbwAAH1Mc.jpg" width="600" alt="產品行銷 - Hyper-Realistic Bugs Bunny Barber Scene - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853732751_yx5cgd_HEldkigbwAAH1Mc.jpg" width="600" alt="產品行銷 - 超寫實兔寶寶理髮場景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5470,21 +5465,21 @@ Cinematic 8k hyper-realistic close-up shot. A 3D realistic Bugs Bunny, faithful 
 
 ---
 
-### No. 91: 產品行銷 - Surreal Garden Morning Editorial Portrait
+### No. 91: 產品行銷 - 超現實花園清晨時尚編輯人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A photorealistic prompt for Nano Banana 2 to generate a highly stylized cinematic lifestyle editorial portrait of Sabrina Carpenter sitting barefoot on a rustic stone basin in a lush garden, interacting with a stone cherub statue, bathed in warm golden amber sunrise light.
+這是一個為 Nano Banana 2 設計的超寫實提示詞，旨在生成一張高度風格化的電影感生活風格編輯人像。畫面中 Sabrina Carpenter 赤腳坐在茂密花園的質樸石盆邊，與一尊石製小天使雕像互動，並沐浴在溫暖的琥珀色晨光中。
 
 #### 📝 提示詞
 
 ```
-"A photorealistic, highly stylized cinematic lifestyle editorial portrait of {argument name="subject name" default="Sabrina Carpenter"} sitting casually barefoot on the edge of a rustic stone basin in a lush garden during the early morning. She is wearing an oversized, light yellow button-down collared shirt, worn loosely and wide open at the front, with partially rolled-up sleeves and her bare legs visible. Her blonde hair is styled in a messy high bun with delicate, loose strands beautifully framing her face. She has subtle natural makeup, dark burgundy nail polish, a thin delicate necklace with a small dark pendant, and small stud earrings.
-Her pose is relaxed and slightly surreal: her right leg is bent with the knee raised, while her left arm wraps around a weathered, greenish stone cherub statue of a similar size to her. Her left hand brings a black coffee cup to her lips, and she wears a soft, gently amused expression. Her right hand rests near her feet, loosely holding the handle of a small, vintage lilac ceramic pitcher decorated with painted roses and green leaves.
-The whimsical, intimate scene is bathed in warm, golden amber sunrise light filtering through the trees, creating a soft rim light on her hair and the statue. A soft, flattering directional light casts delicate natural shadows on her face and shirt. The background features beautifully blurred earthy green foliage, trees, a subtle glimpse of a metal fence, and pink and deep red flowers, resulting in a stunning soft bokeh effect. Shot as a medium portrait from an eye-level angle using a telephoto lens (85mm) for a shallow depth of field. Professional lighting, 8K resolution, sharp focus on her face and the coffee cup, realistic textures, vintage aesthetic. --ar 9:16"
+"一張超寫實、高度風格化的電影感生活風格編輯人像，主角為 {argument name="subject name" default="Sabrina Carpenter"}，她於清晨時分赤腳隨意地坐在茂密花園中一個質樸石盆的邊緣。她穿著一件寬鬆的淺黃色翻領襯衫，領口敞開，袖子半捲，露出雙腿。她金色的頭髮梳成凌亂的高髮髻，幾縷細碎的髮絲優雅地修飾著臉龐。妝容自然細緻，塗著深酒紅色指甲油，佩戴著一條帶有小型深色墜飾的精緻細項鍊，以及一對小型耳釘。
+她的姿勢放鬆且帶有一絲超現實感：右腿彎曲，膝蓋抬起，左臂環抱著一尊與她體型相仿、長滿青苔的風化石製小天使雕像。她左手將一杯黑咖啡送到唇邊，表情柔和且帶著淡淡的笑意。右手則靠近雙腳，隨意地握著一個小型復古丁香色陶瓷水罐的把手，水罐上繪有玫瑰與綠葉圖案。
+這幅充滿奇幻與親密感的場景沐浴在溫暖的琥珀色晨光中，陽光穿過樹木，在她的髮絲與雕像邊緣勾勒出柔和的輪廓光。柔和且討喜的定向光在她的臉龐與襯衫上投下細膩的自然陰影。背景是虛化得極為優美的土綠色植被、樹木、隱約可見的金屬圍欄，以及粉色與深紅色的花朵，營造出絕美的散景效果。以 85mm 長焦鏡頭進行平視角度的中景人像拍攝，呈現淺景深效果。專業燈光，8K 解析度，臉部與咖啡杯焦點清晰，質感真實，具備復古美學。 --ar 9:16"
 ```
 
 #### 🖼️ 生成圖片
@@ -5492,25 +5487,25 @@ The whimsical, intimate scene is bathed in warm, golden amber sunrise light filt
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853735751_kgzkkz_HElbsTFWoAAHL1F.jpg" width="600" alt="產品行銷 - Surreal Garden Morning Editorial Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853735751_kgzkkz_HElbsTFWoAAHL1F.jpg" width="600" alt="產品行銷 - 超現實花園清晨時尚編輯人像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853735707_5cevrt_HElbsY6bMAEYcOp.jpg" width="600" alt="產品行銷 - Surreal Garden Morning Editorial Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853735707_5cevrt_HElbsY6bMAEYcOp.jpg" width="600" alt="產品行銷 - 超現實花園清晨時尚編輯人像 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853735853_cptgop_HElbsbqW8AAtEj3.jpg" width="600" alt="產品行銷 - Surreal Garden Morning Editorial Portrait - Image 3">
+<img src="https://cms-assets.youmind.com/media/1774853735853_cptgop_HElbsbqW8AAtEj3.jpg" width="600" alt="產品行銷 - 超現實花園清晨時尚編輯人像 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853736673_1ehr1b_HElbse8aIAEFae9.jpg" width="600" alt="產品行銷 - Surreal Garden Morning Editorial Portrait - Image 4">
+<img src="https://cms-assets.youmind.com/media/1774853736673_1ehr1b_HElbse8aIAEFae9.jpg" width="600" alt="產品行銷 - 超現實花園清晨時尚編輯人像 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -5524,63 +5519,63 @@ The whimsical, intimate scene is bathed in warm, golden amber sunrise light filt
 
 ---
 
-### No. 92: 產品行銷 - Luxury Penthouse Night Realism Portrait
+### No. 92: 產品行銷 - 豪華頂層公寓夜景寫實人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A detailed prompt for Nano Banana Pro to generate a luxury, night-time portrait on a penthouse balcony, focusing on a supermodel leaning on a glass railing, captured with an iPhone night luxury realism style and city light reflections.
+這是一份為 Nano Banana Pro 設計的詳細提示詞，用於生成一張在頂層公寓陽台上的豪華夜景人像。重點在於一位倚靠在玻璃欄杆上的超級名模，採用 iPhone 夜間豪華寫實風格，並呈現城市燈光的倒影。
 
 #### 📝 提示詞
 
 ```
 {
-  "meta": {
-    "camera": "{argument name="camera model" default="iPhone 17 Pro"}",
-    "lens": "35mm",
-    "aspect_ratio": "4:5",
-    "style": "iphone night luxury realism, soft HDR, subtle grain"
-  },
-  "scene": {
-    "location": "luxury penthouse balcony",
-    "time": "11:48 PM",
-    "atmosphere": "city skyline glowing below, warm summer night"
-  },
-  "lighting": {
-    "primary": "warm balcony ambient lights",
-    "secondary": "city light reflections",
-    "effect": "golden highlights on skin, deep shadows on curves"
-  },
-  "subject": {
-    "appearance": "tall blonde american supermodel, long legs, defined waist, confident aura",
-    "pose": {
-      "position": "leaning slightly forward on glass railing",
-      "body": "hips back, torso angled",
-      "head": "turned back toward camera"
-    },
-    "expression": {
-      "eyes": "sharp, inviting",
-      "mouth": "soft parted confident smirk",
-      "energy": "she knows exactly what she’s doing"
-    },
-    "hair": {
-      "style": "long blonde hair, soft waves flowing with night breeze"
-    },
-    "outfit": {
-      "dress": {
-        "type": "{argument name="dress type" default="ultra thin red silk mini dress"}",
-        "fit": "body-hugging, tension at hips and chest",
-        "details": "slight side slip, fabric catching light"
-      }
-    }
-  },
-  "camera": {
-    "angle": "slightly low angle",
-    "distance": "mid shot",
-    "imperfection": "tiny motion blur from handheld"
-  }
+  "meta": {
+    "camera": "{argument name="camera model" default="iPhone 17 Pro"}",
+    "lens": "35mm",
+    "aspect_ratio": "4:5",
+    "style": "iphone 夜間豪華寫實，柔和 HDR，細膩顆粒感"
+  },
+  "scene": {
+    "location": "豪華頂層公寓陽台",
+    "time": "晚上 11:48",
+    "atmosphere": "下方城市天際線閃爍，溫暖的夏夜"
+  },
+  "lighting": {
+    "primary": "溫暖的陽台環境光",
+    "secondary": "城市燈光倒影",
+    "effect": "肌膚上的金色高光，曲線處的深邃陰影"
+  },
+  "subject": {
+    "appearance": "高挑的金髮美國超級名模，長腿，腰部線條分明，自信氣場",
+    "pose": {
+      "position": "身體微微前傾倚靠在玻璃欄杆上",
+      "body": "臀部向後，軀幹呈角度",
+      "head": "轉頭看向鏡頭"
+    },
+    "expression": {
+      "eyes": "銳利且迷人",
+      "mouth": "雙唇微張，帶著自信的淺笑",
+      "energy": "她完全掌控著一切"
+    },
+    "hair": {
+      "style": "金色長髮，柔軟的波浪隨夜風飄動"
+    },
+    "outfit": {
+      "dress": {
+        "type": "{argument name="dress type" default="極薄紅色絲綢迷你裙"}",
+        "fit": "緊身剪裁，在臀部和胸部呈現張力",
+        "details": "輕微的側邊開衩，布料捕捉光影"
+      }
+    }
+  },
+  "camera": {
+    "angle": "微仰角",
+    "distance": "中景",
+    "imperfection": "手持拍攝帶來的輕微動態模糊"
+  }
 }
 ```
 
@@ -5589,7 +5584,7 @@ A detailed prompt for Nano Banana Pro to generate a luxury, night-time portrait 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853732649_fdqyeh_HDnUunpWgAAGNok.jpg" width="600" alt="產品行銷 - Luxury Penthouse Night Realism Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853732649_fdqyeh_HDnUunpWgAAGNok.jpg" width="600" alt="產品行銷 - 豪華頂層公寓夜景寫實人像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5603,13 +5598,13 @@ A detailed prompt for Nano Banana Pro to generate a luxury, night-time portrait 
 
 ---
 
-### No. 93: 產品行銷 - Generate a Pangea T-shirt Ad in Fashion Magazine Style
+### No. 93: 產品行銷 - 生成時尚雜誌風格的 Pangea T 恤廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for the Nano Banana Pro (Gemini 3.1 image generator) to create an image of a T-shirt featuring the Pangea continent with an 'Error' message, rendered in the style of a fashion magazine advertisement.
+這是一個用於 Nano Banana Pro (Gemini 3.1 圖像生成器) 的提示詞，旨在創作一張以 Pangea 大陸為主題並帶有「Error」訊息的 T 恤圖像，呈現出時尚雜誌廣告的風格。
 
 #### 📝 提示詞
 
@@ -5622,7 +5617,7 @@ A prompt for the Nano Banana Pro (Gemini 3.1 image generator) to create an image
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853752216_cje213_HEUeB5HbAAAFA2a.jpg" width="600" alt="產品行銷 - Generate a Pangea T-shirt Ad in Fashion Magazine Style - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853752216_cje213_HEUeB5HbAAAFA2a.jpg" width="600" alt="產品行銷 - 生成時尚雜誌風格的 Pangea T 恤廣告 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5636,35 +5631,35 @@ A prompt for the Nano Banana Pro (Gemini 3.1 image generator) to create an image
 
 ---
 
-### No. 94: 產品行銷 - Three-Panel Mixed-Media Fashion Composition
+### No. 94: 產品行銷 - 三聯式混合媒材時尚構圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for Google Gemini Nano Banana Pro to create a high-resolution, photorealistic three-panel composition of a woman integrated into an abstract mixed-media collage background, detailing the pose, apparel, and artistic style for each panel.
+這是一個提供給 Google Gemini Nano Banana Pro 的提示詞，用於創作一張高解析度、照片級真實感的三聯式構圖，將女性形象融入抽象的混合媒材拼貼背景中，並詳細說明每個畫面的姿勢、服裝與藝術風格。
 
 #### 📝 提示詞
 
 ```
-A high-resolution, photorealistic three-panel composition featuring a woman with long, voluminous wavy brown hair and elegant features, integrated into an abstract mixed-media collage background.
-Panel Layout:
+一張高解析度、照片級真實感的三聯式構圖，主角為一位擁有豐盈棕色波浪長髮、五官優雅的女性，並將其融入抽象的混合媒材拼貼背景中。
 
-Left Panel (Vertical, full height):
+畫面佈局：
 
-A tall portrait of the woman looking upwards at a dramatic angle, wearing a mustard yellow turtleneck. Cinematic lighting highlights her face and hair, with strong shadows and depth.
-Top Right Panel (Square):
+左側畫面（垂直，全高）：
+一位女性的全身肖像，以戲劇性的角度向上仰望，身穿芥末黃色高領毛衣。電影級燈光突顯了她的臉部與髮絲，呈現強烈的陰影與深度。
 
-A close-up angled side profile, soft gaze to the right, wearing a black modern blazer with minimal jewelry. Expression is calm and confident.
-Bottom Right Panel (Square):
+右上畫面（正方形）：
+特寫側面角度，視線柔和地望向右側，身穿黑色現代西裝外套，搭配極簡珠寶。表情冷靜且自信。
 
-A slightly top-down perspective, playful yet elegant pose, wearing a white textured dress, subtle smile, natural lighting.
-Art Style & Background (applies to all panels):
+右下畫面（正方形）：
+略帶俯視的角度，姿勢俏皮而優雅，身穿白色紋理連身裙，帶著淺淺的微笑，呈現自然光感。
 
-The image is layered with an abstract mixed-media collage background incorporating geometric shapes like circles and rectangles in ochre, burnt orange, and charcoal grey. Include textural elements such as vintage parchment paper, blueprint-style technical sketches, and subtle floral etchings. Use a flat graphic design overlay that partially blends into each outfit, seamlessly merging the 3D subject with 2D modernist art.
-Overall Style:
+藝術風格與背景（適用於所有畫面）：
+影像層疊著抽象的混合媒材拼貼背景，結合了赭色、焦橙色與炭灰色的幾何形狀（如圓形與矩形）。加入如復古羊皮紙、藍圖風格的技術草圖以及細膩的花卉蝕刻等紋理元素。使用平面圖形設計覆蓋層，使其部分融入每套服裝，將 3D 主體與 2D 現代主義藝術無縫結合。
 
-Cinematic lighting, fine art photography aesthetic, ultra-detailed, 8K resolution, modern editorial fashion magazine layout.
+整體風格：
+電影級燈光、藝術攝影美學、超細節、8K 解析度、現代時尚雜誌排版。
 ```
 
 #### 🖼️ 生成圖片
@@ -5672,7 +5667,7 @@ Cinematic lighting, fine art photography aesthetic, ultra-detailed, 8K resolutio
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853740749_9cm7ak_HEkTrglbQAEdw-d.jpg" width="600" alt="產品行銷 - Three-Panel Mixed-Media Fashion Composition - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853740749_9cm7ak_HEkTrglbQAEdw-d.jpg" width="600" alt="產品行銷 - 三聯式混合媒材時尚構圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5686,47 +5681,47 @@ Cinematic lighting, fine art photography aesthetic, ultra-detailed, 8K resolutio
 
 ---
 
-### No. 95: 產品行銷 - Premium Studio Ad Visual for Starbucks Frappuccino
+### No. 95: 產品行銷 - Starbucks Frappuccino 高級攝影棚廣告視覺
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A detailed prompt for Nano Banana Pro, instructing it to act as a senior art director to create a photorealistic CGI studio ad visual for a Starbucks Frappuccino. The prompt specifies canvas size, background color, watermark pattern, logo placement, product positioning, lighting conditions, and technical specifications, aiming for a high-end luxury brand aesthetic.
+這是一份針對 Nano Banana Pro 的詳細提示詞，指示其擔任資深藝術總監，為 Starbucks Frappuccino 創作寫實的 CGI 攝影棚廣告視覺。提示詞明確了畫布尺寸、背景顏色、浮水印圖案、Logo 位置、產品擺放、光照條件及技術規格，旨在打造高端奢華品牌的視覺美感。
 
 #### 📝 提示詞
 
 ```
-Act as a senior art director and studio photographer for high-end advertising campaigns and e-commerce.
+請擔任高端廣告活動與電子商務的資深藝術總監及攝影棚攝影師。
 
-Format & Canvas
-Vertical 9 :16. Background: {argument name="background color" default="warm off-white (# F4EFE6)"} or a neutral tone characteristic of the brand, with no visible shadows.
+格式與畫布
+垂直 9 : 16。背景：{argument name="background color" default="暖米白色 (# F4EFE6)"} 或品牌特有的中性色調，且無明顯陰影。
 
-Background Pattern
-Apply the brand’s signature motif as a large, tone-on-tone watermark (10–18% opacity). Motif size should be 15–25% of the canvas width, with a soft, slightly embossed feel.
+背景圖案
+將品牌標誌性圖騰應用為大型、同色系的浮水印（不透明度 10–18%）。圖騰大小應為畫布寬度的 15–25%，呈現柔和、微浮雕的質感。
 
-Logo Placement
-Position the Starbucks logo centered in the upper third. Width: 40–50% of the canvas. Use a flat, two-dimensional rendering in official brand colors.
-Place the wordmark below the logo in spaced uppercase letters, matching the logo color. Wordmark height: approximately 60% of the logo height.
+Logo 位置
+將 Starbucks Logo 置於上方三分之一處的中心。寬度：畫布的 40–50%。使用官方品牌色彩的平面二維渲染。
+在 Logo 下方放置品牌字標，採用間距寬鬆的大寫字母，顏色與 Logo 一致。字標高度：約為 Logo 高度的 60%。
 
-Product Placement
-Photorealistic Starbucks frappuccino with full material fidelity (cup, lid, straw, textures, branding details).
-Position: bottom right, angled at 25–35°. Cropped at 60–75%, occupying 55–65% of the canvas.
-Use soft contact shadows (8–12% opacity), with no harsh shadows.
+產品擺放
+寫實的 Starbucks Frappuccino，具備完整的材質還原度（杯身、杯蓋、吸管、紋理、品牌細節）。
+位置：右下角，傾斜 25–35°。裁切比例 60–75%，佔據畫布的 55–65%。
+使用柔和的接觸陰影（不透明度 8–12%），避免生硬的陰影。
 
-Lighting
-Soft, directional daylight (5500–6000K). Key light from top left, fill from the right.
-Minimal contrast (1.2–1.5:1), with global illumination for subtle light bounce.
-No edge highlights; reflections only on metallic elements. Avoid hard shadows.
+光照
+柔和的定向日光（5500–6000K）。主光來自左上方，補光來自右側。
+極簡對比度（1.2–1.5:1），並運用全域照明以產生細微的光線反射。
+無邊緣高光；僅在金屬元件上有反射。避免生硬的陰影。
 
-Typography & Finishing
-At the bottom: a thin horizontal line (1 px, 80% width, in brand color).
-Below it: microcopy ({argument name="microcopy text" default="social link or collection tag"}) in a clean sans-serif font, aligned with the context.
+排版與修飾
+底部：一條細水平線（1 px，寬度 80%，品牌色）。
+下方：微文案（{argument name="microcopy text" default="社群連結或系列標籤"}），使用簡潔的無襯線字體，並與上下文對齊。
 
-Technical Specifications
-Photorealistic CGI (KeyShot/Octane style), 9: 16, ultra-high detail, f/16 depth of field, sharp edges, neutral color accuracy, slightly warm background, no environmental reflections.
-Mood reference: official visuals from Louis Vuitton / Bottega Veneta / Celine.
+技術規格
+寫實 CGI（KeyShot/Octane 風格），9 : 16，超高細節，f/16 景深，邊緣銳利，中性色彩準確度，略帶暖色背景，無環境反射。
+風格參考：Louis Vuitton / Bottega Veneta / Celine 的官方視覺。
 ```
 
 #### 🖼️ 生成圖片
@@ -5734,25 +5729,25 @@ Mood reference: official visuals from Louis Vuitton / Bottega Veneta / Celine.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853727351_g1j67x_HEkS76YaYAE_lOB.jpg" width="600" alt="產品行銷 - Premium Studio Ad Visual for Starbucks Frappuccino - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853727351_g1j67x_HEkS76YaYAE_lOB.jpg" width="600" alt="產品行銷 - Starbucks Frappuccino 高級攝影棚廣告視覺 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853727384_fzkh5l_HEkS7_dbkAAKkGi.jpg" width="600" alt="產品行銷 - Premium Studio Ad Visual for Starbucks Frappuccino - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774853727384_fzkh5l_HEkS7_dbkAAKkGi.jpg" width="600" alt="產品行銷 - Starbucks Frappuccino 高級攝影棚廣告視覺 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853727370_qhx200_HEkS7_bacAAZlGX.jpg" width="600" alt="產品行銷 - Premium Studio Ad Visual for Starbucks Frappuccino - Image 3">
+<img src="https://cms-assets.youmind.com/media/1774853727370_qhx200_HEkS7_bacAAZlGX.jpg" width="600" alt="產品行銷 - Starbucks Frappuccino 高級攝影棚廣告視覺 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853728114_okb20f_HEkS8HmbMAASRzx.jpg" width="600" alt="產品行銷 - Premium Studio Ad Visual for Starbucks Frappuccino - Image 4">
+<img src="https://cms-assets.youmind.com/media/1774853728114_okb20f_HEkS8HmbMAASRzx.jpg" width="600" alt="產品行銷 - Starbucks Frappuccino 高級攝影棚廣告視覺 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -5766,18 +5761,18 @@ Mood reference: official visuals from Louis Vuitton / Bottega Veneta / Celine.
 
 ---
 
-### No. 96: 產品行銷 - Video Generation Workflow using Nano Banana Pro Images and Kling 3.0 Omni
+### No. 96: 產品行銷 - 使用 Nano Banana Pro 圖像與 Kling 3.0 Omni 的影片生成工作流程
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-This tweet describes a process where four images generated by Nano Banana Pro are used as input for a video generated by Kling 3.0 Omni. The prompt, which was designed by GPT-5 and used for both image and video generation, describes a cinematic close-up of a person enjoying making and tasting sweets.
+這則推文描述了一個流程：將四張由 Nano Banana Pro 生成的圖像作為輸入，用於生成 Kling 3.0 Omni 的影片。該提示詞由 GPT-5 設計，並同時用於圖像與影片生成，描繪了一個人享受製作與品嚐甜點的電影級特寫鏡頭。
 
 #### 📝 提示詞
 
 ```
-A cinematic close-up of a person enjoying making and tasting sweets. Depicting everything from the serious expression while cracking eggs and mixing cream, to the adorable gesture of delight upon completion, and finally, the full smile of satisfaction after taking a bite. The scene is captured with an intimate distance that conveys their breathing and in quiet lighting.
+一個關於某人享受製作與品嚐甜點的電影級特寫鏡頭。畫面描繪了從敲蛋與攪拌奶油時專注的神情，到完成後可愛的喜悅動作，最後是咬下一口後滿足的燦爛笑容。場景以親密的距離捕捉，傳達出人物的呼吸感，並在靜謐的燈光下呈現。
 ```
 
 #### 🖼️ 生成圖片
@@ -5785,7 +5780,7 @@ A cinematic close-up of a person enjoying making and tasting sweets. Depicting e
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853751064_ywr04s_HEi5ASvb0AE1C0z.jpg" width="600" alt="產品行銷 - Video Generation Workflow using Nano Banana Pro Images and Kling 3.0 Omni - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853751064_ywr04s_HEi5ASvb0AE1C0z.jpg" width="600" alt="產品行銷 - 使用 Nano Banana Pro 圖像與 Kling 3.0 Omni 的影片生成工作流程 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5799,28 +5794,28 @@ A cinematic close-up of a person enjoying making and tasting sweets. Depicting e
 
 ---
 
-### No. 97: 電子商務主圖 - Deconstructed and Assembled M DSLR Camera Visualization
+### No. 97: 電子商務主圖 - M DSLR 相機拆解與組裝視覺化
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-Two distinct image prompts for Nano Banana 2. The first generates a deconstructed view of a camera, and the second generates a high-end product visualization of an assembled camera floating in the air with technical UI annotations. The third prompt is a motion prompt for Kling AI, which is excluded.
+兩組針對 Nano Banana 2 的不同圖像提示詞。第一組生成相機的拆解視圖，第二組生成懸浮於空中並帶有技術 UI 註釋的高階相機產品視覺化圖像。第三組為 Kling AI 的動態提示詞，已排除。
 
 #### 📝 提示詞
 
 ```
-Image Prompt 1: Clearly separate all components with visible spacing. Move the lens forward and split it into several segments. Separate the camera body into three sections: upper section moves upward, left section moves left, right section moves right. Use elements present on the assembled camera, add electronic parts inside. No annotations.
+圖像提示詞 1：將所有組件清晰分離並保持可見間距。將鏡頭向前移動並拆分為數個區段。將相機機身分為三個部分：上部向上移動，左側向左移動，右側向右移動。使用組裝相機上現有的元素，並在內部添加電子零件。無需註釋。
 
-Image Prompt 2: Create a realistic high-end product visualization of a fully assembled M DSLR camera with detachable lens floating slightly in the air. The device has a premium matte black body with subtle metallic details and engraved M branding. Background is a softly blurred modern tech environment with depth of field and subtle motion blur, no people visible. Cinematic studio lighting with realistic reflections and premium product rendering. Around the camera appear five minimalist technical UI annotations with thin lines pointing to components. Each annotation sits inside a small semi-transparent glass UI panel with soft glow and subtle cyan edge lighting, improving readability. Clean modern sans-serif typography.
+圖像提示詞 2：創作一張逼真的高階產品視覺化圖像，展示一台完全組裝好的 M DSLR 相機，其可拆卸鏡頭輕微懸浮於空中。該設備擁有頂級霧面黑色機身，帶有精緻的金屬細節與雕刻的 M 品牌標誌。背景為柔焦的現代科技環境，具備景深與細微的動態模糊，畫面中無人物。採用電影級攝影棚燈光，具備逼真的反射與頂級產品渲染效果。相機周圍出現五個極簡風格的技術 UI 註釋，以細線指向各個組件。每個註釋位於一個小型半透明玻璃 UI 面板內，帶有柔和光暈與細緻的青色邊緣光，以提升可讀性。採用簡潔的現代無襯線字體。
 
-Annotations:
+註釋：
 
-24MP CMOS Sensor
-4K Video Recording
-Interchangeable Lens Mount
-Fast Hybrid Autofocus
-Optical Image Stabilization
+24MP CMOS 感光元件
+4K 錄影功能
+可更換鏡頭接環
+快速混合式自動對焦
+光學影像穩定系統
 ```
 
 #### 🖼️ 生成圖片
@@ -5828,7 +5823,7 @@ Optical Image Stabilization
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766195170_7xt55w_HEe78o_aIAAEP89.jpg" width="600" alt="電子商務主圖 - Deconstructed and Assembled M DSLR Camera Visualization - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774766195170_7xt55w_HEe78o_aIAAEP89.jpg" width="600" alt="電子商務主圖 - M DSLR 相機拆解與組裝視覺化 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6957,18 +6952,18 @@ Re : No.2 Vorstraß Einheit
 
 ---
 
-### No. 117: 遊戲素材 - Human VS. Yokai Haxtusyaku-sama in FPS Game Style
+### No. 117: 遊戲素材 - 人類對戰妖怪「八尺大人」，FPS 遊戲風格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt used with Nano Banana Pro via Google Gemini 3.1 to generate an image depicting a confrontation between a human and the Yokai Hachishaku-sama, rendered in the style of a First-Person Shooter (FPS) game.
+這是一個搭配 Google Gemini 3.1 使用 Nano Banana Pro 的提示詞，旨在生成一張人類與妖怪「八尺大人」對峙的圖片，並以第一人稱射擊（FPS）遊戲風格呈現。
 
 #### 📝 提示詞
 
 ```
-a human VS. Yokai Haxtusyaku-sama in the style of an FPS game
+人類對戰妖怪「八尺大人」，FPS 遊戲風格
 ```
 
 #### 🖼️ 生成圖片
@@ -6976,7 +6971,7 @@ a human VS. Yokai Haxtusyaku-sama in the style of an FPS game
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853749294_qrc99d_HEUetnGbQAAIVwE.jpg" width="600" alt="遊戲素材 - Human VS. Yokai Haxtusyaku-sama in FPS Game Style - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853749294_qrc99d_HEUetnGbQAAIVwE.jpg" width="600" alt="遊戲素材 - 人類對戰妖怪「八尺大人」，FPS 遊戲風格 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6990,20 +6985,18 @@ a human VS. Yokai Haxtusyaku-sama in the style of an FPS game
 
 ---
 
-### No. 118: 遊戲素材 - Ultra-Realistic Man in Angry Birds World
+### No. 118: 遊戲素材 - 置身 Angry Birds 世界的超寫實男子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for Google Nano Banana to create an ultra-realistic, vertical Instagram image of a man with identical facial features to a reference, dramatically escaping an explosion within the Angry Birds world, detailing the action, environment, and cinematic lighting.
+這是一個為 Google Nano Banana 設計的提示詞，旨在創作一張超寫實的 Instagram 直式圖片。畫面中的男子擁有與參考圖完全相同的面部特徵，正從 Angry Birds 世界的爆炸中驚險逃脫，並詳細描繪了動作、環境與電影級光影效果。
 
 #### 📝 提示詞
 
 ```
-Create a completely new ultra realistic Instagram vertical 4:5 image for Gemini 3 Pro Nano Banana of the same man with identical facial features inside the Angry Birds world during a dramatic escape moment. He jumps off a collapsing wooden platform as multiple TNT crates detonate behind him, red sparks and debris flying. Red is mid air flying beside him, Bomb is igniting, Chuck sprints ahead, Stella flutters above, and pigs are scattering everywhere in panic. Outfit: fitted white T-shirt, tactical brown cargo pants, and impact-ready white sneakers with red-yellow accents, all detailed and textured. Environment: broken glass, exploding stone blocks, rolling green hills blurred behind. Lighting: intense warm explosion glow from one side combined with cool sky light from the other, giving epic cinematic contrast. Feathers, dust, debris, and motion are ultra
-
-detailed. Shot on a dynamic slightly low 28 mm lens for powerful action depth, with sharp focus on the man and Red.
+為 Gemini 3 Pro Nano Banana 創作一張全新的超寫實 Instagram 直式 4:5 圖片，畫面中的男子擁有與參考圖完全相同的面部特徵，正處於 Angry Birds 世界中驚險逃脫的瞬間。他從崩塌的木製平台上躍起，身後多個 TNT 炸藥箱同時引爆，紅色火花與碎片四散飛濺。Red 在他身旁飛過，Bomb 正在引燃，Chuck 在前方衝刺，Stella 在上方拍動翅膀，豬群則驚慌失措地四處逃竄。服裝：合身白色 T 恤、戰術棕色工裝褲，以及帶有紅黃色點綴的防衝擊白色運動鞋，所有細節與質感均清晰可見。環境：破碎的玻璃、爆炸的石塊，背景是模糊的綠色連綿山丘。光影：一側是強烈的暖色爆炸光，與另一側冷色調的天空光形成對比，營造出史詩般的電影級視覺效果。羽毛、灰塵、碎片與動態細節極致細膩。採用動態的 28 mm 廣角鏡頭低角度拍攝，展現強大的動作深度，並將焦點清晰地鎖定在男子與 Red 身上。
 ```
 
 #### 🖼️ 生成圖片
@@ -7011,7 +7004,7 @@ detailed. Shot on a dynamic slightly low 28 mm lens for powerful action depth, w
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774853740918_35le08_HEjC1MyaMAAf-YD.jpg" width="600" alt="遊戲素材 - Ultra-Realistic Man in Angry Birds World - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774853740918_35le08_HEjC1MyaMAAf-YD.jpg" width="600" alt="遊戲素材 - 置身 Angry Birds 世界的超寫實男子 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7025,20 +7018,20 @@ detailed. Shot on a dynamic slightly low 28 mm lens for powerful action depth, w
 
 ---
 
-### No. 119: 遊戲素材 - Full Armor Mecha Girl Figure Concept for Nano Banana Pro
+### No. 119: 遊戲素材 - Nano Banana Pro 專用全武裝機甲少女模型概念
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-A concept prompt for generating an image of a 1/7 scale figure of a Full Armor Mecha Girl, FAMG-002 Belthiera, generated using Nano Banana Pro.
+這是一個用於生成 1/7 比例全武裝機甲少女模型（FAMG-002 Belthiera）的概念提示詞，由 Nano Banana Pro 生成。
 
 #### 📝 提示詞
 
 ```
-Full Armor Mecha Girl
+全武裝機甲少女
 FAMG-002 Belthiera
-1/7 scale figure
+1/7 比例模型
 ```
 
 #### 🖼️ 生成圖片
@@ -7046,13 +7039,13 @@ FAMG-002 Belthiera
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766207499_jq8o52_HEebgrBbkAAGpl0.jpg" width="600" alt="遊戲素材 - Full Armor Mecha Girl Figure Concept for Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1774766207499_jq8o52_HEebgrBbkAAGpl0.jpg" width="600" alt="遊戲素材 - Nano Banana Pro 專用全武裝機甲少女模型概念 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1774766207501_k57swk_HEebhVoaQAAo6vP.jpg" width="600" alt="遊戲素材 - Full Armor Mecha Girl Figure Concept for Nano Banana Pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1774766207501_k57swk_HEebhVoaQAAo6vP.jpg" width="600" alt="遊戲素材 - Nano Banana Pro 專用全武裝機甲少女模型概念 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -7180,6 +7173,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-03-30T12:13:20.550Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-03-30T16:18:40.321Z</sub>
 
 </div>
