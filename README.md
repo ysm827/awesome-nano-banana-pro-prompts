@@ -135,9 +135,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **12465** |
+| 📝 Total Prompts | **12467** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Wednesday, April 15, 2026 at 4:53:46 AM UTC** |
+| 🔄 Last Updated | **Wednesday, April 15, 2026 at 8:29:55 AM UTC** |
 
 </div>
 
@@ -646,7 +646,59 @@ Aspect ratio is 3:4 vertical poster. Include vertical Japanese calligraphy descr
 
 > 📝 Sorted by publish date (newest first)
 
-### No. 1: Profile / Avatar - Traditional Javanese Couple Studio Portrait
+### No. 1: Profile / Avatar - 3D Paper-Cut Illustration Style
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+This prompt transforms photos into charming 3D paper-cut illustrations using the Nano Banana model. It features a tactile paper texture, soft pastel colors, and a distinctive sticker-style border, perfect for creating stylized avatars or creative ID photos.
+
+#### 📝 Prompt
+
+```
+Charming 3D paper-cut illustration, smooth rounded shapes, minimal character features ({argument name="character features" default="dot eyes, blush cheeks"}), {argument name="border style" default="thick white sticker border"} around subjects, {argument name="color palette" default="gentle pastel colors"}, soft even lighting, matte tactile art paper texture.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776237760395_6swed3_HF4CSdqasAQMxSJ.jpg" width="600" alt="Profile / Avatar - 3D Paper-Cut Illustration Style - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776237760646_n0as4x_HF4CSeFasAcEerx.jpg" width="600" alt="Profile / Avatar - 3D Paper-Cut Illustration Style - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776237760672_g3fcfb_HF4CSdtasAE68ly.jpg" width="600" alt="Profile / Avatar - 3D Paper-Cut Illustration Style - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776237761611_8citrz_HF4CSd7bwAAHq6L.jpg" width="600" alt="Profile / Avatar - 3D Paper-Cut Illustration Style - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Author:** [宇宙知识库分享](https://x.com/Cosmoslucy13)
+- **Source:** [Twitter Post](https://x.com/Cosmoslucy13/status/2044078458117206231)
+- **Published:** April 14, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=13384)**
+
+---
+
+### No. 2: Profile / Avatar - Traditional Javanese Couple Studio Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -680,7 +732,7 @@ A formal studio portrait of a {argument name="subjects" default="young Southeast
 
 ---
 
-### No. 2: Profile / Avatar - Realistic Car Backseat Selfie
+### No. 3: Profile / Avatar - Realistic Car Backseat Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -812,7 +864,7 @@ A very detailed JSON prompt for generating a realistic, candid iPhone selfie of 
 
 ---
 
-### No. 3: Profile / Avatar - Cinematic Dual-Color Studio Portrait
+### No. 4: Profile / Avatar - Cinematic Dual-Color Studio Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -846,7 +898,7 @@ Close-up studio portrait of the subject from the uploaded reference image, prese
 
 ---
 
-### No. 4: Profile / Avatar - 3D Caricature from Uploaded Face
+### No. 5: Profile / Avatar - 3D Caricature from Uploaded Face
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -892,7 +944,7 @@ A hyper-realistic 3D caricature of a person emerging out of a smartphone screen,
 
 ---
 
-### No. 5: Profile / Avatar - Urban Porsche 911 GT3 Portrait
+### No. 6: Profile / Avatar - Urban Porsche 911 GT3 Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -926,7 +978,7 @@ Use 100% face above uploaded photo photorealistic portrait, bearded man in his {
 
 ---
 
-### No. 6: Profile / Avatar - Cinematic Golden Hour Portrait
+### No. 7: Profile / Avatar - Cinematic Golden Hour Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -966,7 +1018,7 @@ Avoid: harsh direct sun, overexposed sky, stiff pose, commercial model energy
 
 ---
 
-### No. 7: Profile / Avatar - Rugged Cinematic Rain Portrait
+### No. 8: Profile / Avatar - Rugged Cinematic Rain Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1000,7 +1052,7 @@ Hyper-realistic cinematic portrait of a {argument name="subject" default="rugged
 
 ---
 
-### No. 8: Profile / Avatar - Portrait Master Object: String Phone Passport Photos
+### No. 9: Profile / Avatar - Portrait Master Object: String Phone Passport Photos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1040,7 +1092,7 @@ She poses as if holding a white paper cup to her ear, listening. Her expression 
 
 ---
 
-### No. 9: Profile / Avatar - Cinematic Portrait Prompt using Nano Banana 2 with Face Reference
+### No. 10: Profile / Avatar - Cinematic Portrait Prompt using Nano Banana 2 with Face Reference
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1076,7 +1128,7 @@ The background is a vast, solid deep teal-cyan sky, creating a cinematic teal-an
 
 ---
 
-### No. 10: Profile / Avatar - Hilltop City View Full Body Shot Prompt
+### No. 11: Profile / Avatar - Hilltop City View Full Body Shot Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1153,7 +1205,7 @@ A detailed prompt for generating an ultra-realistic full-body shot of a female s
 
 ---
 
-### No. 11: Profile / Avatar - iPhone Selfie Realism Prompt (Lisa Inspired)
+### No. 12: Profile / Avatar - iPhone Selfie Realism Prompt (Lisa Inspired)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1253,7 +1305,7 @@ A structured prompt designed to mimic a raw, unfiltered iPhone front camera self
 
 ---
 
-### No. 12: Profile / Avatar - Golden Hour Beach Selfie Prompt
+### No. 13: Profile / Avatar - Golden Hour Beach Selfie Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1342,7 +1394,7 @@ A detailed prompt for generating an ultra-realistic, golden hour beach selfie, f
 
 ---
 
-### No. 13: Profile / Avatar - Tropical Balcony Full Body Shot Prompt
+### No. 14: Profile / Avatar - Tropical Balcony Full Body Shot Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1425,7 +1477,7 @@ A detailed prompt for generating an ultra-realistic full-body shot of a female s
 
 ---
 
-### No. 14: Profile / Avatar - Photorealistic Mirror Selfie of Emma Myers in Cosplay Attire
+### No. 15: Profile / Avatar - Photorealistic Mirror Selfie of Emma Myers in Cosplay Attire
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1507,7 +1559,7 @@ A detailed JSON prompt for Nano Banana Pro to generate an ultra-photorealistic m
 
 ---
 
-### No. 15: Profile / Avatar - Day and Night Split Portrait Prompt for Nano Banana Pro
+### No. 16: Profile / Avatar - Day and Night Split Portrait Prompt for Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1542,7 +1594,7 @@ A hyper-realistic 8K photo of a young woman's portrait, with her face split vert
 
 ---
 
-### No. 16: Profile / Avatar - Photorealistic Candid Selfie with Playful Expression
+### No. 17: Profile / Avatar - Photorealistic Candid Selfie with Playful Expression
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1593,7 +1645,7 @@ A JSON prompt for Google Nano Banana 2 to generate a photorealistic candid selfi
 
 ---
 
-### No. 17: Profile / Avatar - 8K Stylized Digital Portrait with Identity Lock
+### No. 18: Profile / Avatar - 8K Stylized Digital Portrait with Identity Lock
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1673,7 +1725,7 @@ Aspect ratio 4:5
 
 ---
 
-### No. 18: Profile / Avatar - Old Photo Restoration to DSLR-Quality Portrait
+### No. 19: Profile / Avatar - Old Photo Restoration to DSLR-Quality Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1713,39 +1765,6 @@ A structured prompt designed for restoring an old photograph into a natural, hig
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=13198)**
-
----
-
-### No. 19: Profile / Avatar - Ultra-realistic Cinematic Portrait with Dramatic Lighting
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A prompt for generating an ultra-realistic cinematic portrait of a young man looking back over his shoulder. The image features dramatic studio lighting with a warm golden rim light, high contrast, sharp focus, and an editorial fashion photography style.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic portrait of a young man with short styled hair, beard, and glasses, wearing a mustard yellow t-shirt, looking back over his shoulder toward the camera, black background, dramatic studio lighting with warm golden rim light outlining the face and shoulders, soft key light on the face, high contrast, sharp focus, shallow depth of field, detailed skin texture, editorial fashion photography style, 85mm lens, moody atmosphere, 8K, photorealistic.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1775284638252_rp02to_HE9FIJTa0AAVAP2.jpg" width="600" alt="Profile / Avatar - Ultra-realistic Cinematic Portrait with Dramatic Lighting - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Taaruk](https://x.com/Taaruk_)
-- **Source:** [Twitter Post](https://x.com/Taaruk_/status/2039925165870756307)
-- **Published:** April 3, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=13199)**
 
 ---
 
@@ -6274,7 +6293,7 @@ Generate a hyper-realistic, isometric 3D render of a Chess Set.   CRITICAL:   Yo
 
 <div align="center">
 
-### 🎯 12345 more prompts not shown here
+### 🎯 12347 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6337,6 +6356,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-15T04:53:46.277Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-15T08:29:55.241Z</sub>
 
 </div>

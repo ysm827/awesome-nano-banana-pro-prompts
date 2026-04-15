@@ -135,9 +135,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **12465** |
+| 📝 Total de prompts | **12467** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **quarta-feira, 15 de abril de 2026 às 04:54:23 UTC** |
+| 🔄 Última atualização | **quarta-feira, 15 de abril de 2026 às 08:32:12 UTC** |
 
 </div>
 
@@ -646,7 +646,59 @@ A proporção da imagem é 3:4 (pôster vertical). Inclua caligrafia japonesa ve
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
-### No. 1: Perfil / Avatar - Retrato de Estúdio de Casal Javanês Tradicional
+### No. 1: Perfil / Avatar - Estilo de Ilustração em Recorte de Papel 3D
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Este prompt transforma fotos em encantadoras ilustrações em recorte de papel 3D usando o modelo Nano Banana. Ele apresenta uma textura de papel tátil, cores pastéis suaves e uma borda distinta estilo adesivo, perfeita para criar avatares estilizados ou fotos de identificação criativas.
+
+#### 📝 Prompt
+
+```
+Encantadora ilustração em recorte de papel 3D, formas arredondadas suaves, traços de personagem minimalistas ({argument name="character features" default="olhos de ponto, bochechas coradas"}), {argument name="border style" default="borda de adesivo branca espessa"} ao redor dos temas, {argument name="color palette" default="cores pastéis suaves"}, iluminação suave e uniforme, textura de papel artístico fosco e tátil.
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776237760395_6swed3_HF4CSdqasAQMxSJ.jpg" width="600" alt="Perfil / Avatar - Estilo de Ilustração em Recorte de Papel 3D - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776237760646_n0as4x_HF4CSeFasAcEerx.jpg" width="600" alt="Perfil / Avatar - Estilo de Ilustração em Recorte de Papel 3D - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776237760672_g3fcfb_HF4CSdtasAE68ly.jpg" width="600" alt="Perfil / Avatar - Estilo de Ilustração em Recorte de Papel 3D - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776237761611_8citrz_HF4CSd7bwAAHq6L.jpg" width="600" alt="Perfil / Avatar - Estilo de Ilustração em Recorte de Papel 3D - Image 4">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [宇宙知识库分享](https://x.com/Cosmoslucy13)
+- **Fonte:** [Twitter Post](https://x.com/Cosmoslucy13/status/2044078458117206231)
+- **Publicado:** 14 de abril de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=13384)**
+
+---
+
+### No. 2: Perfil / Avatar - Retrato de Estúdio de Casal Javanês Tradicional
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -680,7 +732,7 @@ Um retrato de estúdio formal de um {argument name="subjects" default="jovem cas
 
 ---
 
-### No. 2: Perfil / Avatar - Selfie realista no banco de trás de um carro
+### No. 3: Perfil / Avatar - Selfie realista no banco de trás de um carro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -812,7 +864,7 @@ Um prompt JSON altamente detalhado para gerar uma selfie realista e espontânea 
 
 ---
 
-### No. 3: Perfil / Avatar - Retrato de Estúdio Cinematográfico em Duas Cores
+### No. 4: Perfil / Avatar - Retrato de Estúdio Cinematográfico em Duas Cores
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -846,7 +898,7 @@ Retrato de estúdio em close-up do sujeito da imagem de referência enviada, pre
 
 ---
 
-### No. 4: Perfil / Avatar - Caricatura 3D a partir de rosto enviado
+### No. 5: Perfil / Avatar - Caricatura 3D a partir de rosto enviado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -892,7 +944,7 @@ Uma caricatura 3D hiper-realista de uma pessoa emergindo da tela de um smartphon
 
 ---
 
-### No. 5: Perfil / Avatar - Retrato urbano de um Porsche 911 GT3
+### No. 6: Perfil / Avatar - Retrato urbano de um Porsche 911 GT3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -926,7 +978,7 @@ Use 100% do rosto da foto enviada, retrato fotorrealista, homem barbudo na faixa
 
 ---
 
-### No. 6: Perfil / Avatar - Retrato Cinematográfico na Golden Hour
+### No. 7: Perfil / Avatar - Retrato Cinematográfico na Golden Hour
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -966,7 +1018,7 @@ Evitar: sol direto forte, céu superexposto, pose rígida, energia de modelo com
 
 ---
 
-### No. 7: Perfil / Avatar - Retrato Cinematográfico Robusto na Chuva
+### No. 8: Perfil / Avatar - Retrato Cinematográfico Robusto na Chuva
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1000,7 +1052,7 @@ Retrato cinematográfico hiper-realista de um {argument name="subject" default="
 
 ---
 
-### No. 8: Perfil / Avatar - Objeto Mestre de Retrato: Fotos 3x4 com Telefone de Barbante
+### No. 9: Perfil / Avatar - Objeto Mestre de Retrato: Fotos 3x4 com Telefone de Barbante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1040,7 +1092,7 @@ Ela posa como se estivesse segurando um copo de papel branco no ouvido, ouvindo.
 
 ---
 
-### No. 9: Perfil / Avatar - Prompt de Retrato Cinematográfico usando Nano Banana 2 com Referência Facial
+### No. 10: Perfil / Avatar - Prompt de Retrato Cinematográfico usando Nano Banana 2 com Referência Facial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1076,7 +1128,7 @@ O fundo é um vasto céu azul-petróleo sólido, criando uma gradação de cores
 
 ---
 
-### No. 10: Perfil / Avatar - Prompt para Foto de Corpo Inteiro com Vista da Cidade no Topo da Colina
+### No. 11: Perfil / Avatar - Prompt para Foto de Corpo Inteiro com Vista da Cidade no Topo da Colina
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1153,7 +1205,7 @@ Um prompt detalhado para gerar uma foto de corpo inteiro ultra-realista de uma m
 
 ---
 
-### No. 11: Perfil / Avatar - Prompt de Realismo para Selfie de iPhone (Inspirado em Lisa)
+### No. 12: Perfil / Avatar - Prompt de Realismo para Selfie de iPhone (Inspirado em Lisa)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1253,7 +1305,7 @@ Um prompt estruturado projetado para imitar uma selfie bruta e sem filtros da c�
 
 ---
 
-### No. 12: Perfil / Avatar - Prompt para Selfie na Praia durante a Golden Hour
+### No. 13: Perfil / Avatar - Prompt para Selfie na Praia durante a Golden Hour
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1342,7 +1394,7 @@ Um prompt detalhado para gerar uma selfie ultra-realista na praia durante a gold
 
 ---
 
-### No. 13: Perfil / Avatar - Prompt para Foto de Corpo Inteiro em Varanda Tropical
+### No. 14: Perfil / Avatar - Prompt para Foto de Corpo Inteiro em Varanda Tropical
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1425,7 +1477,7 @@ Um prompt detalhado para gerar uma foto de corpo inteiro ultra-realista de uma m
 
 ---
 
-### No. 14: Perfil / Avatar - Selfie realista no espelho de Emma Myers com traje de cosplay
+### No. 15: Perfil / Avatar - Selfie realista no espelho de Emma Myers com traje de cosplay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1508,7 +1560,7 @@ Um prompt JSON detalhado para o Nano Banana Pro gerar uma selfie no espelho ultr
 
 ---
 
-### No. 15: Perfil / Avatar - Prompt de Retrato Dividido entre Dia e Noite para Nano Banana Pro
+### No. 16: Perfil / Avatar - Prompt de Retrato Dividido entre Dia e Noite para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1543,7 +1595,7 @@ Uma foto 8K hiper-realista do retrato de uma jovem, com o rosto dividido vertica
 
 ---
 
-### No. 16: Perfil / Avatar - Selfie espontânea fotorrealista com expressão divertida
+### No. 17: Perfil / Avatar - Selfie espontânea fotorrealista com expressão divertida
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1594,7 +1646,7 @@ Um prompt JSON para o Google Nano Banana 2 gerar uma selfie espontânea fotorrea
 
 ---
 
-### No. 17: Perfil / Avatar - Retrato digital estilizado em 8K com bloqueio de identidade
+### No. 18: Perfil / Avatar - Retrato digital estilizado em 8K com bloqueio de identidade
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1674,7 +1726,7 @@ Proporção de aspecto 4:5
 
 ---
 
-### No. 18: Perfil / Avatar - Restauração de fotos antigas para retratos com qualidade DSLR
+### No. 19: Perfil / Avatar - Restauração de fotos antigas para retratos com qualidade DSLR
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1714,39 +1766,6 @@ Um prompt estruturado projetado para restaurar uma fotografia antiga em um retra
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=13198)**
-
----
-
-### No. 19: Perfil / Avatar - Retrato cinematográfico ultrarrealista com iluminação dramática
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrição
-
-Um prompt para gerar um retrato cinematográfico ultrarrealista de um jovem olhando por cima do ombro. A imagem apresenta iluminação de estúdio dramática com uma luz de contorno dourada quente, alto contraste, foco nítido e um estilo de fotografia de moda editorial.
-
-#### 📝 Prompt
-
-```
-Retrato cinematográfico ultrarrealista de um jovem com cabelo curto estilizado, barba e óculos, vestindo uma camiseta amarelo-mostarda, olhando por cima do ombro em direção à câmera, fundo preto, iluminação de estúdio dramática com luz de contorno dourada quente delineando o rosto e os ombros, luz principal suave no rosto, alto contraste, foco nítido, profundidade de campo rasa, textura de pele detalhada, estilo de fotografia de moda editorial, lente 85mm, atmosfera envolvente, 8K, fotorrealista.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1775284638252_rp02to_HE9FIJTa0AAVAP2.jpg" width="600" alt="Perfil / Avatar - Retrato cinematográfico ultrarrealista com iluminação dramática - Image 1">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Taaruk](https://x.com/Taaruk_)
-- **Fonte:** [Twitter Post](https://x.com/Taaruk_/status/2039925165870756307)
-- **Publicado:** 3 de abril de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=13199)**
 
 ---
 
@@ -6272,7 +6291,7 @@ Variável de Entrada: [{argument name="tema de rivalidade" default="INSIRA A RIV
 
 <div align="center">
 
-### 🎯 12345 mais prompts não mostrados aqui
+### 🎯 12347 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6335,6 +6354,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-04-15T04:54:23.657Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-04-15T08:32:12.046Z</sub>
 
 </div>
