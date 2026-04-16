@@ -135,9 +135,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **12467** |
+| 📝 Gesamtanzahl Prompts | **12468** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Donnerstag, 16. April 2026 um 04:59:18 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 16. April 2026 um 08:31:38 UTC** |
 
 </div>
 
@@ -4681,70 +4681,7 @@ Kleines „?“ neben dem Hund.
 
 ---
 
-### No. 82: Comic / Storyboard - Vier-Panel-Manga: Fantasy-Gassen-Wandanrempelung
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Beschreibung
-
-Ein detaillierter, mehrteiliger Prompt zur Generierung eines vierteiligen Mangas (Yonkoma) auf Japanisch, der einen rauen Mann und eine schöne weibliche Heldin in einer dunklen Fantasy-Gasse zeigt und sich auf übertriebene Ausdrücke sowie spezifische Dialoge und Kompositionen für jedes Panel konzentriert.
-
-#### 📝 Prompt
-
-```
-Format: Japanischer 4-Panel-Manga, 4 vertikale Ebenen, Graustufen, Seinen-Manga, übertriebene Mimik.
-Setting: Fantasywelt, Slumgasse, dämmrige Atmosphäre, Kopfsteinpflaster und schmutzige Wände, Müll und Fässer stehen herum.
-
-[Charakterbeschreibungen]
-・Rauer Mann: Gescheiterter Abenteurer und Gesetzloser, vernarbtes Gesicht, Bartstoppeln, abgetragene Lederausrüstung, hässlicher Mann mit schlechter Einstellung.
-・Heldin: Schöne Frau, markante Züge, würdevolle Augen, saubere leichte Rüstung oder heldenhafte Ausrüstung, willensstarker Ausdruck.
-
-[Panel 1]
-Komposition: Gasse. Der raue Mann drängt die Heldin an die Wand (Kabedon).
-Der Mann rechts grinst, die Heldin links, an die Wand gedrängt, hat einen frustrierten Ausdruck.
-Dialog:
-Rauer Mann: „Na, na, sieh mal einer an, wie gefügig die Heldin geworden ist.“
-Heldin: „Uff... du Dreckskerl...“
-
-[Panel 2]
-Komposition: Immer noch in der Kabedon-Pose, leicht herangezoomt. Der Mann rechts lächelt selbstbewusst, die Heldin blickt wütend zurück.
-Dialog:
-Rauer Mann: „Du bist ja eine eigenartige Heldin... ausgerechnet auf einen hässlichen Kerl wie mich hereinzufallen.“
-Heldin: „Hör auf, mich als Perverse darzustellen!“
-
-[Panel 3]
-Komposition: Ernstes Gesicht der Heldin, extreme Nahaufnahme, Frontalansicht.
-Dialog:
-Heldin: „Dein Aussehen und deine Persönlichkeit sind Müll, aber dein ‚Zeug‘ ist spitze. Du solltest wissen, was du drauf hast.“
-Die Heldin macht mit ernstem Gesicht einen Daumen hoch.
-
-[Panel 4]
-Komposition: Oberkörper des Mannes, blickt weg, rotes Gesicht, verwirrt und verlegen. Er fährt sich mit der Hand durch die Haare.
-Hintergrund ist die Gasse. Onomatopoetische Effekte wie „Doki Doki“ (Herzklopfen).
-Dialog:
-Rauer Mann: „Äh, äh, ja... vielen Dank...“
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1774679884425_e6n58d_HEaaWK8agAAG7Du.jpg" width="600" alt="Comic / Storyboard - Vier-Panel-Manga: Fantasy-Gassen-Wandanrempelung - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [とりにく](https://x.com/tori29umai)
-- **Quelle:** [Twitter Post](https://x.com/tori29umai/status/2037485651696967980)
-- **Veröffentlicht:** 27. März 2026
-- **Sprachen:** ja
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=12915)**
-
----
-
-### No. 83: Produktmarketing - Extreme Makrofotografie eines menschlichen Auges
+### No. 82: Produktmarketing - Extreme Makrofotografie eines menschlichen Auges
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4778,7 +4715,7 @@ Extreme Makroaufnahme eines {argument name="subject" default="menschlichen Auges
 
 ---
 
-### No. 84: Produktmarketing - Luxus-Chronograph Makro-Design
+### No. 83: Produktmarketing - Luxus-Chronograph Makro-Design
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4812,7 +4749,7 @@ Ein High-End-Makrofotografie-Prompt für eine Luxusuhr mit Fokus auf Uhrwerkdeta
 
 ---
 
-### No. 85: Produktmarketing - Retro-Futurismus Smartwatch-Prompt
+### No. 84: Produktmarketing - Retro-Futurismus Smartwatch-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4846,7 +4783,7 @@ eine {argument name="object" default="tragbare Uhr"} im Stil von {argument name=
 
 ---
 
-### No. 86: Produktmarketing - Explosionszeichnung Autowerbung
+### No. 85: Produktmarketing - Explosionszeichnung Autowerbung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4886,7 +4823,7 @@ Ein hochwertiger Produktwerbe-Prompt für ein Auto, der eine Explosionszeichnung
 
 ---
 
-### No. 87: Produktmarketing - Zitrus-Produktfotografie
+### No. 86: Produktmarketing - Zitrus-Produktfotografie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4920,7 +4857,7 @@ Eine {argument name=\"bottle color\" default=\"leuchtend gelb-orange\"} Flasche 
 
 ---
 
-### No. 88: Produktmarketing - Editoriales Makro-Tassendesign
+### No. 87: Produktmarketing - Editoriales Makro-Tassendesign
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4954,7 +4891,7 @@ Ein sauberer, fotorealistischer Produktdesign-Prompt für eine Keramiktasse mit 
 
 ---
 
-### No. 89: Produktmarketing - Prompt für ein Kindermode-Editorial-Diptychon
+### No. 88: Produktmarketing - Prompt für ein Kindermode-Editorial-Diptychon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4987,7 +4924,7 @@ Ein Kindermode-Editorial-Diptychon vor blauem Hintergrund. Das linke Bild zeigt 
 
 ---
 
-### No. 90: Produktmarketing - Quiet Luxury Mode-Porträt
+### No. 89: Produktmarketing - Quiet Luxury Mode-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5020,7 +4957,7 @@ Ein professionelles Studio-Modeporträt einer anmutigen Frau, die an einer struk
 
 ---
 
-### No. 91: Produktmarketing - Hautpflegeprodukt-Werbung mit Wassermelone und Seifenblasen
+### No. 90: Produktmarketing - Hautpflegeprodukt-Werbung mit Wassermelone und Seifenblasen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5055,7 +4992,7 @@ Transparente, schwebende Seifenblasen füllen den Raum und reflektieren das Lich
 
 ---
 
-### No. 92: Produktmarketing - Vom Wind zerzauste Frau im Trenchcoat in einer europäischen Straße
+### No. 91: Produktmarketing - Vom Wind zerzauste Frau im Trenchcoat in einer europäischen Straße
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5088,7 +5025,7 @@ Eine dynamische Halbtotale zeigt eine junge kaukasische Frau mit langem braunen 
 
 ---
 
-### No. 93: Produktmarketing - Vertikale Collage eines stilvollen jungen Mannes
+### No. 92: Produktmarketing - Vertikale Collage eines stilvollen jungen Mannes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5121,7 +5058,7 @@ Eine filmische, dreiteilige vertikale Collage eines stilvollen jungen Mannes in 
 
 ---
 
-### No. 94: E-Commerce-Hauptbild - Knolling-Style Flat-Lay-Prompt mit beschrifteten Einzelteilen
+### No. 93: E-Commerce-Hauptbild - Knolling-Style Flat-Lay-Prompt mit beschrifteten Einzelteilen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5161,7 +5098,7 @@ Ultrarealistisches 8K-Produktfoto aus der Vogelperspektive in präziser Knolling
 
 ---
 
-### No. 95: E-Commerce-Hauptbild - Hochwertiges Foto einer eleganten chinesischen Frau in einem Luxusauto
+### No. 94: E-Commerce-Hauptbild - Hochwertiges Foto einer eleganten chinesischen Frau in einem Luxusauto
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5211,7 +5148,7 @@ Die gesamte Komposition ist ausgewogen, die Farben sind leuchtend, die Details s
 
 ---
 
-### No. 96: E-Commerce-Hauptbild - Produktfotografie für Luxus-Kaffeemarken
+### No. 95: E-Commerce-Hauptbild - Produktfotografie für Luxus-Kaffeemarken
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5244,7 +5181,7 @@ Eine Prompt-Idee für Nano Banana Pro zur Erstellung redaktioneller Produktfotos
 
 ---
 
-### No. 97: E-Commerce-Hauptbild - Generierung von Bildern für Luxus-Winterreifen
+### No. 96: E-Commerce-Hauptbild - Generierung von Bildern für Luxus-Winterreifen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5277,7 +5214,7 @@ Ein Prompt für den Nano Banana Pro Bildgenerator zur Erstellung eines hochdetai
 
 ---
 
-### No. 98: E-Commerce-Hauptbild - Mecha-Girl-Figurenkonzept, generiert von Nano Banana Pro
+### No. 97: E-Commerce-Hauptbild - Mecha-Girl-Figurenkonzept, generiert von Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5331,7 +5268,7 @@ Figur im Maßstab 1/7
 
 ---
 
-### No. 99: E-Commerce-Hauptbild - Makro-Produktfotografie von Schmuck an einem Model
+### No. 98: E-Commerce-Hauptbild - Makro-Produktfotografie von Schmuck an einem Model
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5365,7 +5302,7 @@ Ein hochauflösendes Makro-Produktfoto, das mit kompromissloser Präzision die h
 
 ---
 
-### No. 100: E-Commerce-Hauptbild - Exploded-Tilt-Ansicht: Sandwich-Produktfotografie
+### No. 99: E-Commerce-Hauptbild - Exploded-Tilt-Ansicht: Sandwich-Produktfotografie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5405,7 +5342,7 @@ Ein Prompt für Nano Banana 2 zur Erstellung hochwertiger kommerzieller Produktf
 
 ---
 
-### No. 101: E-Commerce-Hauptbild - Ultra-realistische filmische Honig-Produktaufnahme
+### No. 100: E-Commerce-Hauptbild - Ultra-realistische filmische Honig-Produktaufnahme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5445,7 +5382,7 @@ Ultra-realistische filmische Produktaufnahme eines Premium-Honigglases, platzier
 
 ---
 
-### No. 102: E-Commerce-Hauptbild - Ultrarealistische Produktaufnahme eines Parfüms
+### No. 101: E-Commerce-Hauptbild - Ultrarealistische Produktaufnahme eines Parfüms
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5497,7 +5434,7 @@ Ultrarealistische Premium-Produktaufnahme einer Parfümflasche ({argument name="
 
 ---
 
-### No. 103: E-Commerce-Hauptbild - Ultrarealistisches Produktfoto des Forest Essence Elixir Parfüms
+### No. 102: E-Commerce-Hauptbild - Ultrarealistisches Produktfoto des Forest Essence Elixir Parfüms
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5536,7 +5473,7 @@ Ultrarealistisches Premium-Produktfoto eines Parfümflakons (Forest Essence Elix
 
 ---
 
-### No. 104: E-Commerce-Hauptbild - Ultrarealistische Produktaufnahme von Incense Oud Body Wash
+### No. 103: E-Commerce-Hauptbild - Ultrarealistische Produktaufnahme von Incense Oud Body Wash
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5587,7 +5524,7 @@ Ultrarealistische Premium-Produktaufnahme einer Body-Wash-Flasche (Incense Oud B
 
 ---
 
-### No. 105: E-Commerce-Hauptbild - Hyperrealistisches Makrofoto einer Ananas in Saft
+### No. 104: E-Commerce-Hauptbild - Hyperrealistisches Makrofoto einer Ananas in Saft
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5620,7 +5557,7 @@ Eine hyperrealistische, filmische Makroaufnahme, vertikale Komposition (Seitenve
 
 ---
 
-### No. 106: E-Commerce-Hauptbild - Visualisierung einer zerlegten und montierten M DSLR-Kamera
+### No. 105: E-Commerce-Hauptbild - Visualisierung einer zerlegten und montierten M DSLR-Kamera
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5663,7 +5600,7 @@ Optische Bildstabilisierung
 
 ---
 
-### No. 107: E-Commerce-Hauptbild - Hyperrealistisches Produktfoto eines Kinder Joy Eis
+### No. 106: E-Commerce-Hauptbild - Hyperrealistisches Produktfoto eines Kinder Joy Eis
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5715,7 +5652,7 @@ Ein hyperrealistisches Produktfoto eines Kinder Joy Überraschungseis, das auf e
 
 ---
 
-### No. 108: E-Commerce-Hauptbild - Ultra-realistische Produktfotografie von Joghurt
+### No. 107: E-Commerce-Hauptbild - Ultra-realistische Produktfotografie von Joghurt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5766,7 +5703,7 @@ Ultrarealistische kommerzielle Produktfotografie eines Blaubeerjoghurtbechers, d
 
 ---
 
-### No. 109: Spiel-Asset - 3D Squishy-Bonbon-Alphabet
+### No. 108: Spiel-Asset - 3D Squishy-Bonbon-Alphabet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5800,7 +5737,7 @@ Ein verspielter Prompt zum Erstellen niedlicher, bonbonartiger 3D-Buchstaben von
 
 ---
 
-### No. 110: Spiel-Asset - Wikingische Baum-Schnitzereien
+### No. 109: Spiel-Asset - Wikingische Baum-Schnitzereien
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5852,7 +5789,7 @@ Ein hochdetaillierter Prompt zur Erstellung realistischer Holzschnitzereien best
 
 ---
 
-### No. 111: Spiel-Asset - Steampunk-Miniatur-Uhrwerkmaschine
+### No. 110: Spiel-Asset - Steampunk-Miniatur-Uhrwerkmaschine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5904,7 +5841,7 @@ Ein detaillierter Prompt zur Erstellung hyperrealistischer, komplexer Steampunk-
 
 ---
 
-### No. 112: Spiel-Asset - Filmische Dark-Fantasy-Szene einer elementaren Kollision
+### No. 111: Spiel-Asset - Filmische Dark-Fantasy-Szene einer elementaren Kollision
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5937,7 +5874,7 @@ Eine filmische Dark-Fantasy-Szene des hochgeladenen Referenzcharakters, der in e
 
 ---
 
-### No. 113: Spiel-Asset - Fotorealistisches Charakter-Referenzblatt-Prompt für Nano Banana Pro
+### No. 112: Spiel-Asset - Fotorealistisches Charakter-Referenzblatt-Prompt für Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5987,7 +5924,7 @@ Fotorealistisch, ultra-detailliert, scharfer Fokus, keine Requisiten, keine Waff
 
 ---
 
-### No. 114: Spiel-Asset - Test-Prompt für GTA 6 In-Game-Aufnahmen
+### No. 113: Spiel-Asset - Test-Prompt für GTA 6 In-Game-Aufnahmen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6026,7 +5963,7 @@ GTA 6 In-Game-Aufnahme, sehr detailliert, sehr realistisch. Nahaufnahme von eine
 
 ---
 
-### No. 115: Spiel-Asset - 3D-Charakterbogen für Varsity-Jacken-Prompt
+### No. 114: Spiel-Asset - 3D-Charakterbogen für Varsity-Jacken-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6060,7 +5997,7 @@ Ein fotorealistischer 3D-Charakterbogen einer männlichen Figur mit scharfem Fad
 
 ---
 
-### No. 116: Spiel-Asset - Nano Banana 2 Bildbearbeitungs-Prompt
+### No. 115: Spiel-Asset - Nano Banana 2 Bildbearbeitungs-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6099,7 +6036,7 @@ Nimm diesen Screenshot und bearbeite ihn. Die Grafik ist zu modern. Bitte lass d
 
 ---
 
-### No. 117: Spiel-Asset - Stangen-Transformator im TCG-Stil
+### No. 116: Spiel-Asset - Stangen-Transformator im TCG-Stil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6132,7 +6069,7 @@ ein Stangen-Transformator im Stil einer Sammelkartenspiel-Karte
 
 ---
 
-### No. 118: Spiel-Asset - Isometrische Luxus-Produktpräsentation einer Vinyl-Sammelfigur
+### No. 117: Spiel-Asset - Isometrische Luxus-Produktpräsentation einer Vinyl-Sammelfigur
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6166,7 +6103,7 @@ Isometrische Luxus-Produktpräsentation der Person aus dem Referenzfoto, neu int
 
 ---
 
-### No. 119: Spiel-Asset - Action-Pose-Sheet für eine Katze
+### No. 118: Spiel-Asset - Action-Pose-Sheet für eine Katze
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6217,7 +6154,7 @@ Character-Turnaround-Sheet derselben schlaksigen grauen Hauskatze mit übergroß
 
 ---
 
-### No. 120: Spiel-Asset - Hyperrealistisches 3D-Schachspiel für Rivalitäts-Themen
+### No. 119: Spiel-Asset - Hyperrealistisches 3D-Schachspiel für Rivalitäts-Themen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6286,13 +6223,46 @@ Ausgabe: Ein regelkonformes Schach-Setup mit sich gegenüberstehenden Armeen, 8k
 
 ---
 
+### No. 120: Spiel-Asset - Charakter neu gestaltet aus aufgeschnittenem Obst und Gemüse
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein detaillierter Prompt für Nano Banana Pro, der darauf ausgelegt ist, eine hochgeladene Charaktervorlage in ein realistisches 3D-Rendering zu verwandeln, das vollständig aus geschichteten, aufgeschnittenen Obst- und Gemüsescheiben besteht. Dabei bleiben die Proportionen, Farben und die Identität des ursprünglichen Charakters erhalten, während sichergestellt wird, dass alle Materialien, einschließlich der Schuhe, aus Obst- und Gemüsescheiben bestehen.
+
+#### 📝 Prompt
+
+```
+Erstelle eine Version dieses Charakters, die vollständig aus aufgeschnittenem Gemüse und Obst besteht. Gemüse und Obst: Sollten so genau wie möglich den Farben des hochgeladenen Charakters entsprechen, ohne deren natürliches Aussehen zu verändern. Scheiben: Leicht versetzt, mit sichtbaren Abständen zwischen den Schichten. Struktur: Ein kleiner Biss oben am Kopf, der eine saubere Schnittfläche bildet. Ambiente: Küchenumgebung, auf einem Schneidebrett mit verstreutem Gemüse und einem Messer in der Nähe. Kamera: Leicht von oben (Top-Down-Perspektive). Effekt: Tilt-Shift. Erhalt der Ähnlichkeit (KRITISCH): Behalte die exakten Proportionen, die Augenform, den Abstand, die Stilisierung, die Silhouette und die Materialidentität der Vorlage bei. Nicht vermenschlichen. Anatomie nicht neu interpretieren. Gesichtsstruktur nicht verändern. Die Identität muss perfekt erhalten bleiben und sofort erkennbar sein. Regeln zur Charakterkompatibilität: Wenn der hochgeladene Charakter 2D ist, konvertiere ihn in ein glaubwürdiges, realistisches 3D-Rendering, während das ursprüngliche Design, die Proportionen, die Farben und die visuelle Identität erhalten bleiben. Gesichtsstruktur nicht verändern. Füge keinen Mund oder keine Nase hinzu, wenn der hochgeladene Charakter diese nicht besitzt. 👟 MATERIAL-ÜBERSCHREIBUNG FÜR SCHUHE & ACCESSOIRES (KRITISCHE KORREKTUR) Alle Teile des Charakters, einschließlich Schuhe und Kleidung, müssen der gleichen Konstruktion aus Obst- und Gemüsescheiben folgen. • Schuhe müssen vollständig aus gestapelten Obst- und Gemüsescheiben bestehen. • Bewahre die exakte Schuhform, Proportionen und das Design. • Erstelle Paneele, Sohle und Details mithilfe von geschichteten Scheiben nach. Materialbeispiele für Schuhe: • Sohle → dicht gestapelte Kartoffel- oder Wurzelgemüsescheiben. • Obermaterial-Paneele → Obst-/Gemüsescheiben, die passend zum ursprünglichen Color-Blocking angeordnet sind. • Kanten und Nähte → sichtbare Schichtung und Trennung der Scheiben. 📷⚠️ 0px; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;"> WICHTIG: Es dürfen keine ursprünglichen Materialien verbleiben (kein Stoff, Gummi oder Leder). Alles muss in eine Konstruktion aus Obst-/Gemüsescheiben umgewandelt werden, während das ursprüngliche Design erkennbar bleibt. ar 1:1
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1775112279816_ougqwk_HE2DyO3WwAAhQtr.jpg" width="600" alt="Spiel-Asset - Charakter neu gestaltet aus aufgeschnittenem Obst und Gemüse - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Edizkan ⭕🦇](https://x.com/edizkan_)
+- **Quelle:** [Twitter Post](https://x.com/edizkan_/status/2039431574916104474)
+- **Veröffentlicht:** 1. April 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=13115)**
+
+---
+
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 12347 weitere Prompts hier nicht angezeigt
+### 🎯 12348 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6355,6 +6325,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-04-16T04:59:18.553Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-04-16T08:31:38.312Z</sub>
 
 </div>
