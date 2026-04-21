@@ -118,7 +118,7 @@ function generateHeader(locale: string): string {
   <img src="https://marketing-assets.youmind.com/campaigns/nano-banana-pro-prompts-og-hq.png" alt="Nano Banana Pro Prompts" width="100%" />
 </a>
 
-> 💡 ${t('gptImage2Promo', locale)}
+${t('gptImage2Promo', locale)}
 # 🚀 ${t('title', locale)}
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
