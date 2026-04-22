@@ -7,6 +7,10 @@
   <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png" alt="GPT Image 2 Prompts" width="100%" />
 </a>
 
+> 💡 <a href="https://github.com/YouMind-OpenLab/awesome-gpt-image-2">
+  <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png" alt="GPT Image 2 Prompts" width="100%" />
+</a>
+
 > 💡 🎨 GPT Image 2 İstemler koleksiyonumuza göz atın — yeni nesil görsel modeli, her gün güncellenir 👉 [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 # 🚀 Harika Nano Banana Pro İstemleri
 
@@ -145,7 +149,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **12566** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **22 Nisan 2026 Çarşamba 04:20:19 UTC** |
+| 🔄 Son Güncelleme | **22 Nisan 2026 Çarşamba 04:48:15 UTC** |
 
 </div>
 
@@ -5706,6 +5710,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-22T04:20:19.366Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-22T04:48:15.075Z</sub>
 
 </div>

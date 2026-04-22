@@ -7,6 +7,10 @@
   <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png" alt="GPT Image 2 Prompts" width="100%" />
 </a>
 
+> 💡 <a href="https://github.com/YouMind-OpenLab/awesome-gpt-image-2">
+  <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png" alt="GPT Image 2 Prompts" width="100%" />
+</a>
+
 > 💡 🎨 Découvrez notre collection de prompts GPT Image 2 — le modèle d'image de nouvelle génération, mis à jour quotidiennement 👉 [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 # 🚀 Prompts Nano Banana Pro Géniaux
 
@@ -145,7 +149,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **12566** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **mercredi 22 avril 2026 à 04:20:03 UTC** |
+| 🔄 Dernière mise à jour | **mercredi 22 avril 2026 à 04:47:58 UTC** |
 
 </div>
 
@@ -5704,6 +5708,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-04-22T04:20:03.438Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-04-22T04:47:58.205Z</sub>
 
 </div>

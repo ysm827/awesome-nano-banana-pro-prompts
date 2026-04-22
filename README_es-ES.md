@@ -7,6 +7,10 @@
   <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png" alt="GPT Image 2 Prompts" width="100%" />
 </a>
 
+> 💡 <a href="https://github.com/YouMind-OpenLab/awesome-gpt-image-2">
+  <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png" alt="GPT Image 2 Prompts" width="100%" />
+</a>
+
 > 💡 🎨 Echa un vistazo a nuestra colección de prompts GPT Image 2 — el modelo de imagen de nueva generación, actualizados diariamente 👉 [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 # 🚀 Prompts Increíbles de Nano Banana Pro
 
@@ -145,7 +149,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **12566** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **miércoles, 22 de abril de 2026, 4:19:51 UTC** |
+| 🔄 Última actualización | **miércoles, 22 de abril de 2026, 4:47:46 UTC** |
 
 </div>
 
@@ -5706,6 +5710,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-04-22T04:19:51.969Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-04-22T04:47:46.824Z</sub>
 
 </div>
